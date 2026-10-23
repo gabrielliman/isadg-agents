@@ -34,7 +34,7 @@ flowchart LR
     N --> DB[(ChromaDB<br/>all-MiniLM-L6-v2)]
     N --> A["Archivist Agent<br/>Nemotron-3-Super-120B-A12B"]
     DB -->|k = 3| A
-    A --> J[ISAD(G) JSON]
+    A --> J["ISAD(G) JSON"]
 ```
 
 | Agent | Model (NVIDIA NIM) | Role |
