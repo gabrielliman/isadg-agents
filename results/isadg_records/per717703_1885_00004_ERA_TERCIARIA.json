@@ -1,0 +1,42 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_ERA_TERCIARIA",
+        "titulo": "Estudo especial dos Echinodermos",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento aborda o estudo especial dos Echinodermos, sua divisão em quatro ordens, descrição das principais espécies de Echinidos dos terrenos jurássicos e cretáceos, estudo dos Rudistos e dos Belemnitos (incluindo Ammonitos de giros não contíguos), noções sobre a flora secundária e os terrenos secundários do Brasil (Bahia, Sergipe, Alagoas, Pernambuco, Ceará, Piauí, Amazonas e Rio Grande do Sul). Posteriormente trata da Era Terciária, seus caracteres paleontológicos gerais, grandes divisões, trabalhos de Gaudry e Mayer, detalhamento do Eocênico (bacia de Paris, América do Norte), fauna (Gasterópodos, Acephalos, mamíferos eocênicos), Miocênico e Pliocênico, descrição desses terrenos na França, Itália e Inglaterra, estudo especial dos mamíferos, flora terciária, depósitos de Eningen e Koumi, terrenos terciários do Brasil e da República Argentina, e finalmente a Era Quaternária na Europa, com depósitos de grutas e período glacial."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Hartt",
+            "Derby",
+            "Gaudry",
+            "Mayer"
+        ],
+        "lugares": [
+            "Bahia",
+            "Sergipe",
+            "Alagoas",
+            "Pernambuco",
+            "Ceará",
+            "Piauí",
+            "Amazonas",
+            "Rio Grande do Sul",
+            "França",
+            "Itália",
+            "Inglaterra",
+            "Bacia de Paris",
+            "América do Norte",
+            "Eningen",
+            "Koumi",
+            "Brasil",
+            "República Argentina"
+        ]
+    },
+    "pagina_inicio": 306,
+    "pagina_fim": 307
+}

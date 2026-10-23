@@ -1,0 +1,20 @@
+Reading data from results/metrics/normalization_tokens.csv...
+
+=================================================================
+INTRALINGUAL NORMALIZATION STATISTICS
+=================================================================
+
+[!] INVALID NORMALIZATIONS (omission / severe summarization)
+-----------------------------------------------------------------
+Number of files       : 34
+Input tokens (mean)   : 3074.56 (± 2195.31)
+Output tokens (mean)  : 1738.00 (± 881.42)
+
+[+] VALID NORMALIZATIONS (structure preserved)
+-----------------------------------------------------------------
+Number of files       : 211
+Input tokens (mean)   : 378.41 (± 431.74)
+Output tokens (mean)  : 381.14 (± 445.84)
+Length change (mean)  : -21.47 characters (± 514.26)
+
+=================================================================

@@ -1,0 +1,21 @@
+# Credentials
+.env
+
+# Scanned editions (~185 MB), see data/editions/README.md
+data/editions/*.pdf
+
+# Vector store rebuilt by the pipeline
+results/vector_db/
+
+# LaTeX build files
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

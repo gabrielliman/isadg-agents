@@ -1,0 +1,44 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_Mattas.-Vegetação.-Clima",
+        "titulo": "Não identificado",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição da região de Dôres do Indaiá, destacando a diminuição no plantio de café, a necessidade de estradas ou ferrovia para escoamento da produção, detalhes geográficos da serra das Vertentes e suas divisórias de águas, menções a recursos naturais como madeira, salitre e calcário, e referências a projetos de estrada entre Oliveira e São João d’El-Rei."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Antônio Alves F. Campos"
+        ],
+        "lugares": [
+            "Dôres do Indaiá",
+            "Alto das Taipas",
+            "Tamanduá",
+            "serra de Pitangui",
+            "serra da Boa Esperança",
+            "Bambuhy",
+            "serra de Piumhy",
+            "Cachoeira da Bocaina",
+            "Oliveira",
+            "São João d’El-Rei",
+            "Formiga",
+            "Abaeté",
+            "Pitangui",
+            "serra de Itatiaiossú",
+            "rio São João",
+            "mata da Conquista",
+            "mata do Chumbo",
+            "Povoação do Chumbo",
+            "mata da Corda",
+            "Govaz",
+            "rio São Francisco",
+            "mata do São Francisco"
+        ]
+    },
+    "pagina_inicio": 90,
+    "pagina_fim": 91
+}

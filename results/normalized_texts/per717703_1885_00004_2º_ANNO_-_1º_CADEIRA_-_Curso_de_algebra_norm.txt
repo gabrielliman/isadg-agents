@@ -1,0 +1,21 @@
+2º ANNO 1º CADEIRA  
+Curso de álgebra.  
+1ª Parte  
+Cálculo dos radicais.  
+Cálculo das expressões imaginárias.  
+Revisão da parte do curso do 1º ano que se refere a equações do 2º grau e à resolução e discussão de problemas do 2º grau a uma ou mais incógnitas.  
+Primeiras noções sobre as funções e suas variações.  
+Representação gráfica da variação de uma função contínua de uma variável.  
+Teoria elementar dos máximos e mínimos.  
+Estudo da variação do trinômio do 2º grau, do quociente de dois trinômios do 2º grau e de outras funções simples de uma variável.  
+Expoentes fracionários, positivos ou negativos.  
+Cálculo das expressões afetas desses expoentes.  
+Demonstração de algumas proposições sobre limites.  
+Significação de a^x, quando x é incomensurável.  
+Cálculo das expressões afetas de expoentes incomensuráveis.  
+Teoria dos logaritmos considerados como expoentes.  
+Identidade entre os logaritmos assim considerados e os logaritmos definidos como termos de uma progressão.  
+Cálculo e uso de tabelas de logaritmos.  
+Observações sobre as aproximações fornecidas pelas tabelas.  
+Resolução de equações exponenciais.  
+Observações sobre as questões de juros e anuidades.

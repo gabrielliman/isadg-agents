@@ -1,0 +1,19 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_Quadro_synoptico_de_todas_as_lavras_de_ouro_do_mun",
+        "titulo": "Quadro sinóptico de todas as lavras de ouro do município de Ouro Preto na província de Minas Gerais",
+        "data": "1814"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Tabela sinótica contendo os nomes dos proprietários e dos lugares das lavras de ouro do município de Ouro Preto, qualidade da lavra, número de trabalhadores e quantidade de ouro extraído em 1814."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": []
+    },
+    "pagina_inicio": 163,
+    "pagina_fim": 163
+}

@@ -1,0 +1,21 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_Divisao_sem_Titulo",
+        "titulo": "Proteção dos trens.",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "O professor Arthur Thire"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Texto sobre proteção dos trens, sinais fixos, manuais e sonoros, disposições para evitar colisões, organização do movimento dos trens, block-system, freios à mão e contínuos, contra-vapor, comunicação entre passageiros e agentes, bitolas diversas, estradas de ferro de bitola estreita, sistemas excepcionais de tração, tráfego e organização financeira das companhias de estradas de ferro e suas relações com o Estado nos diversos países."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Arthur Thire"
+        ],
+        "lugares": []
+    },
+    "pagina_inicio": 161,
+    "pagina_fim": 161
+}

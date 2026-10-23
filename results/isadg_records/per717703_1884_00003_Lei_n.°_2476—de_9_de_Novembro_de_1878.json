@@ -1,0 +1,27 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_Lei_n.°_2476—de_9_de_Novembro_de_1878",
+        "titulo": "Lei n.° 2476—de 9 de Novembro de 1878 Organiza a receita e fixa a despesa para o ano financeiro de 1879 a 1880",
+        "data": "23 de Março de 1878"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Secretaria da Presidência da Província de Minas Geraes"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Regulamento que estabelece procedimentos para a cobrança de impostos, incluindo recursos à tesouraria provincial e ao presidente da província, prazos para pagamento, restituição de valores excessivamente pagos e sanções para infrações."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Elias Pinto de Carvalho",
+            "Cândido Augusto da Cruz",
+            "Joaquim José de Sant’Anna"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Minas Gerais",
+            "Recife"
+        ]
+    },
+    "pagina_inicio": 228,
+    "pagina_fim": 228
+}

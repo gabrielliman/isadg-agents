@@ -1,0 +1,34 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_JAZIDAS_DE_TOPAZIOS",
+        "titulo": "Jazidas de Topázios",
+        "data": "1.° de Fevereiro de 1881"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Escola de Minas de Ouro Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição das jazidas de topázio na região de Ouro Preto, detalhando as duas linhas topazíferas, a estratigrafia da jazida da Boa Vista (camadas de conglomerado, areia quartzosa, xistos argilosos, rochas fibrosas, etc.), os minerais associados (quartzo, lithomargia, topázio) e as condições de exploração a talho aberto."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "João Victor de Magalhães Gomes",
+            "Eschwege",
+            "Liais"
+        ],
+        "lugares": [
+            "Serra da Mantiqueira",
+            "Serra da Cachoeira",
+            "Boa Vista",
+            "José Correia",
+            "Capão",
+            "Vira-saia",
+            "Seramenha",
+            "Fundão",
+            "morro do Caxambú",
+            "Ouro Preto"
+        ]
+    },
+    "pagina_inicio": 25,
+    "pagina_fim": 32
+}

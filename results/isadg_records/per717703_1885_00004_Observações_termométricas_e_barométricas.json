@@ -1,0 +1,22 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Observações_termométricas_e_barométricas",
+        "titulo": "Observações termométricas e barométricas",
+        "data": "Maio (dias 14 a 24)"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Tabela de observações termométricas e barométricas realizadas diariamente, contendo registros dos dias 14 a 24 de maio com valores de temperatura e pressão em local não especificado (possivelmente Povoação do Chumbo). O documento também menciona mapas de distâncias relativas, alturas de pontos notáveis relativamente a Ouro-Preto e um mapa itinerário segundo Gerber."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Povoação do Chumbo",
+            "Ouro-Preto"
+        ]
+    },
+    "pagina_inicio": 139,
+    "pagina_fim": 139
+}

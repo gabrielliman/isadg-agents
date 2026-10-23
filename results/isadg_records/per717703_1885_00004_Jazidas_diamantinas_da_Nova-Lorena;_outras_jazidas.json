@@ -1,0 +1,39 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Jazidas_diamantinas_da_Nova-Lorena;_outras_jazidas",
+        "titulo": "Jazidas diamantinas da Nova-Lorena",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição das jazidas diamantinas da região de Nova-Lorena, incluindo a localização das corredeiras, rios e serras, a caracterização dos serviços de rio, grupiaras e campos, a comparação com as jazidas de Diamantina, a crítica aos limites propostos por Dr. Couto e detalhes sobre a topografia, geologia e potencial econômico dos afluentes do São Francisco, como o Ribeirão do Boi e o Rio de Janeiro."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Dr. Couto"
+        ],
+        "lugares": [
+            "Nova-Lorena",
+            "Ribeirão do Boi",
+            "Cachoeira-Grande",
+            "Serra do Piancó",
+            "Serra do Espírito Santo",
+            "Rio São Francisco",
+            "Rio das Velhas",
+            "Rio de Janeiro (curso d'água)",
+            "Andrequicé",
+            "Boa Vista / Hypolyta",
+            "Porto da Cachoeira-Grande",
+            "Porto da Passagem do Espírito-Santo",
+            "Barra do Borrachudo",
+            "Barra do Espírito-Santo",
+            "Barra do Abaeté",
+            "Curvelo",
+            "Andraquicé"
+        ]
+    },
+    "pagina_inicio": 100,
+    "pagina_fim": 103
+}

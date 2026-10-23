@@ -1,0 +1,26 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_CAVERNAS_EXISTENTES_NO_CALCAREO_DO_INTERIOR_DO_BRA",
+        "titulo": "Memória Copenhague, 1836",
+        "data": "1836"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Pedro W. Lund"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição das cavernas calcárias do interior do Brasil, sua formação pela dissolução do calcário, presença de ossadas fósseis, importância como monumento natural, recurso científico e médico, além de observações sobre a vegetação dos planaltos centrais do Brasil e a história das plantas."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Pedro W. Lund",
+            "Leonidas Damázio Botelho"
+        ],
+        "lugares": [
+            "Interior do Brasil",
+            "Planaltos centrais do Brasil",
+            "Copenhague"
+        ]
+    },
+    "pagina_inicio": 57,
+    "pagina_fim": 57
+}

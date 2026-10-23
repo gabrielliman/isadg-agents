@@ -1,0 +1,73 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_População._-_Distâncias",
+        "titulo": "População. - Distâncias",
+        "data": "Abril de 1880"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Francisco de Paula Oliveira"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Relato de viagem pelo Oeste da província, descrevendo a extensão territorial, os recursos naturais, a população escassa e as dificuldades de comunicação e transporte. Apresenta dados populacionais dos municípios de Bomfim, Itatiaios-sú e Pitanguy, observa a baixa participação na lavoura e na criação de gado, menciona a indolência da população e a facilidade de viver quase sem trabalhar devido à fertilidade do solo. Inclui um cálculo aproximado das distâncias entre diversas localidades, desde Ouro Preto até a povoação do Chumbo e o retorno passando por Dôres, Formiga e Oliveira, terminando com reflexões sobre o potencial econômico da região e um apelo para que autoridades invistam na sua prosperidade."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Francisco de Paula Oliveira",
+            "Martinho Contagem",
+            "Barão do Indaiá",
+            "Antônio Alves F. Campos",
+            "Dr. Valladares",
+            "José Vieira",
+            "Sr. Lucas",
+            "Capitão Carlos Ribeiro"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Pitanguy",
+            "Abaeté",
+            "Bomfim",
+            "Itatiaios-sú",
+            "Marmelada",
+            "Areão",
+            "Ponte do rio S. João",
+            "Arraial de Sant’Anna",
+            "Arraial de Santo Antônio",
+            "Fazenda da Gamelleira",
+            "Fazenda do Dr. Valladares",
+            "Fazenda do Sr. José Vieira",
+            "Arraial da Abadia",
+            "Cidade do Abaeté",
+            "Fazenda de Santa Anna",
+            "Fazenda do Jatahy",
+            "Arraial dos Tiros",
+            "Fazenda do Sr. Lucas",
+            "Povoação do Chumbo",
+            "Arraial do Areado",
+            "Fazenda do Barração",
+            "Babylônia",
+            "Vila do Carmo",
+            "S. Francisco do Campo Grande",
+            "Arraial do Confinsão",
+            "Margens do rio Indaiá",
+            "Cidade de Dôres",
+            "Porto de Bernardo",
+            "Machados",
+            "Grottadas",
+            "S. Sinuão",
+            "S. Domingos",
+            "Formiga",
+            "Arraial dos Areos",
+            "Fazenda do capitão Carlos Ribeiro",
+            "Vieiras",
+            "Cidade de Oliveira",
+            "Arraial de S. João Baptista",
+            "Corisco",
+            "Entre Rios (vila)",
+            "Ouro Branco",
+            "Serra de Itatiaiossú",
+            "Rio São João"
+        ]
+    },
+    "pagina_inicio": 95,
+    "pagina_fim": 97
+}

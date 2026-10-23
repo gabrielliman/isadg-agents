@@ -1,0 +1,24 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_NOTICIA_SOBRE_A_REFORMA_DA_ESCOLA_DE_MINAS_DE_OURO",
+        "titulo": "Notícia sobre a Reforma da Escola de Minas de Ouro Preto",
+        "data": "3 de Setembro de 1884"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "A notícia descreve as modificações introduzidas no ensino da Escola de Minas de Ouro Preto em virtude da Lei Mineira nº 3.185 de 13 de agosto de 1884 e da Lei Geral nº 3.230 de 3 de setembro de 1884, que autorizam o Presidente da Província a subsidiar a instituição para criação de novas cadeiras, laboratórios, oficinas, aquisição de máquinas, instrumentos, modelos e materiais para viagens e explorações científicas, além de aposentadoria de novos professores. Também menciona a viagem de estudos metalúrgicos de Joaquim Candido da Costa Sena, análises nos laboratórios de química e docimásia, e estatísticas da produção de ouro em Minas Gerais em 1879."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Joaquim Candido da Costa Sena"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Minas Gerais"
+        ]
+    },
+    "pagina_inicio": 193,
+    "pagina_fim": 193
+}

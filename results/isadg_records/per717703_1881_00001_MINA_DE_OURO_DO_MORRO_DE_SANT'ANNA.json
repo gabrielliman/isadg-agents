@@ -1,0 +1,31 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_MINA_DE_OURO_DO_MORRO_DE_SANT'ANNA",
+        "titulo": "Estudo das minas de Morro de Sant'Anna e região",
+        "data": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição detalhada das operações de extração e preparação mecânica de minérios de ouro e ferro nas minas de Morro de Sant'Anna, Mina do Maquiné, Mina do Pitanguy e Mina do Pary, incluindo o uso de aparelhos de britagem, troméis, wagons, sistemas de bombeamento e drenagem, bem como os desafios relacionados à escassez de mão de obra, força motriz e condições geológicas. O relato aborda ainda a organização das galerias, o transporte do minério por cabos e trilhos, a classificação por grossura e densidade, e observações sobre a viabilidade econômica das instalações existentes."
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Companhia Inglesa"
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Bernardo Magalhães"
+        ],
+        "lugares": [
+            "Morro de Sant'Anna",
+            "Mariana",
+            "Ouro Preto",
+            "Arraial do Passagem",
+            "Mina do Maquiné",
+            "Mina do Pitanguy",
+            "Mina do Pary",
+            "Arraial de Cattas Altas",
+            "Serra do Caraça"
+        ]
+    },
+    "pagina_inicio": 104,
+    "pagina_fim": 115
+}

@@ -1,0 +1,32 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_FORJA_ITALIANA",
+        "titulo": "Forja Italiana",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Commendador Viana"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição técnica da forja italiana, detalhando as dimensões e construção do cadinho (comprimento 1,50‑1,70 m, largura 0,70‑1,00 m, profundidade 0,65‑0,90 m), materiais (quartzito ou grés, com face de latario de duas chapas de ferro), operação do processo de redução de minério, uso de trompa, martelo e telheiro, fluxo de trabalho (carregamento de minério, adição de carvão e greillade, formação da lupa e extração da bola), além de referências a experiências com diferentes tipos de carvão e minério, comparações com forjas catalãs e de Wallespire, e observações sobre a qualidade do ferro produzido."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Commendador Viana",
+            "François",
+            "D. Anna",
+            "João de Araújo"
+        ],
+        "lugares": [
+            "Areado",
+            "Itabira",
+            "morro S. Vicente",
+            "Wallespire",
+            "catalã",
+            "Pireneus",
+            "Alpes"
+        ]
+    },
+    "pagina_inicio": 130,
+    "pagina_fim": 149
+}

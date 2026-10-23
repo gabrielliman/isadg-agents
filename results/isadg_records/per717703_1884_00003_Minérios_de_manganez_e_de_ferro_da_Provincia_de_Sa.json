@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_Minérios_de_manganez_e_de_ferro_da_Provincia_de_Sa",
+        "titulo": "235 Minérios de manganês e de ferro da Província de Santa Catarina",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Leonidas Damázio Botelho"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Relatório contendo análises químicas de amostras de minérios de manganês e ferro da Província de Santa Catarina, apresentando percentuais de sesquióxido de ferro, bióxido de manganês, carbonato de cálcio, magnésia, quartzo e outros componentes."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Leonidas Damázio Botelho"
+        ],
+        "lugares": [
+            "Província de Santa Catarina"
+        ]
+    },
+    "pagina_inicio": 220,
+    "pagina_fim": 220
+}

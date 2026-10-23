@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_S._Barbara_Mining_Company",
+        "titulo": "Relatório técnico da S. Barbara Mining Company sobre a mina de Pary",
+        "data": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento descreve as atividades da S. Barbara Mining Company na mina de Pary, localizada na encosta do morro que desce até a margem esquerda do rio S. Francisco. Detalha a geologia do veio-camada de pirites de ferro e arsênicas, quartzo, anfibólios, granadas e mica, sua orientação N.S., inclinação de 45° a 50° para leste e potência regular de 2 a 2,5 m. Explica a divisão da camada em uma parte superior estéril (quartzo, anfibólio, granada e mica) e uma parte inferior aurífera (quartzo e pirites) semelhante ao minério de Morro Velho. Descreve as obras de mineração: galeria horizontal, plano inclinado de extração com trilhos de madeira, sistemas de transporte de minério em carrinhos e wagons, e o uso de dois manejos movidos por bestas para operação do plano inclinado e das bombas de drenagem. Aborda o processamento do minério nos quatro engenhos de madeira da companhia, incluindo a britagem, escolha manual por mulheres, lavagem em mesas dormentes, amalgamação em barris e recuperação de ouro. Fornece dados de produção: em novembro de 1880, 1105 toneladas renderam 14.343 gr de ouro (≈12,98 g/t); menciona projeções para 1879 e 1881, a relação entre minério aurífero e material estéril, e a baixa eficiência atribuída à falta d’água e altura de queda. Também menciona a existência de trabalhadores escravos e o projeto de um canal de derivação de mais de 12 km para melhorar o abastecimento hídrico."
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "S. Barbara Mining Company"
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Pary",
+            "Rio S. Francisco",
+            "Morro Velho"
+        ]
+    },
+    "pagina_inicio": 82,
+    "pagina_fim": 86
+}

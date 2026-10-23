@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_ANNAES_DA_ESCOLA_DE_MINAS_DE_OURO_PRETO",
+        "titulo": "Anais da Escola de Minas de Ouro Preto",
+        "data": "1881"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Escola de Minas de Ouro Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Coleção de memórias e notícias sobre mineralogia, geologia e explorações das minas no Brasil."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Rio de Janeiro",
+            "Ouro Preto",
+            "Brasil"
+        ]
+    },
+    "pagina_inicio": 2,
+    "pagina_fim": 2
+}

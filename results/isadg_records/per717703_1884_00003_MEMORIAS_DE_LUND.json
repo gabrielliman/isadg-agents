@@ -1,0 +1,26 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_MEMORIAS_DE_LUND",
+        "titulo": "Memórias de Lund",
+        "data": "Copenhague, 1836"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "PEDRO W. LUND"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Cavernas existentes no calcário do interior do Brasil, contendo algumas delas ossadas fósseis"
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Pedro W. Lund",
+            "Leonidas Damázio Botelho"
+        ],
+        "lugares": [
+            "interior do Brasil",
+            "Copenhague",
+            "Escola de Minas de Ouro Preto"
+        ]
+    },
+    "pagina_inicio": 56,
+    "pagina_fim": 56
+}

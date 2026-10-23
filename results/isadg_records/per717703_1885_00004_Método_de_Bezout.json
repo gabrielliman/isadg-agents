@@ -1,0 +1,19 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Método_de_Bezout",
+        "titulo": "Programa de Matemática e Geometria",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento descreve o programa de estudos de matemática, abordando o método de Bezout, problemas do primeiro grau com duas ou mais incógnitas, discussão de fórmulas gerais para sistemas de duas equações do primeiro grau, desigualdades, radicais do segundo grau, resolução de equações do segundo grau, propriedades das raízes, decomposição de trinômios, desigualdades do segundo grau, equações biquadradas, transformação de expressões radiais, equações recíprocas, equações binomiais e trinomiais, equações do segundo grau com mais de uma incógnita em casos particulares, problemas do segundo grau, noções de variação de funções, máximos e mínimos, progressões aritméticas e geométricas, logaritmos elementares, uso de tábuas, juros compostos, anuidades, e inclui também um programa de geometria com linhas, superfícies, figuras, ângulos e suas classificações."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": []
+    },
+    "pagina_inicio": 202,
+    "pagina_fim": 202
+}

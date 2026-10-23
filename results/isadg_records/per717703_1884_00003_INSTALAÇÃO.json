@@ -1,0 +1,24 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_INSTALAÇÃO",
+        "titulo": "Forja situada a dez quilômetros ao norte de Conceição",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição de uma forja localizada a aproximadamente 10 km ao norte de Conceição, composta por telheiro de 27 m de comprimento, 8,80 m de largura e 8 m de altura, com meia-água de proteção, cadinho italiano modificado, malho, trompa e bica de madeira. O abastecimento hídrico provém do corrego do Macuco, complementado por sobras de canal e fontes superiores, permitindo o funcionamento de pequenos martinetes para fabricação de ferramentas de lavoura. Também menciona um reservatório de carvão, divisão da meia-água em cômodos para mestre de forja e armazenamento, e uma segunda forja semelhante às catalãs."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "mestre de forja"
+        ],
+        "lugares": [
+            "Conceição",
+            "Corrego do Macuco"
+        ]
+    },
+    "pagina_inicio": 171,
+    "pagina_fim": 171
+}

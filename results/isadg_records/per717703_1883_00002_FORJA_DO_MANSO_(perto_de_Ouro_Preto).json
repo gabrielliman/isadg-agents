@@ -1,0 +1,27 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_FORJA_DO_MANSO_(perto_de_Ouro_Preto)",
+        "titulo": "FORJA DO MANSO (perto de Ouro Preto)",
+        "data": "23 de Fevereiro de 1833"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Escola de Ouro Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Análise química de escórias da Forja do Manso e de amostras de minérios de chumbo encontradas em Apiahy, incluindo percentuais de ferro, sílica, alumina, chumbo e prata."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "D. Rocha",
+            "L. F. Gonzaga de Campos"
+        ],
+        "lugares": [
+            "FORJA DO MANSO",
+            "Ouro Preto",
+            "Apiahy",
+            "Província de São Paulo"
+        ]
+    },
+    "pagina_inicio": 134,
+    "pagina_fim": 134
+}

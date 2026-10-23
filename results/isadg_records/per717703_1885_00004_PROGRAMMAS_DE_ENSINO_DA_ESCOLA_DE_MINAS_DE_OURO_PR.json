@@ -1,0 +1,22 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_PROGRAMMAS_DE_ENSINO_DA_ESCOLA_DE_MINAS_DE_OURO_PR",
+        "titulo": "Notícia sobre as modificações introduzidas na Escola de Minas de Ouro Preto",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Escola de Minas de Ouro Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Notícia que descreve as modificações introduzidas na Escola de Minas de Ouro Preto, incluindo os programas de ensino do curso geral e os programas específicos dos cursos de estradas de ferro, resistência de materiais e construção."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Ouro Preto",
+            "Escola de Minas de Ouro Preto"
+        ]
+    },
+    "pagina_inicio": 198,
+    "pagina_fim": 199
+}

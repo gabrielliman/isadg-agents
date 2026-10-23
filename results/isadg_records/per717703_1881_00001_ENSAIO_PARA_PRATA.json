@@ -1,0 +1,22 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_ENSAIO_PARA_PRATA",
+        "titulo": "94 ENSAIO PARA PRATA",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Relato de ensaio químico para determinação de prata em minério, contendo descrição da matéria empregada, quantidades de fundentes (lithargyrio), resultados do botão de chumbo obtido após cupelação e cálculo da riqueza em prata por 100 kg de chumbo."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Boa Vista",
+            "Ouro Preto"
+        ]
+    },
+    "pagina_inicio": 101,
+    "pagina_fim": 101
+}

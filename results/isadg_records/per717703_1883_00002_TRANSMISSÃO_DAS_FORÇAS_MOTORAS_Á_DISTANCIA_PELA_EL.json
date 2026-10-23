@@ -1,0 +1,21 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_TRANSMISSÃO_DAS_FORÇAS_MOTORAS_Á_DISTANCIA_PELA_EL",
+        "titulo": "TRANSMISSÃO DAS FORÇAS MOTORAS A DISTÂNCIA PELA ELECTRICIDADE SOBRE A INCOMPATIBILIDADE QUE EXISTE, NA TRANSMISSÃO ELECTRICA DA FORÇA, ENTRE UM GRANDE RENDIMENTO E UMA GRANDE CAPACIDADE DE TRANSMISSÃO.",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "A. THIRÉ"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento trata da transmissão de força motora a distância pela electricidade, apresentando as equações que relacionam o trabalho motor fornecido à geradora (Tm), o trabalho útil transmitido à receptora (Tu), a força eletromotora (E, E'), a intensidade da corrente (I) e a resistência do circuito (S). Discute a incompatibilidade entre grande rendimento e grande capacidade de transmissão na transmissão elétrica de força."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "A. THIRÉ"
+        ],
+        "lugares": []
+    },
+    "pagina_inicio": 100,
+    "pagina_fim": 100
+}

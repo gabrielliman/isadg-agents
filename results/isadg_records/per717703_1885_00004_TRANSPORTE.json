@@ -1,0 +1,25 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_TRANSPORTE",
+        "titulo": "Relatório sobre o transporte de minério para os fornos altos",
+        "data": "Junho de 1881"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Fábrica de imensa utilidade"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descreve o funcionamento das sapatas e pilões movidos por roda hidráulica, a quantidade de minério processada, a mão de obra envolvida, e detalha o sistema de transporte do minério mediante tramway de 4.200 m, vagões duplos, tração animal e uso de freios, destacando a economia introduzida em junho de 1881."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "depósito do forno alto",
+            "rampa de 12%",
+            "segundo quilômetro",
+            "oficina de preparação mecânica",
+            "Fábrica de imensa utilidade"
+        ]
+    },
+    "pagina_inicio": 54,
+    "pagina_fim": 54
+}

@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Composição_dos_edifícios",
+        "titulo": "330 Composição dos edifícios",
+        "data": "Outubro de 1885"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "D. Rocha"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Escolas. Bibliotecas. Museus. Habitações. Projeto de habitações particulares. Casas de campo. Oficinas. Forjas. Armazéns. Mercados. Edifícios religiosos. Templos antigos. Igrejas. Estilo Latino. Estilo Bizantino. Estilo Lombardo. Estilo Romano. Estilo ogival. Estilo da Renascença. Estilo moderno. Templos protestantes."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "D. Rocha"
+        ],
+        "lugares": [
+            "Ouro Preto"
+        ]
+    },
+    "pagina_inicio": 298,
+    "pagina_fim": 298
+}

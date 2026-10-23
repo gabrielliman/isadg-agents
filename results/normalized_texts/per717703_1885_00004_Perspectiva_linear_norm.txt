@@ -1,0 +1,21 @@
+Perspectiva linear
+
+I. PRINCÍPIOS DE PERSPECTIVA
+
+Noções gerais. — Perspectiva de um ponto do geometral, o quadro e o geometral estando à mesma escala. Perspectiva de um trapézio situado no geometral. Escala dos afastamentos. Escala das larguras. Perspectiva de uma curva. Perspectiva de uma circunferência de círculo. Método dos dois pontos de fuga. Pontos fora do quadro. Escala das alturas. Extensão das construções de perspectiva. Abaixamento do geometral. Perspectiva de arcadas.
+
+II. CONSTRUÇÕES DIRETAS NO QUADRO
+
+Problemas sobre a linha reta e o plano. Perspectiva de uma perpendicular a um plano. Perspectiva de uma figura traçada em um plano vertical.
+
+III. SOMBRAS
+
+Definições sobre os desenhos de arquitetura e de máquinas. Definições relativas às sombras. Natureza da linha de separação entre a sombra e a luz para as superfícies mais simples. Métodos gerais para a determinação das sombras: método dos planos secantes. Método dos planos tangentes. Método das projeções oblíquas. Pontos brilhantes.
+
+IV. SOMBRAS EM PERSPECTIVA
+
+Sombra de uma vertical no geometral. Sombra de uma vertical em um plano oblíquo. Sombra de um cilindro assentado no geometral. Sombra no interior de uma abóbada.
+
+V. EFEITOS DE PERSPECTIVA
+
+Problema inverso da perspectiva. Restituições comparadas. Escolha do ponto de vista.

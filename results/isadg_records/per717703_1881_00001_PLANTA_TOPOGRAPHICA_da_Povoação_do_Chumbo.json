@@ -1,0 +1,27 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_PLANTA_TOPOGRAPHICA_da_Povoação_do_Chumbo",
+        "titulo": "Planta Topográfica da Povoação do Chumbo",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Planta topográfica da Povoação do Chumbo, em escala 1:500, mostrando casas de sapé (C), antigo forno de tratamento de minério (P), canal construído pelo autor para extração de água da mina (F1), galeria feita por antigos exploradores (F2) e galeria aberta pelo autor para estudos na veia além do ribeirão (F3). Indica ainda que a parte inculta da planície é formada de xistos argilosos e a declinação magnética de 2°."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Povoação do Chumbo",
+            "Sant’Anna do Rio S. João Acima",
+            "Barro Preto",
+            "Cidade da Formiga",
+            "Arraial de S. João Baptista",
+            "Cajurú",
+            "Rio S. João"
+        ]
+    },
+    "pagina_inicio": 182,
+    "pagina_fim": 182
+}

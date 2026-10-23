@@ -1,0 +1,32 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Lapa_da_cerca_grande",
+        "titulo": "Memória sobre a Lapa da Cerca Grande",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Relato de expedições realizadas na região da campina, descrevendo a geologia (talco xistoso, calcário), formações de cavernas como a Lapa da Cerca Grande, o acampamento em Mocambo, a presença de água em cavidades, a vegetação e fauna observadas, referências a ocupação indígena (tribo dos Coyapós) e seus desenhos rupestres, bem como hipóteses sobre um lago antigo e suas mudanças ambientais."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Guia (não nomeado)",
+            "Empregados do governo da propriedade",
+            "Índios Coyapós"
+        ],
+        "lugares": [
+            "Mocambo",
+            "Lapa da Cerca Grande",
+            "Serra do Morro do Morro",
+            "Campina",
+            "Rio",
+            "Planície adjacente à Lapa da Cerca Grande",
+            "Rocha dos índios perto do Mocambo",
+            "Lago antigo da região"
+        ]
+    },
+    "pagina_inicio": 5,
+    "pagina_fim": 7
+}

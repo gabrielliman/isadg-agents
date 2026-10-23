@@ -1,0 +1,29 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_ESTUDOS_SIDERURGICOS_NA_PROVINCIA_DE_MINAS",
+        "titulo": "ESTUDOS SIDERÚRGICOS NA PROVÍNCIA DE MINAS   PRIMEIRA PARTE   Transformação de uma forja italiana em catalã.",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "A. de Bovet, Costa Senna, Chrispiniano Tavares, Gonzaga de Campos, Dr. H. Gorceix"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento trata dos processos de fabricação de ferro na província de Minas, comparando a forja italiana e a catalã, destacando as vantagens do processo catalão em termos de qualidade, quantidade, economia e velocidade. Propõe modificações nas forjas italianas para adotar o processo catalão, considerando aspectos econômicos e técnicos, e menciona estudos de engenheiros como A. de Bovet, Costa Senna, Chrispiniano Tavares, Gonzaga de Campos e Dr. H. Gorceix."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "A. de Bovet",
+            "Costa Senna",
+            "Chrispiniano Tavares",
+            "Gonzaga de Campos",
+            "Dr. H. Gorceix"
+        ],
+        "lugares": [
+            "Província de Minas",
+            "Itabira",
+            "Piracicaba"
+        ]
+    },
+    "pagina_inicio": 128,
+    "pagina_fim": 128
+}

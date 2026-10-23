@@ -1,0 +1,22 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_RESUMO_DAS_Observações_feitas_no_Observatório_Mete",
+        "titulo": "RESUMO DAS Observações feitas no Observatório Meteorológico da Escola de Minas de Ouro-Preto",
+        "data": "De 1º de Setembro de 1885 a 28 de Fevereiro de 1886"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Observatório Meteorológico da Escola de Minas de Ouro-Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Resumo das observações meteorológicas realizadas no Observatório Meteorológico da Escola de Minas de Ouro-Preto, compreendendo medições de pressão atmosférica (barômetro Fortin) e temperaturas mínimas e máximas mensais de setembro de 1885 a fevereiro de 1886, incluindo valores de pressão máxima e mínima registrados em datas específicas."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Ouro-Preto",
+            "Escola de Minas"
+        ]
+    },
+    "pagina_inicio": 175,
+    "pagina_fim": 176
+}

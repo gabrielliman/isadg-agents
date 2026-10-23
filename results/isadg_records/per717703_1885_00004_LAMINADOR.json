@@ -1,0 +1,34 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_LAMINADOR",
+        "titulo": "Fábrica de Ferro e Laminação de Coqueiro",
+        "data": "final do século XIX (cerca de 1880)"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Fábrica de Ferro de Coqueiro"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição das instalações e processos de uma fábrica de ferro localizada no lugar Coqueiro, a 3 km do morro de Gaspar Soares. Abrange o laminador (antigamente pertencente à Casa da Moeda do Rio de Janeiro), martinetes, fornos de reverbero, produção diária de ferro em barras, processos de puddlagem, máquinas suffladoras, oficina de acabamento, modelagem em madeira de cedro e olaria para tijolos. Inclui detalhes sobre equipamentos (rodas hidráulicas, cilindros, pistões), mão de obra (mestre laminador, serventes, mestre de refino, mestre modelador, oficial entalhador, aprendiz, entre outros) e produção (1.200-1.300 kg de ferro por dia, uma tonelada de ferro refinado, venda a 200$000 com descontos)."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "mestre laminador",
+            "3 serventes meninos",
+            "mestre de refino",
+            "mestre modelador",
+            "oficial entalhador",
+            "aprendiz"
+        ],
+        "lugares": [
+            "morro de Gaspar Soares",
+            "Coqueiro",
+            "jazida de oligisto (serra de Matacavalos)",
+            "olaria (distante 2 km das oficinas)",
+            "Casa da Moeda do Rio de Janeiro",
+            "Escola de Minas de Ouro Preto",
+            "província de São Paulo"
+        ]
+    },
+    "pagina_inicio": 78,
+    "pagina_fim": 80
+}

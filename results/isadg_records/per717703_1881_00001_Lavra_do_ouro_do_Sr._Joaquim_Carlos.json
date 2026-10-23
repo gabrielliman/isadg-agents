@@ -1,0 +1,24 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_Lavra_do_ouro_do_Sr._Joaquim_Carlos",
+        "titulo": "Lavra do ouro do Sr. Joaquim Carlos",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Sr. Joaquim Carlos"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição da lavra de ouro pertencente a Sr. Joaquim Carlos, localizada a dois quilômetros do arraial de S. Miguel, em região de Itabira. Aborda a geologia do veio de quartzo, a presença de ouro em pequenas palhetas associada à pirite de ferro, a análise de amostras mostrando teor de ouro e prata, a irregularidade da produção devido à variação de buchos, e detalhes do engenho de beneficiamento (6 mãos de 45 kg cada, movido por roda de calhas de 4 m de diâmetro). Também menciona a substituição do quartzo quebradiço pelo quartzo duro e negro com profundidade e a presença de ouro nas salbandas do veio."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Sr. Joaquim Carlos"
+        ],
+        "lugares": [
+            "Arraial de S. Miguel",
+            "Itabira"
+        ]
+    },
+    "pagina_inicio": 125,
+    "pagina_fim": 130
+}

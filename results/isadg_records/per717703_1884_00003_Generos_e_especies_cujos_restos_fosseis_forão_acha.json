@@ -1,0 +1,28 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_Generos_e_especies_cujos_restos_fosseis_forão_acha",
+        "titulo": "Gêneros e espécies cujos restos fósseis foram achados por LUND",
+        "data": "8 de Dezembro de 1883"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Peter Wilhelm Lund"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Lista de gêneros e espécies de mamíferos fósseis do Brasil identificados por Peter Wilhelm Lund, abrangendo grupos como Edentata, Euphydentia, Bradypoda, Pachydermata, Ruminantia, Feræ, Marsupialia e Glires, com detalhes taxonômicos e numeração de espécies."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Peter Wilhelm Lund",
+            "Dom Pedro II",
+            "H. Georgeix"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Brumado",
+            "São Francisco",
+            "Abaeté"
+        ]
+    },
+    "pagina_inicio": 49,
+    "pagina_fim": 52
+}

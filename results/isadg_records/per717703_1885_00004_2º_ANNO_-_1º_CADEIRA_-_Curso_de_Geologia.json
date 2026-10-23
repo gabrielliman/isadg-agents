@@ -1,0 +1,40 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_2º_ANNO_-_1º_CADEIRA_-_Curso_de_Geologia",
+        "titulo": "Curso de Geologia - 2º Ano, 1ª Cadeira",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Professor Derby"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Ementa da disciplina de Geologia (2º ano, 1ª cadeira) abordando o objeto da geologia, seus interesses práticos, forma e densidade média da Terra, distribuição provável das espécies minerais, calor central, relevo dos continentes e fundo dos mares, orografia e hidrografia da América do Sul (comparação entre os sistemas dos Andes e das Montanhas Rochosas), noções sobre a rede pentagonal, estudos dos levantamentos do Brasil, fenômenos atuais, movimento da atmosfera e das águas, ação do mar e aparelhos litorais, ação das águas pluviais, decomposição das rochas (trabalhos de Ebelmen e Daubrée), fontes, poços artesianos, torrentes, rios, formação de cascalho, deltas, bancos de areia e barras, recifes madreporicos, estudo das costas do Brasil, carta litológica do fundo dos mares (trabalhos de Delesse), glaciares, formação e movimento das geleiras, morenas (trabalhos de Agassiz, Tyndall, etc.)."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Hartt",
+            "Derby",
+            "Ebelmen",
+            "Daubrée",
+            "Delesse",
+            "Agassiz",
+            "Tyndall"
+        ],
+        "lugares": [
+            "Brasil",
+            "Rio de Janeiro",
+            "Amazonas",
+            "Andes",
+            "Montanhas Rochosas",
+            "Minas Gerais",
+            "Rio Grande do Sul",
+            "São Paulo",
+            "América do Sul",
+            "Continentes",
+            "Fundo dos mares",
+            "Costas do Brasil"
+        ]
+    },
+    "pagina_inicio": 282,
+    "pagina_fim": 282
+}

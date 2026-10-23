@@ -1,0 +1,27 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_PROCESSO_METALLURGICO",
+        "titulo": "Não identificado",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição do processo de fundição de ferro na fábrica de Areado, incluindo detalhes do tratamento de minério sílico, uso de algaraviz de ferro e cobre, formação de lupa, operações de malho, problemas de carburação e soluções, além de considerações sobre a lucratividade da produção de ferro na região e perspectivas futuras."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Areado",
+            "Buração",
+            "Itabira",
+            "Patrocínio",
+            "Bagagem",
+            "Gandarella",
+            "Itália"
+        ]
+    },
+    "pagina_inicio": 174,
+    "pagina_fim": 181
+}

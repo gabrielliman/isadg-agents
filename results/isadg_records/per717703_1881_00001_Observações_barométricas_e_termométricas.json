@@ -1,0 +1,27 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_Observações_barométricas_e_termométricas",
+        "titulo": "Observações barométricas e termométricas do Ribeirão do Chumbo",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento contém tabelas de observações barométricas e termométricas registradas ao longo dos dias de maio e junho (sem ano especificado), com valores de pressão e temperatura, além de observações meteorológicas como chuva e trovoadas. Inclui ainda descrição geológica do leito do ribeirão do Chumbo, composto por xisto argiloso vermelho, e menciona a presença de conglomerados próximos ao arraial de Dôres e na estrada entre a vila do Carmo e o arraial de Dôres, bem como referências a fazendas como Palmeiras, Buracão e Araçao."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Arraial de Dôres",
+            "Vila do Carmo",
+            "Ribeirão do Chumbo",
+            "Povoação do Chumbo",
+            "Arraial do Araçao",
+            "Fazenda das Palmeiras",
+            "Fazenda do Buracão"
+        ]
+    },
+    "pagina_inicio": 92,
+    "pagina_fim": 93
+}

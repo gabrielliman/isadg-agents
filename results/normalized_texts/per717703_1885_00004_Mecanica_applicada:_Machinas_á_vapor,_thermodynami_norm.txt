@@ -1,0 +1,19 @@
+1.º ANNO 4.ª CADEIRA Mecânica aplicada: Máquinas a vapor, termodinâmica e hidráulica  
+PRIMEIRA PARTE  
+MÁQUINAS CONSIDERADAS DEBAIXO DO PONTO DE VISTA DAS TRANSFORMAÇÕES DE MOVIMENTO (OU ESTUDO GEOMÉTRICO DOS PRINCIPAIS MECANISMOS).  
+
+Generalidades. Máquinas. Motores. Guias. Parafuso. Porca. Tarracha. Guias do movimento retilíneo e do movimento de rotação. Roldana fixa, roldana móvel. Cadernais. Correias sem fim. Cadeias e cabos. Correias de embraiagem.  
+
+Generalidades sobre as engrenagens. Engrenagens cilíndricas. Engrenagens a fusos e a lanterna, a flancos retilíneos, a desenvolvimento de círculo. Cremalheira. Engrenagens cônicas. Junta universal ou de Cardan. Parafuso sem fim. Trem de engrenagens. Guincho. Parafuso. Movimentos diferenciais. Biela e manivela. Excêntrico circular. Manivela e corrediça. Excêntricos em geral. Deslizadoras. Excêntricos triangulares e da curva em coração. Paralelogramo de Watt. Balancim a braçadeira. Paralelogramo articulado.  
+
+SEGUNDA PARTE  
+CÁLCULO DAS RESISTÊNCIAS PASSIVAS NAS MÁQUINAS QUANDO O MOVIMENTO É UNIFORME  
+
+Atrito de deslizamento. Leis e fórmula deste atrito. Coeficiente de atrito. Plano inclinado. Cunha. Prensa de cunha. Escala. Deslizadoras. Barrilete de marceneiro. Pilões. Munhões e mancais. Guindaste. Guincho. Engrenagens.  
+
+Atrito de rolamento. Leis e fórmula. Emprego dos roletes para transportar materiais sobre um solo horizontal. Rijeza das cordas. Roldanas. Cadernais. Deslizamento das cordas. Freios. Freio de Prony.  
+
+TERCEIRA PARTE  
+MÁQUINAS CONSIDERADAS DEBAIXO DO PONTO DE VISTA DO TRABALHO DAS FORÇAS  
+
+Modo de ação dos motores. Princípio das forças vivas aplicado às máquinas. Uniformidade e periodicidade do movimento das máquinas. Discussão das equações das forças vivas. Influência da inércia. Choque dos corpos. Corpos perfeitamente elásticos. Corpos inteiramente moles. Corpos naturais. Teorema de Carnot. Choques e vibrações nas máquinas. Pilões. Camas e martelos. Causas de variações do movimento de uma máquina. Volantes. Caso das manivelas (simples com simples efeito, simples com duplo efeito e dupla com duplo efeito). Manivela de contrapeso. Cálculo do volante no caso geral.

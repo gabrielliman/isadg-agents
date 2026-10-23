@@ -1,0 +1,34 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_Corpo_docente",
+        "titulo": "Anais da Escola de Minas de Ouro Preto",
+        "data": "1881"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Escola de Minas de Ouro Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento contém o primeiro volume dos Anais da Escola de Minas de Ouro Preto, publicado em 1881 pela Typographia Nacional no Rio de Janeiro. Apresenta o corpo docente e os repetidores dos cursos de primeiro e segundo ano, descreve as disciplinas ministradas (Física, Química, Mineralogia, Exploração de Minas, Matemática, Mecânica racional, Topografia, Desenho técnico, Geologia, Metalurgia, Stereotomia, Docimásia, Mecânica aplicada), detalha as atividades práticas em laboratórios e trabalhos de campo, descreve a biblioteca com aproximadamente mil volumes e assinatura de revistas científicas, lista as coleções do gabinete de mineralogia e geologia (minerais, minérios, rochas, fósseis), descreve o gabinete de física e o laboratório de química com seus equipamentos e fornos, menciona as análises realizadas de carvões, galenas, minérios de ouro e ferro, e destaca o papel da escola no levantamento da carta geológica do Império, especialmente da província de Minas Gerais."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Henrique Goreix",
+            "Armando de Bovet",
+            "Arthur Thiré",
+            "Archias Euripedes da Rocha Medrado",
+            "Leonidas Damasio Botelho",
+            "Joaquim Candido da Costa Sena",
+            "Domingos da Silva Porto"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Rio de Janeiro",
+            "Minas Gerais",
+            "Rio Grande do Sul",
+            "São Paulo",
+            "Paris"
+        ]
+    },
+    "pagina_inicio": 173,
+    "pagina_fim": 174
+}

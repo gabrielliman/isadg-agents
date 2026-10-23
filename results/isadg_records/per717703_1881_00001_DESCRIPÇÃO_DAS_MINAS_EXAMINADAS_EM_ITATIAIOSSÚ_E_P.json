@@ -1,0 +1,33 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_DESCRIPÇÃO_DAS_MINAS_EXAMINADAS_EM_ITATIAIOSSÚ_E_P",
+        "titulo": "Descrição das Minas Examinadas em Itatiaiossú e Pitanguy",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento descreve as condições de exploração de veios de ouro em Itatiaiossú e Pitanguy, detalhando a geologia dos veios de quartzo, a disponibilidade de água para mover engenhos, a baixa riqueza relativa mas facilidade de extração, os preços de gêneros básicos na região e o abandono das minas devido à falta de mão de obra e doenças."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "capitão Antônio Rodrigues da Fonseca",
+            "Sr. Balduino Ferreira Carmo",
+            "Matheus Leme"
+        ],
+        "lugares": [
+            "Itatiaiossú",
+            "Pitanguy",
+            "Batatal",
+            "Lapa-Grande",
+            "Morro do Fraga",
+            "Caxingó",
+            "Capão do Ouro",
+            "Serra do Itatiaiossú",
+            "Rio Pará"
+        ]
+    },
+    "pagina_inicio": 74,
+    "pagina_fim": 77
+}

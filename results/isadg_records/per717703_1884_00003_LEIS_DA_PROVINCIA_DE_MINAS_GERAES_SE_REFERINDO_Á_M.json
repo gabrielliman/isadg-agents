@@ -1,0 +1,24 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_LEIS_DA_PROVINCIA_DE_MINAS_GERAES_SE_REFERINDO_Á_M",
+        "titulo": "Leis da Província de Minas Gerais referentes à mineração e à indústria",
+        "data": "25 de novembro de 1875"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Assembleia Legislativa Provincial de Minas Gerais"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Compilação de leis provinciais de Minas Gerais relacionadas à exploração mineral e à indústria, incluindo a Lei nº 2.181/1875 que institui imposto sobre a extração de ouro e a Lei nº 2.741 que autoriza subvenção a estudantes necessitados da Escola de Minas."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Pedro Vicente de Azevedo"
+        ],
+        "lugares": [
+            "Minas Gerais",
+            "Ouro Preto"
+        ]
+    },
+    "pagina_inicio": 222,
+    "pagina_fim": 222
+}

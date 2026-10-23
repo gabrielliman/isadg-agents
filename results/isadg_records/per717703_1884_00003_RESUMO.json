@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_RESUMO",
+        "titulo": "Resumo de custos da fábrica de ferro do Areado",
+        "data": "1879"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento contendo orçamento detalhado de materiais e mão de obra para a construção de uma fábrica de ferro, incluindo custos de ferro, bronze, cobre, madeira, alvenaria, telhas, transporte e outros insumos, com referência ao ano de 1879 e localidade de Itabira e Areado."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Itabira",
+            "Areado",
+            "Morro Velho"
+        ]
+    },
+    "pagina_inicio": 160,
+    "pagina_fim": 161
+}

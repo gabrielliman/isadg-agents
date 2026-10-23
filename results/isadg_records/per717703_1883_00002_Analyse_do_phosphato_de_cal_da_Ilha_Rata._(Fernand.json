@@ -1,0 +1,25 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_Analyse_do_phosphato_de_cal_da_Ilha_Rata._(Fernand",
+        "titulo": "Análise do fosfato de cal da Ilha Rata (Fernando de Noronha)",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "José Ayroza Bolelho de Carvalho"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento contém análises mineralógicas de amostras de fosfato de cal da Ilha Rata (Fernando de Noronha), com resíduo insolúvel no ácido nítrico, e de galena em pequenos cristais com quartzo remetidas por José Ayroza Bolelho de Carvalho (procedência da Bahia). Também inclui referência à Fazenda de S. João de Guanhães, onde o mesmo minério foi reduzido a 55 gr."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "José Ayroza Bolelho de Carvalho"
+        ],
+        "lugares": [
+            "Ilha Rata (Fernando de Noronha)",
+            "Bahia",
+            "Fazenda de S. João de Guanhães"
+        ]
+    },
+    "pagina_inicio": 138,
+    "pagina_fim": 139
+}

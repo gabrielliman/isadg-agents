@@ -1,0 +1,59 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_S._JOAO_DE_IPA",
+        "titulo": "Memória sobre a Fábrica de Ferro de São João de Ipanema",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Leandro Dupré"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "A memória descreve a história da Fábrica de Ferro de São João de Ipanema, desde a descoberta das jazidas de minério de ferro no morro Araçoyaba em 1590 por Affonso de Sardinha, passando pela instalação de forjas, a chegada de uma colônia sueca sob direção de G. Hedberg e o apoio do Príncipe Regente, as diversas administrações militares e civis, os períodos de prosperidade e decadência, até 1878, quando a fábrica passou a pertencer ao ministério."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Affonso de Sardinha",
+            "D. Francisco de Souza",
+            "Luiz Lopes de Carvalho",
+            "Príncipe Regente",
+            "Candido Xavier de Almeida",
+            "Manso",
+            "Conde de Linhares",
+            "G. Hedberg",
+            "Barão de Fleming",
+            "Frederico Luiz Guilherme Varnhagen",
+            "Barão d'Eschwege",
+            "Lourenço Hultgren",
+            "Rufino José Felizardo e Costa",
+            "Antonio Xavier Ferreira",
+            "João Florencio Pereira",
+            "João Bloem",
+            "Raphael Tobias",
+            "Antonio Manoel de Mello",
+            "Barão de Itapicurú-Mirim",
+            "Joaquim José de Oliveira",
+            "Ricardo José Gomes Jardim",
+            "Francisco Antonio Raposo",
+            "João Pedro de Lima da Fonseca Gutierres",
+            "Rodolpho Wanheldt",
+            "Joaquim de Souza Mursa",
+            "Leandro Dupré"
+        ],
+        "lugares": [
+            "morro Araçoyaba",
+            "Conceição",
+            "Sorocaba",
+            "Itanhaém",
+            "São Paulo",
+            "Minas Gerais",
+            "Suécia",
+            "Rio de Janeiro",
+            "Portugal",
+            "Corte",
+            "Mato-Grosso",
+            "Europa"
+        ]
+    },
+    "pagina_inicio": 44,
+    "pagina_fim": 47
+}

@@ -1,0 +1,25 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_FORJA_ITALIANA_EXPLICACAO",
+        "titulo": "Forja Italiana Explicação",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Paula Kuhn & C."
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Desenho técnico ilustrando os componentes e a planta de uma forja italiana, com legendas das partes (A a T) e vistas em planta, corte e elevação, escala 1:100, litografia de Paula Kuhn & C., Rio de Janeiro."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Paula Kuhn",
+            "François"
+        ],
+        "lugares": [
+            "Rio de Janeiro",
+            "Itália"
+        ]
+    },
+    "pagina_inicio": 239,
+    "pagina_fim": 240
+}

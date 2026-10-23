@@ -1,0 +1,49 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Do_Salto_a_Santo_Antonio._-_Linha_de_divisão_das_a",
+        "titulo": "Do Salto a Santo Antônio",
+        "data": "1842"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Relato de viagem que descreve a hidrografia dos rios Abaeté e Paracatú, os afluentes do rio Santo Antônio, as travessias difíceis nas margens, as formações geológicas observadas, as povoações e arraiais encontrados (como Vereda do Camillo, aldeia das Canoas, Canoinhas, Malhada, Jatahy, arraial de Santo Antônio), as atividades de mineração diamantina e de platina, as lavras e grupiaras, bem como as condições topográficas e comerciais da região, destacando o apogeu do comércio em 1842 e o declínio posterior das explorações."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Dr. Couto",
+            "Sr. Capitão Seraphim Libano",
+            "Srs. João e José Soares"
+        ],
+        "lugares": [
+            "Abaeté",
+            "Paracatú",
+            "Santo Antônio",
+            "rio Santo Antônio",
+            "ribeirão do Frade",
+            "ribeirão das Canoas",
+            "Vereda do Camillo",
+            "aldeia das Canoas",
+            "Canoinhas",
+            "linha de divisão das águas do Abaeté e Paracatú",
+            "Malhada",
+            "Jatahy",
+            "ribeirão de Santa Rita",
+            "corrego das Cara-hybas",
+            "corrego do Barreiro",
+            "corrego das Marrecas",
+            "arraial de Santo Antônio",
+            "ribeirão das Contendas",
+            "ribeirão das Almas",
+            "corrego Jatahy",
+            "corrego do Bahú",
+            "corrego da Água-Fria",
+            "Europa",
+            "Brasil",
+            "rio do Somno"
+        ]
+    },
+    "pagina_inicio": 111,
+    "pagina_fim": 117
+}

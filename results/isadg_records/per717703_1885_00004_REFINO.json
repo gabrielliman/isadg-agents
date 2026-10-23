@@ -1,0 +1,27 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_REFINO",
+        "titulo": "Processo de transformação do ferro fundido em ferro maleável em Ipanema",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição do processo empregado em Ipanema para transformar ferro fundido em ferro maleável, igual ao usado em Leoben, Alta Estíria, importado por operários refinadores austríacos. O processo difere do descrito por Karsten em seu tratado de metalurgia (processo estírio). A forja de Ipanema é semelhante à de Reichnau mencionada por P. Tunner, sendo dupla e coberta para aproveitar o calor. Detalha o caminho das chaminés, aquecimento de guza, barras de ferro no reverbero S, uso do calor para caldeira vertical D e martelos-pilões, além de registro para controle de vapor."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Karsten",
+            "P. Tunner"
+        ],
+        "lugares": [
+            "Ipanema",
+            "Leoben",
+            "Alta Estíria",
+            "Reichnau"
+        ]
+    },
+    "pagina_inicio": 74,
+    "pagina_fim": 74
+}

@@ -1,0 +1,30 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_PREÇOS_ACTUAES_DO_FERRO,_INSTRUMENTOS_DE_LAVOURA_E",
+        "titulo": "Relatório sobre as fábricas de ferro e as grutas de salitre no Sertão do Abaeté",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento descreve o emergente interesse dos capitalistas da região em instalar fábricas de ferro, destacando a iniciativa de Sr. Antonio Alves F. Campos em Pitanguy. Também detalha as grutas de salitre localizadas nas margens do Rio São Francisco, particularmente a Lóca Grande dos Arcos, explicando sua formação geológica, a extração do salitre pelos métodos antigos e as melhorias propostas, citando os estudos de Dr. Lund e as descrições de Eschwege sobre a produção artesanal do salitre."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Antonio Alves F. Campos",
+            "Dr. Lund",
+            "Wilhelm von Eschwege"
+        ],
+        "lugares": [
+            "Pitanguy",
+            "Sertão do Abaeté",
+            "Formiga",
+            "Arraial dos Arcos",
+            "Lóca Grande",
+            "Rio São Francisco"
+        ]
+    },
+    "pagina_inicio": 85,
+    "pagina_fim": 86
+}

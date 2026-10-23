@@ -1,0 +1,19 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_ESTADO_HYGROMÉTRICO_DO_AR",
+        "titulo": "Médias Mensais de Temperatura, Umidade e Chuva (Setembro 1885 - Fevereiro 1886)",
+        "data": "Setembro de 1885 a Fevereiro de 1886"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Serviço Meteorológico Nacional"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Registro contendo médias diárias de temperatura, temperaturas extremas máxima e mínima, humidades máximas e mínimas, e volumes de chuva para os meses de setembro de 1885 a fevereiro de 1886."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": []
+    },
+    "pagina_inicio": 177,
+    "pagina_fim": 178
+}

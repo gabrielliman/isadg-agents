@@ -1,0 +1,29 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_VIAGEM_DE_ESTUDOS_METALLURGICOS_NO_CENTRO_DA_PROVI",
+        "titulo": "Viagem de Estudos Metalúrgicos no Centro da Província de Minas",
+        "data": "1877"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Estudante da Escola de Minas (não identificado)"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Relato de viagem realizada após o primeiro ano na Escola de Minas, descrevendo a região entre Ouro Preto e Serro, observando minas de ouro, fábricas de ferro, exploração de matas e produção de carvão, destacando a atrasada indústria do ferro apesar da abundância de minério, mencionando a fábrica de tecidos de Pitanguy, a fábrica do Brumado, as ruínas da fábrica de Morro de Gaspar Soares fundada pelo intendente Manoel Ferreira da Câmara Bittencourt Aguiar e Sá, e a necessidade de desenvolvimento siderúrgico."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Manoel Ferreira da Câmara Bittencourt Aguiar e Sá"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Serro",
+            "Pitanguy",
+            "Morro de Gaspar Soares",
+            "Abaeté",
+            "Serra do Espinhaço",
+            "Brumado"
+        ]
+    },
+    "pagina_inicio": 102,
+    "pagina_fim": 103
+}

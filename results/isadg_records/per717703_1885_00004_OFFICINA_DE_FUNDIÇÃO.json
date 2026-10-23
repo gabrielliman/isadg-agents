@@ -1,0 +1,38 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_OFFICINA_DE_FUNDIÇÃO",
+        "titulo": "OFFICINA DE FUNDIÇÃO",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição das operações de uma oficina de fundição: processo de vazamento de fonte, preparo de tampões de barro, uso de caçambas, guindastes, fornos, estufas, guindastes de madeira e ferro, cubiloto, galga para moer carvão, preparo de areia para moldagem, uso de machos de barro e de capim, moldagem em concha, qualidade da fonte de Ipanema, organização do pessoal (mestre, moldadores, aprendizes, serventes, chefes de forno), salários e preços da fonte e peças fundidas."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "mestre",
+            "moldadores de 1ª classe",
+            "moldadores de 2ª classe",
+            "aprendizes",
+            "serventes",
+            "chefe de forno (boca de cima)",
+            "servente de forno (boca de cima)",
+            "chefe de forno (boca de baixo)",
+            "servente de forno (boca de baixo)"
+        ],
+        "lugares": [
+            "parte inferior da chapa da represa",
+            "oficina de fundição",
+            "áreas de moldação a 500 metros da oficina",
+            "Estrada de Ferro D. Pedro II",
+            "Ipanema",
+            "forno alto",
+            "boca de cima",
+            "boca de baixo"
+        ]
+    },
+    "pagina_inicio": 68,
+    "pagina_fim": 70
+}

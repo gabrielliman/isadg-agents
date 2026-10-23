@@ -1,0 +1,32 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_LUND_E_SUAS_OBRAS_NO_BRAZIL",
+        "titulo": "Lund e suas obras no Brazil (segundo o professor Reinhardt)",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "H. Gorceix"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Discurso sobre a vida e os trabalhos do Dr. Peter Wilhelm Lund, destacando suas descobertas paleontológicas e arqueológicas em Minas Gerais, proferido por H. Gorceix na inauguração do retrato de Lund na Escola de Minas de Ouro Preto."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Lund",
+            "Professor Reinhardt",
+            "H. Gorceix",
+            "Dom Pedro II",
+            "Dr. Catão Jardim",
+            "Dr. Mares Guia"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Lagôa-Santa",
+            "Minas Gerais",
+            "Brasil",
+            "Copenhague"
+        ]
+    },
+    "pagina_inicio": 6,
+    "pagina_fim": 6
+}

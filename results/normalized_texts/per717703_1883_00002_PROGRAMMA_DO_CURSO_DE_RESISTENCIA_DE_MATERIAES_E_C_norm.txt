@@ -1,0 +1,23 @@
+PROGRAMMA DO CURSO DE RESISTÊNCIA DE MATERIAIS E CONSTRUÇÃO. 1.ª PARTE: Resistência de Materiais
+
+Generalidades. – Definições. Elasticidade. Teoria molecular. Estado de equilíbrio de um sólido depois da deformação. Extensão. – Extensão de uma haste prismática. Período de elasticidade e de ruptura. Fórmula fundamental sobre a extensão. Resistências vivas de elasticidade e de ruptura. Influência da temperatura. Sólido de igual resistência relativamente à extensão. Resistência dos vasos a uma pressão interior. Compressão. – Ruptura por escorregamento e esmagamento. Sólido de igual resistência relativamente à compressão. Torção. – Leis da torção. Eixo de inércia. Momento de inércia polar. Problemas. Sólido de igual resistência relativamente à torção. Flexão. – Teoria da flexão. Flexão simples. Fibra neutra. Momento de flexão. Momento de resistência. Trabalho molecular. Esforço cortante. Viga encaixada. Aplicações. Sólido de igual resistência relativamente à flexão. Flexão complexa. – Aplicações das fórmulas fundamentais da flexão. Viga repousando sobre dois apoios. Vigas encaixadas. Vigas repousando sobre três apoios. Agulhas. Teorema de Clapeyron. Vigas carregadas no sentido de seu comprimento. Fórmulas de Hodgkinson. Viga curva: Teoria de Henri de Dion. Aplicações. Sólido submetido simultaneamente à flexão e à torção. Aplicações da resistência dos materiais ao cálculo das dimensões das máquinas.
+
+Construções em madeira. – Constituição e conservação das madeiras. Elasticidade e resistência. Ferramentas de carpinteiro. Modo de trabalhar as madeiras. Soalhos. Forros. Engradamentos de madeira, paredes. Obras de carpintaria. Vigas reforçadas, vigas de emendas. Madeiramentos de telhado. Madeiramentos de telhado de meia água. Pontes. Emprego do ferro e da fonte nas obras de vigamento. Coberturas. – Distribuição das pressões nos vigamentos em madeira.
+
+Construções metálicas. – Obras inteiramente metálicas. Vigas: formas diversas. Modo de cálculo. Telhados. Pontes: Pontes de travessas retas, pontes de treliças, pontes em arco. Pontes suspensas.
+
+Alvenarias. – Argamassas. Cimentos. Estuque. Concreto ou betão. Escolha. Corte e preparação das pedras. Organização dos serviços. Execução das alvenarias.
+
+Fundações. – Classificação dos terrenos. Sondagens. Fundações apoiadas diretamente sobre o solo natural. Fundações artificiais sobre estacas, fundações em caixão. Estacas. Balimento das estacas.
+
+Empuxo das terras e estabilidade das paredes de sustentação. – Expressão do empuxo das terras; momento do empuxo. Escoramento das terras. – Estabilidade das paredes de sustentação. Muros para cercos. Paredes para sustentação de telhados. Contra-fortes. Paredões para sustentação das terras.
+
+Estabilidade das fundações. – Fundações para máquinas. Método de Poncelet para obter-se geometricamente o empuxo e o escoramento.
+
+Abóbadas. – Abóbadas em forma de berço. Método da curva das pressões. Polígonos dos centros de pressão. Junta de ruptura. Verificação da estabilidade de uma abóbada. Abóbadas esconsas. Abóbadas não cilíndricas.
+
+Acomodações para as águas. – Obras reguladoras. Bicas ou escoadouros. Registros motores, registros de descarga, canal de derivação.
+
+Cercos. – Cercos em terra. Diques em aterro. Cercos de alvenaria. Estabilidade dos diques em alvenaria. Determinação do empuxo d’água sobre uma parede de reservatório.
+
+O professor P. Ferrand.

@@ -1,0 +1,27 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_MINERIO_DE_OURO_DO_PARY",
+        "titulo": "Análises de minério de ouro das minas de Pary, Cantagallo e Faria",
+        "data": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento contendo ensaios químicos de amostras de minério de ouro das localidades de Pary (quartzito com pirites de ferro arsênicas), Cantagallo, perto de Ouro Preto (quartzito com pirites de ferro, amostras remetidas por sr. José Joaquim) e da mina Faria, pertencente ao coronel Assis Jardim (quartzito com pirites ordinárias, arsênicas e limonito). Inclui dados de peso do botão, prata do lithargyrio empregado, teor de ouro e prata por tonelada e em oitavas."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "sr. José Joaquim",
+            "coronel Assis Jardim"
+        ],
+        "lugares": [
+            "Pary",
+            "Cantagallo",
+            "Ouro Preto",
+            "Mina Faria"
+        ]
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "pagina_inicio": 148,
+    "pagina_fim": 148
+}

@@ -1,0 +1,26 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Analyse_de_minerio_de_ouro_de_Vasado_(Sumidouro_pe",
+        "titulo": "Análise de guano e minério de ouro",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "H. Gorceix; Leonidas Damazio; Leonidas Damazio Botelho"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento contendo análises químicas de amostras de guano, incluindo teores de nitrogênio, ácido fosfórico e amônia, bem como ensaios de minério de ouro de Vasado (Sumidouro perto de Mariauña) com resultados de peso de botão de ouro e prata, teor de ouro e prata por tonelada e título do ouro."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "H. Gorceix",
+            "Leonidas Damazio",
+            "Leonidas Damazio Botelho"
+        ],
+        "lugares": [
+            "Vasado (Sumidouro perto de Mariauña)",
+            "França"
+        ]
+    },
+    "pagina_inicio": 190,
+    "pagina_fim": 191
+}

@@ -1,0 +1,29 @@
+Determinação das derivadas de algumas funções escolhidas.
+
+Derivadas de diversas ordens.
+
+Derivadas parciaes.
+
+Derivadas de uma função implicita.
+
+Estudo de algumas propriedades importantes das derivadas.
+
+Aplicação da teoria das derivadas á determinação do valor das expressões que se apresentão sob forma indeterminada, á determinação dos valores máximos e mínimos, ao estudo enfim da variação das funções de uma variavel.
+
+Deducção da fórmula de Taylor no caso de uma função de uma variavel.
+
+Fórmula de Mac-Laurin. Aplicação dessa ultima fórmula á determinação das series convergentes que servirão para calcular uma taboa de lagarithmos e uma taboa de senos.
+
+OBSERVAÇÃO
+
+As lições dessa parte do curso, bem como das outras partes, serão acompanhadas de exemplos appropriados á elucidacão do assumpto dellas, e além disso de numerosos exercicios dados aos alumnos, os quaes são obrigados a dal-os resolvidos em época fixada pelo professor, obtendo então uma nota correspondente ao valor do trabalho.
+
+Trigonometria
+
+Revisão do curso de Trigonometria feito no 1º anno.
+
+Resolução de triangulos.
+
+Transformações de sommas ou differenças de linhas trigonometricas, de quocientes de sommas ou differenças de linhas trigonometricas, em produtos ou quocientes de linhas trigonometricas de outros arcos.
+
+Transformação geral de uma somma ou differença em fórmula logarithmica.

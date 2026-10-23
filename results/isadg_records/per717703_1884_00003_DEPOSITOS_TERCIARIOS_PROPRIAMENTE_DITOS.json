@@ -1,0 +1,29 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_DEPOSITOS_TERCIARIOS_PROPRIAMENTE_DITOS",
+        "titulo": "Depósitos Terciários Propriamente Ditos",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento descreve os depósitos terciários das bacias do Gandarela e Fonseca, detalhando a estratigrafia, litologia (argilas, xistos, lignito, conglomerados), ocorrência de fósseis vegetais e animais, análises químicas do lignito, e considerações sobre a idade e ambiente de deposição, incluindo comparações com a flora atual e interpretações paleoambientais."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Marquês de Saporta",
+            "Dr. Glaziou"
+        ],
+        "lugares": [
+            "Bacia do Gandarela",
+            "Bacia do Fonseca",
+            "Serra do Caraça",
+            "Rio Piracicaba",
+            "Rio Doce",
+            "Escola de Minas"
+        ]
+    },
+    "pagina_inicio": 101,
+    "pagina_fim": 110
+}

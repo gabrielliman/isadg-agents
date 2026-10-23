@@ -1,0 +1,3 @@
+Alturas em metros de alguns pontos da zona percorrida, tomadas com o barometro orometrico.
+
+[TABELA: Alturas em metros de alguns pontos da zona percorrida, tomadas com o barometro orometrico.]

@@ -1,0 +1,25 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_ESTUDO_dos_mineraes_que_acompanhão_o_diamante_na_j",
+        "titulo": "Estudo dos minerais que acompanham o diamante na jazida de Salobro (Bahia)",
+        "data": "1879"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "H. Gorceix"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Estudo dos minerais que acompanham o diamante na jazida de Salobro (Bahia), incluindo análise de cascalhos diamantíferos contendo ácido fosfórico, alumina e terras da família do cério."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "H. Gorceix"
+        ],
+        "lugares": [
+            "Salobro (Bahia)",
+            "Mina do Morro Santa-Anna",
+            "Itabira"
+        ]
+    },
+    "pagina_inicio": 205,
+    "pagina_fim": 205
+}

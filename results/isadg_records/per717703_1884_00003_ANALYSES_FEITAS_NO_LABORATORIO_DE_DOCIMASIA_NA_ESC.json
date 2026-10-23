@@ -1,0 +1,29 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_ANALYSES_FEITAS_NO_LABORATORIO_DE_DOCIMASIA_NA_ESC",
+        "titulo": "Análises de minério de ouro e calcário realizadas no Laboratório de Docimasia da Escola de Minas de Ouro Preto",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Escola de Minas de Ouro Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento contém os resultados das análises de amostras de minério de ouro remetidas pelo Coronel Carlos Gabriel de Andrade e de amostras de calcário remetidas pelo Dr. João Baptista de Castro, realizadas no Laboratório de Docimasia da Escola de Minas de Ouro Preto. Inclui teores de ouro, cálcio, sílica, ferro, alumina, magnésio e fósforo, bem como observações petrográficas das amostras."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Coronel Carlos Gabriel de Andrade",
+            "Dr. João Baptista de Castro",
+            "H. Gorceix",
+            "Leonidas Damázio Botelho",
+            "Costa Sena",
+            "Dr. Chrokatt de Sá"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Carandahy"
+        ]
+    },
+    "pagina_inicio": 216,
+    "pagina_fim": 219
+}

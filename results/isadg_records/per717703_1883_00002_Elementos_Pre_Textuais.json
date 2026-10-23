@@ -1,0 +1,25 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_Elementos_Pre_Textuais",
+        "titulo": "Annaes da Escola de Minas de Ouro Preto",
+        "data": "6 de Janeiro de 1883"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Henrique Gorceix"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Letter from Henrique Gorceix discussing financial constraints preventing publication of memoirs requiring engravings, selecting works without engraving, expressing hope for favorable reception of the second number of the Annaes da Escola de Minas de Ouro Preto, and referencing his situation in Ouro Preto."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Henrique Gorceix"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Pitanguy",
+            "Abaeté"
+        ]
+    },
+    "pagina_inicio": 1,
+    "pagina_fim": 1
+}

@@ -1,0 +1,25 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_BACIA_DO_GANDARELA",
+        "titulo": "Descrição das seções geológicas da Bacia do Gandarela e Bacia Terciária do Fonseca",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "A. Y."
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento contendo descrições detalhadas de estratos geológicos das seções da Bacia do Gandarela (corte segunda) e das bacias terciárias do Gandarela e do Fonseca, incluindo camadas de calcário cristalino, xistos, argilas, arenas, hulburdos de diópside, canga, gracolho, quartzolito, e presença de fósseis como impressões de folhas e peixes cartilaginosos."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "A. Y."
+        ],
+        "lugares": [
+            "Bacia do Gandarela",
+            "Bacia Terciária do Gandarela",
+            "Bacia Terciária do Fonseca"
+        ]
+    },
+    "pagina_inicio": 236,
+    "pagina_fim": 238
+}

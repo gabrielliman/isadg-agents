@@ -1,0 +1,30 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_3.º_ANNO_-_1.ª_CADEIRA_-_Curso_de_Geologia",
+        "titulo": "Curso de Geologia",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento descreve o conteúdo do terceiro ano, primeira cadeira do Curso de Geologia, abordando a nomenclatura geológica adotada pelo Congresso Geológico Internacional, divisões dos terrenos sedimentares, definições, estratificação, fósseis, aparições sucessivas dos seres na superfície do globo, terreno Arqueano da América do Norte (Laurenciano e Huroniano) e seus correspondentes no Brasil, Cambriano na Inglaterra e nos Estados Unidos, stratigraphia e fauna do Siluriano (com estudos de trilobitas, braquiópodes, cefalópodes tentaculíferos e nautilídeos de concha reta), Devoniano (tipo devoniano na Inglaterra, Alemanha, França e América do Norte, fauna e estudo especial dos peixes ganhouides encouraçados) e Carbonífero (stratigraphia e tipos do carbonífero)."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Engenheiro Oliveira"
+        ],
+        "lugares": [
+            "América do Norte",
+            "Brasil",
+            "Inglaterra",
+            "Estados Unidos",
+            "Boêmia",
+            "Alemanha",
+            "França",
+            "Região de Abaeté"
+        ]
+    },
+    "pagina_inicio": 304,
+    "pagina_fim": 304
+}

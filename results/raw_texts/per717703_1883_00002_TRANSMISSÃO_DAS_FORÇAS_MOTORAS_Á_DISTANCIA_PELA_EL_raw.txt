@@ -1,0 +1,35 @@
+TRANSMISSÃO DAS FORÇAS MOTORAS Á DISTANCIA
+
+PELA
+
+ELECTRICIDADE
+
+SOBRE A INCOMPATIBILIDADE QUE EXISTE, NA TRANSMISSÃO ELECTRICA DA FORÇA, ENTRE UM GRANDE RENDIMENTO E UMA GRANDE CAPA-CIDADE DE TRANSMISSÃO.
+
+(A. THIRÉ)
+
+Uma transmissão electrica de força motora á distancia sendo feita por duas machinas quaesquer, uma geradora de electricidade, a outra receptora, sejão:
+
+Tm o trabalho motor fornecido á geradora
+
+E sua força electro motora
+
+Tu o trabalho util transmitido á receptora
+
+E' sua força electro-motora
+
+I a intensidade da corrente electrica
+
+S a resistencia do circuito total atravessado pela corrente, tem-se as equações.
+
+(1)
+
+Tm = E I
+
+Tu = E' I
+
+I = E - E'
+
+S
+
+Supponho E e S constantes, e faço variar a intensidade I; tomando para abscissas as intensidades I, construo a curva dos

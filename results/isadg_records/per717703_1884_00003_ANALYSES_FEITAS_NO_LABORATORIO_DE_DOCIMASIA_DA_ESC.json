@@ -1,0 +1,19 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_ANALYSES_FEITAS_NO_LABORATORIO_DE_DOCIMASIA_DA_ESC",
+        "titulo": "Análises feitas no laboratório de docimasia da Escola de Minas de Ouro Preto",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Escola de Minas de Ouro Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Análises feitas no laboratório de docimasia"
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": []
+    },
+    "pagina_inicio": 215,
+    "pagina_fim": 215
+}

@@ -1,0 +1,25 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Programma_do_Curso_de_Chimica",
+        "titulo": "Programa do Curso de Química - Metaloides",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Programa do 2º ano, 4ª cadeira de Química, focado em metaloides, incluindo noções preliminares, definições, distinção entre Física e Química, leis de Proust, Dalton, Gay-Lussac, termoquímica, teoria atômica, nomenclatura de Lavoisier, estudo de oxigênio, azoto, hidrogênio, água, amônia, fósforo, arsênio, enxofre, selênio, telúrio, cloro e seus compostos."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Lavoisier",
+            "Proust",
+            "Dalton",
+            "Gay-Lussac",
+            "Marsh"
+        ],
+        "lugares": []
+    },
+    "pagina_inicio": 223,
+    "pagina_fim": 224
+}

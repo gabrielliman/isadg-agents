@@ -1,0 +1,31 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_ROCHAS_GRANITICAS",
+        "titulo": "Não identificado",
+        "data": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição geológica das formações rochosas de Minas Gerais, incluindo rochas xistosas, graníticas, micacitos, xistos micaceos phylladianos, quartzitos e gres, com detalhes sobre sua localização, características petrográficas e estruturais, referências a veios de minerais e observações de campo ao longo de trajetos entre diversos arraiais e pontos de referência como a ponte de Ana de Sá sobre o Rio das Velhas."
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Albert de Lapparent"
+        ],
+        "lugares": [
+            "Ponte de Ana de Sá",
+            "Rio das Velhas",
+            "Arraial de São Bartolomeu",
+            "São Antônio do Rio Acima",
+            "Sabará",
+            "Casa Branca",
+            "Morro de São Vicente",
+            "Rio de Pedras",
+            "Palmital"
+        ]
+    },
+    "pagina_inicio": 93,
+    "pagina_fim": 94
+}

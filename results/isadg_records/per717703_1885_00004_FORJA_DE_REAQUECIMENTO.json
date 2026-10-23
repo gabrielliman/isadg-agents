@@ -1,0 +1,29 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_FORJA_DE_REAQUECIMENTO",
+        "titulo": "Descrição técnica da forja e malho no método italiano",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Sr. João de Araújo"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento descreve o funcionamento de uma forja de ferro utilizando o método italiano, detalhando os componentes do malho (eixo, tangedeiras, roda motriz, bigorna, espera), o processo de operação da forja de reaquecimento, a marcha das operações (produção de lupas, barras de ferro, consumo de minério e carvão), a elaboração do minério, os custos de instalação e mão de obra, o transporte e preço de venda do ferro forjado, além de comparações com o método dos cadinhos e observações sobre a qualidade do ferro, tipos de minério (itabirito, canga), carvão e localização típica da forja próximo a rios, matas e depósitos de itabirito."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Sr. João de Araújo",
+            "François",
+            "J. François"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Ariège",
+            "Cangica",
+            "Itabirito",
+            "Canga"
+        ]
+    },
+    "pagina_inicio": 157,
+    "pagina_fim": 165
+}

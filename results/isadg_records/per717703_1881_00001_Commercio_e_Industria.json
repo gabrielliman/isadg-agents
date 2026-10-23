@@ -1,0 +1,42 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_Commercio_e_Industria",
+        "titulo": "Descrição do processo de fabricação, comércio e agricultura do salitre na região Oeste de Minas Gerais",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O texto detalha o método de extração, purificação e cristalização do salitre (nitrato de potássio) a partir de terra salitrosa, incluindo o uso de cinzas para troca de alcalinos, lavagens sucessivas, concentração em caldeiras e secagem. Aborda também o comércio regional centrado nas cidades de Formiga e Uberaba, a indústria açucareira e têxtil (fábrica do Brumado), a produção de algodão, e a agricultura de cereais, café e criação de gado nos vales do Paraopeba, Pará e São João, destacando dificuldades de transporte e impacto na economia local."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Barão do Indaiá",
+            "Dr. Penido"
+        ],
+        "lugares": [
+            "Terra Nova",
+            "Formiga",
+            "Uberaba",
+            "Pitanguy",
+            "Brumado",
+            "Abaeté",
+            "São Francisco",
+            "Carmo",
+            "Ouro Preto",
+            "Sítio",
+            "Vale do Paraopeba",
+            "Serra da Itabira",
+            "Vale do Pará",
+            "Vale do São João",
+            "São Francisco do Campo Grande",
+            "Arêado",
+            "Lóca Grande",
+            "Arcos",
+            "Oliveira"
+        ]
+    },
+    "pagina_inicio": 87,
+    "pagina_fim": 89
+}

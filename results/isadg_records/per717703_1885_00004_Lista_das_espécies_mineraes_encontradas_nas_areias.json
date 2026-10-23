@@ -1,0 +1,28 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Lista_das_espécies_mineraes_encontradas_nas_areias",
+        "titulo": "Lista das espécies minerais encontradas nas areias do Abaeté",
+        "data": "1855-1856"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Mr. Damour"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Lista das espécies minerais encontradas nas areias do Abaeté, incluindo quartzo, grés xistoso feldspático, jaspe vermelho contendo ferro, oligisto, hidro-fosfatos de alumina (caboclos), ferro oxidado, ferro hidroxidado, granada vermelha, entre outras, com referência ao artigo publicado no Bulletin de la Société de géologie de France, tome XIII, 2e série, 1855-1856."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Mr. Damour",
+            "L. Ferraz",
+            "Antonio Olyntho dos Santos Pires"
+        ],
+        "lugares": [
+            "Abaeté",
+            "Curvello",
+            "Minas-Geraes",
+            "França"
+        ]
+    },
+    "pagina_inicio": 150,
+    "pagina_fim": 150
+}

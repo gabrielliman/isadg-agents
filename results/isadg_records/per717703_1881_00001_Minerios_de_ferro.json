@@ -1,0 +1,49 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_Minerios_de_ferro",
+        "titulo": "Minérios de ferro",
+        "data": "1872"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento descreve as jazidas de minério de ferro e ouro na região de Pitanguy e arredores, incluindo detalhes sobre a geologia, a qualidade dos minérios (oligisto, hematita, magnetito), a disponibilidade de água e madeira para força motriz, e menciona locais de exploração como a serra do Onça, serra de Itatiaiossú, mata da Conquista, fazenda do Buracão, fazenda de Antonio Alves F. Campos, entre outros. Também relata a oferta de uma folheta de ouro por Dr. Martinho Contagem à Escola de Minas de Ouro Preto e menciona uma fábrica estabelecida em 1872 que foi destruída por uma enxurrada."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Dr. Martinho Contagem",
+            "Sr. Antonio Alves F. Campos",
+            "Capitão Francisco da Rocha Bahia",
+            "Sr. José Barboza"
+        ],
+        "lugares": [
+            "Pitanguy",
+            "Abaeté",
+            "Formiga",
+            "Ouro Preto",
+            "Serra do Onça",
+            "Serra de Itatiaiossú",
+            "Mata da Conquista",
+            "Arraial de Sant’Anna do Rio S. João Acima",
+            "Barro Preto",
+            "Fazenda do capitão Francisco da Rocha Bahia",
+            "Fazenda de Antonio Alves F. Campos",
+            "Arraial do Arêado",
+            "Fazenda do Buracão",
+            "Rio S. João",
+            "Rio Formiga",
+            "Rio Grande",
+            "Rio São Francisco",
+            "Rio do Peixe",
+            "Morro do Tigre",
+            "Chapéu",
+            "Capacete",
+            "Cajurú",
+            "Mata da Corda",
+            "Groto"
+        ]
+    },
+    "pagina_inicio": 78,
+    "pagina_fim": 84
+}

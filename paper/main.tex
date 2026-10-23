@@ -1,0 +1,288 @@
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts
+% The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+\begin{document}
+
+\title{A Multi-Agent Architecture for Processing and ISAD(G) Cataloging of Documentary Heritage}
+
+
+\author{\IEEEauthorblockN{Gabriel Lima Nunes}
+\IEEEauthorblockA{\textit{Department of Computer Science (DCC)} \\
+\textit{Universidade Federal de Minas Gerais (UFMG)}\\
+Belo Horizonte, Brazil \\
+gabrielliman2002@gmail.com}
+}
+
+
+\maketitle
+
+\begin{abstract}
+The preservation and cataloging of historical documentary heritage face significant challenges due to the limitations of traditional Optical Character Recognition (OCR) techniques on complex layouts. In addition, the manual effort required to normalize archaic Portuguese and to map data onto archival standards such as ISAD(G) creates an operational bottleneck. To mitigate these limitations, this paper proposes an autonomous multi-agent architecture based on Large Language Models (LLMs) and Vision-Language Models (VLMs). The system orchestrates four specialized agents for visual extraction, semantic routing, intralingual normalization, and archival cataloging enhanced by Retrieval-Augmented Generation (RAG). Validated on a collection of 917 pages of the \textit{Annaes da Escola de Minas de Ouro Preto}, the pipeline achieved word-level transcription accuracy between 95.22\% and 99.27\%, modernized the spelling of most of the corpus while preserving its volume, and generated coherent metadata. Although the system's autonomy reveals challenges related to over-segmentation and text truncation in very long context windows, the approach proves viable and highly adaptive, reducing manual effort and fostering interoperability in the preservation of historical collections.
+\end{abstract}
+
+\begin{IEEEkeywords}
+Agentic Artificial Intelligence, Natural Language Processing, Multimodal OCR, ISAD(G) Standard, Documentary Heritage.
+\end{IEEEkeywords}
+
+\section{Introduction}
+
+The preservation of historical collections requires the digitization and structured cataloging of old documents. However, traditional Optical Character Recognition (OCR) techniques fail to capture the logical structure of complex or damaged layouts \cite{surveyOCR}. The manual effort needed to correct transcriptions, normalize variations of archaic Portuguese \cite{traducaointralingual}, and map the data according to international archival standards such as ISAD(G) \cite{isad_g_2001} is a critical operational bottleneck that rules out automation based on static rules.
+
+To overcome the rigidity of conventional systems, the Agentic Artificial Intelligence (\textit{Agentic AI}) paradigm has emerged as an adaptive approach \cite{agenticaisurvey}. Unlike linear pipelines, multi-agent systems based on Large Language Models (LLMs) and Vision-Language Models (VLMs) coordinate actions autonomously, manage the processing flow, and perform self-correction at runtime \cite{LangChain, zeroshotsemanticsegmentation}.
+
+This work proposes a multi-agent architecture to automate the processing of unstructured historical collections, integrating agents for visual extraction, semantic routing, spelling normalization, and archival cataloging enhanced by Retrieval-Augmented Generation (RAG) \cite{rag}. The pipeline tolerates stochastic failures and was validated on the \textit{Annaes da Escola de Minas de Ouro Preto}. The main contributions of this study are:
+\begin{itemize}
+    \item \textbf{Autonomous Semantic Segmentation:} an agentic router based on \textit{few-shot prompting} that dynamically identifies the boundaries of logical sections \cite{zeroshotsemanticsegmentation}.
+    \item \textbf{Strict Intralingual Translation:} a normalizer agent operating under syntactic constraints that modernizes historical spelling without omitting or summarizing the original text \cite{traducaointralingual}.
+    \item \textbf{RAG-Based Cataloging:} an archivist agent coupled to a local vector store that fills in the ISAD(G) metadata schema while mitigating ambiguities of historical entities \cite{rag, isad_g_2001}.
+\end{itemize}
+
+\section{Background}
+
+\subsection{Agentic Artificial Intelligence and Multimodal Models}
+
+Traditional text-processing pipelines operate in an isolated and deterministic fashion and have low tolerance to structural noise \cite{surveyOCR}. Advances in LLMs and VLMs have enabled logical reasoning and the interpretation of complex multimodal contexts \cite{nlpsurvey}. \textit{Agentic AI} wraps these models in autonomous agents that plan actions, assess the state of their environment, and invoke external tools \cite{agenticaisurvey}. Frameworks such as LangChain structure this orchestration by providing abstractions for memory and prompt chaining \cite{LangChain}.
+
+\subsection{Retrieval-Augmented Generation (RAG)}
+
+LLMs applied to niche or historical domains are prone to hallucinations due to the limits of their parametric knowledge \cite{rag}. RAG mitigates this problem by grounding inference in an external database \cite{rag}. The text is split into blocks (\textit{chunks}), converted into dense vector representations (\textit{embeddings}), and stored in a vector database. At inference time, the fragments most semantically similar to the query are retrieved and injected into the model's prompt, constraining the probabilistic space and improving factual fidelity \cite{rag}.
+
+\subsection{The ISAD(G) Standard and Archival Description}
+
+The ISAD(G) standard normalizes archival description through a hierarchical, multilevel scheme organized into seven areas, with emphasis on the Identity Statement, Context, and Content and Structure areas \cite{isad_g_2001}. Mapping raw historical text onto this schema is a complex challenge that goes beyond classical Named Entity Recognition (NER) approaches \cite{nlpsurvey}: the system must infer ontological relations and the historical role of personal and place names under spelling variation \cite{isad_g_2001}. Combining agents with structural JSON validation and RAG support makes it possible to generate these metadata automatically with the required archival rigor \cite{isad_g_2001}.
+
+\section{Proposed System Architecture}
+
+The proposed system uses the LangChain framework \cite{LangChain} to orchestrate an end-to-end multi-agent pipeline served through NVIDIA NIM inference microservices \cite{nvidia_nim}. The architecture is divided into specialized, asynchronous modules that turn raw scanned files into standardized archival metadata.
+
+\subsection{Visual Extraction and Self-Healing Module}
+
+The first stage ingests the PDF pages and processes them multimodally. Pages are rendered as images and processed in parallel by a \texttt{ThreadPoolExecutor} limited to 5 \textit{workers}. Transcription (OCR) of the 19th-century typography is delegated to the vision model \texttt{Llama-3.2-90B-Vision-Instruct} \cite{llama3_vision}, chosen for its robust spatial perception and strict adherence to exclusion rules. The model is instructed to ignore the inner content of tables and illustrations and to replace them with textual structural markers (e.g., \texttt{[TABELA: description]}, the Portuguese tag for ``table''). To mitigate network failures, each transcription is recorded incrementally in a local JSON file (\textit{checkpoint}). An active \textit{self-healing} mechanism scans this file for null pages or pages shorter than 10 characters and automatically re-runs visual extraction on them.
+
+\subsection{Semantic Routing and Structuring}
+
+Once the raw text of a page has been transcribed, the flow activates the Structurer Agent, powered by \texttt{Llama-4-Maverick-17B-128E-Instruct} \cite{llama4_maverick}. This module sequentially analyzes the text stream to decide whether the current page marks the beginning of a new logical division (article or chapter) \cite{zeroshotsemanticsegmentation}. Because it is invoked for every page, this agent is the most frequently called component of the pipeline; we therefore chose a \textit{Mixture of Experts} (MoE) architecture with 17B active parameters for its very low latency and computational efficiency. Decisions are guided by \textit{few-shot prompting} with real examples of transition points. The model returns a structured JSON object indicating whether a logical break is present, the detected title, and the author.
+
+\subsection{Intralingual Normalization}
+
+When the semantic router confirms that a logical block is complete, the accumulated raw text is forwarded to the Normalizer Agent for linguistic correction and updating. The modernization of archaic Portuguese into contemporary spelling is performed by \texttt{Qwen3-Next-80B-A3B-Instruct} \cite{qwen3_next}. The choice of this high-capacity model (an 80B-parameter sparse MoE with 3B active parameters) is motivated by the need to counter the natural statistical tendency of LLMs to summarize or simplify content in long context windows \cite{traducaointralingual}. The prompt imposes strict constraints forbidding omissions or structural changes to paragraph organization, and the output is returned as a plain \textit{string} through LangChain's \texttt{StrOutputParser}.
+
+\subsection{Vector Memory and Archival Cataloging (RAG)}
+
+The normalized text is split into 500-character chunks (with a 50-character overlap) and indexed incrementally in a ChromaDB vector store using the \texttt{all-MiniLM-L6-v2} \textit{embedding} model. To generate the final ISAD(G) metadata \cite{isad_g_2001}, the Archivist Agent performs a similarity search ($k=3$) over the vector store, retrieving the historical context needed to resolve ambiguous place and personal names \cite{rag}. This stage is handled by \texttt{Nemotron-3-Super-120B-A12B} \cite{nemotron3_super}, a 120B-parameter MoE model with 12B active parameters. Its reasoning capacity proved decisive in eliminating syntactic brace-closing errors and in ensuring that entities were mapped according to the mandatory archival JSON schema.
+
+\subsection{Resilience Mechanisms and Deterministic Safeguards}
+
+To contain stochastic behavior and keep the system stable against network exceptions or transient failures of the foundation models, the architecture introduces two layers of protection:
+\begin{itemize}
+    \item \textbf{Active Retry Loop:} the custom function \texttt{invoke\_with\_retry} intercepts parsing errors and timeouts, re-executing the call up to 5 consecutive times at 3-second intervals before aborting local processing.
+    \item \textbf{Deterministic Metadata Injection:} archivally critical fields that are prone to numerical hallucination (such as physical page ranges and reference codes in the \texttt{BR MG-EMOP ...} format) are computed and injected directly into the JSON dictionary by native Python code, ensuring the rigor required by archival custody.
+\end{itemize}
+
+\section{Experimental Setup and Evaluation Methodology}
+
+The performance of the proposed architecture depends on the execution infrastructure, on the alignment of the test data, and on control directives that steer the stochastic behavior of the generative models.
+
+\subsection{Dataset}
+
+To validate the multi-agent system, we used the historical collection \textit{Annaes da Escola de Minas de Ouro Preto} (1881--1885), obtained from the Brazilian Digital Newspaper Library (Hemeroteca Digital Brasileira) of the National Library Foundation (BNDigital). The test set comprises four complete editions: 1881 (182 pages), 1883 (164 pages), 1884 (240 pages), and 1885 (331 pages), totaling 917 pages of complex historical typography. The logical boundaries of all chapters and sections were annotated manually to establish the segmentation \textit{ground truth}.
+
+The pages come from high-quality scans, with consistent orthogonal alignment, very low visual noise in the text block, and negligible physical damage to the documents. These properties make the pages easy to read for humans and reduce the occlusion artifacts that typically hinder automatic reading systems. Representative examples of the layout and integrity of the collection are shown in Fig.~\ref{fig:exemplos_dataset}.
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.48\linewidth]{pagina1.png}
+\hfill
+\includegraphics[width=0.48\linewidth]{pagina3.png}
+\caption{Sample pages from the historical editions of the \textit{Annaes}, showing the alignment, low visual noise, and integrity of the original text.}
+\label{fig:exemplos_dataset}
+\end{figure}
+
+
+\subsection{Infrastructure and Model Selection}
+
+Parallel inference was supported by the NVIDIA NIM ecosystem, which provides runtime-optimized endpoints. Models were allocated according to the cognitive complexity of each task (\textit{model routing}):
+\begin{itemize}
+    \item \textbf{Visual Extraction:} \texttt{Llama-3.2-\allowbreak 90B-\allowbreak Vision-\allowbreak Instruct} for multimodal transcription and structural replacement of tabular elements with \textit{tags}.
+    \item \textbf{Structurer:} \texttt{Llama-4-\allowbreak Maverick-\allowbreak 17B-\allowbreak 128E-\allowbreak Instruct} for low-latency section-break classification using an MoE architecture.
+    \item \textbf{Normalizer:} \texttt{Qwen3-\allowbreak Next-\allowbreak 80B-\allowbreak A3B-\allowbreak Instruct} for strict spelling translation without loss of textual volume.
+    \item \textbf{Archivist:} \texttt{Nemotron-3-\allowbreak Super-\allowbreak 120B-\allowbreak A12B} for RAG-contextualized reasoning and structured metadata generation.
+\end{itemize}
+
+\subsection{Prompt Engineering}
+
+The autonomous behavior was bounded by restrictive system directives:
+\begin{enumerate}
+    \item \textbf{Visual Extractor:} instructed to transcribe running text and actively suppress tabular data and numerical tables, inserting standardized markers instead.
+    \item \textbf{Normalizer:} configured under an absolute prohibition against summarizing, omitting passages, or rewriting the original paragraph syntax, limiting itself to spelling modernization.
+    \item \textbf{Archivist:} run with verbose reasoning (\textit{Chain of Thought}) disabled and required to return exclusively a structured object strictly conforming to the archival JSON schema.
+\end{enumerate}
+
+\subsection{Evaluation Metrics}
+
+To quantify the effectiveness of the agentic approach, the methodology relies on four analytical axes:
+\begin{enumerate}
+    \item \textbf{Visual Transcription Accuracy:} word-level comparison between manually annotated control sections and the VLM output.
+    \item \textbf{Segmentation \textit{F1-Score}:} precision and \textit{recall} of the agentic router in detecting logical splits with respect to the \textit{ground truth}.
+    \item \textbf{Lexical Normalization Analysis:} statistical extraction of the transition frequency of corrected archaic terms to validate grammatical integrity.
+    \item \textbf{Qualitative Cataloging Analysis:} inspection of the JSON artifacts to audit the coherence of the ISAD(G) summaries and the accuracy of the RAG-supported extended NER.
+\end{enumerate}
+
+\section{Security, Governance, and System Limitations}
+
+Delegating the processing of documentary heritage to autonomous agents raises critical questions of algorithmic governance and infrastructure security. The reliability of the architecture depends on mitigating systemic vulnerabilities and controlling the stochastic behavior of the models.
+
+\subsection{Alignment Drift and Semantic Compression}
+
+The main operational limitation observed is the degradation of instruction following (\textit{instruction-following drift}) in long context windows. During the intralingual normalization of long articles, the language model was found to occasionally ignore the explicit negative constraints of the \textit{prompt} (which forbid omissions) and to adopt a statistical compression behavior, summarizing the content to economize on generated \textit{tokens}. This hallucination by omission calls for complementary auditing mechanisms, such as automated validation of character parity between the raw and the normalized artifacts.
+
+\subsection{Execution Vulnerabilities and Indirect Prompt Injection}
+
+When processing externally sourced PDFs without prior sanitization, the system trusts the transcribed content. Hidden text, or text deliberately inserted into the physical document containing adversarial instructions (\textit{indirect prompt injection}), could override the directives (\textit{system prompts}) of the Archivist Agent, leading to malformed JSON metadata or unwanted manipulation of the structured keys.
+
+\section{Results and Discussion}
+
+The pipeline was evaluated modularly to measure the accuracy of each agent in isolation as well as the systemic behavior of the inference infrastructure.
+
+\subsection{Visual Transcription (OCR) Accuracy}
+
+The word-level evaluation of three control sections yielded accuracy rates between 95.22\% and 99.27\%. Across the 832 audited \textit{tokens}, there were no inserted (hallucinated) words and only a single literal deletion.
+
+However, a qualitative inspection of the substitutions revealed \textit{instruction-following drift} in the Vision Agent. The model autonomously modernized words spelled in archaic Portuguese directly in the raw transcription, taking over a responsibility assigned to the Normalizer Agent. Although this statistical prediction bias does not compromise the final metadata, it shows a breach in the scope isolation of agents in unsupervised multimodal architectures.
+
+\subsection{Semantic Routing and Segmentation}
+
+The Structurer Agent showed high \textit{recall} and low precision across all editions, as summarized in Table~\ref{tab:metricas_gerais}. The system avoided missing main divisions (reaching a \textit{recall} of 1.00 in 1881) but produced a large number of false positives (hallucinated splits), which lowered the \textit{F1-Score}.
+
+\begin{table}[htbp]
+\caption{Consolidated Segmentation Metrics per Edition}
+\label{tab:metricas_gerais}
+\centering
+\footnotesize
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+\textbf{Edition} & \textbf{TP} & \textbf{FP} & \textbf{FN} & \textbf{Precision} & \textbf{Recall} & \textbf{F1-Score} \\
+\hline
+1881 & 15 & 38 & 0 & 0.28 & 1.00 & 0.4412 \\
+\hline
+1883 & 13 & 19 & 1 & 0.41 & 0.93 & 0.5652 \\
+\hline
+1884 & 13 & 49 & 1 & 0.21 & 0.93 & 0.3421 \\
+\hline
+1885 & 41 & 116 & 4 & 0.26 & 0.91 & 0.4059 \\
+\hline
+\end{tabular}
+\end{table}
+
+To investigate over-segmentation, the 38 false positives of the 1881 edition were manually audited and categorized in Table~\ref{tab:falsos_positivos}.
+
+\begin{table}[htbp]
+\caption{Characterization of Segmentation False Positives (1881)}
+\label{tab:falsos_positivos}
+\centering
+\footnotesize
+\begin{tabular}{|l|c|p{4.2cm}|}
+\hline
+\textbf{Error Category} & \textbf{Count} & \textbf{Description} \\
+\hline
+Subsection & 17 & Internal hierarchical breaks within the same chapter. \\
+\hline
+Chemical Analyses & 10 & Laboratory data laid out as tables. \\
+\hline
+Numerical Tables & 5 & Start or middle of long data tables. \\
+\hline
+Images/Annexes & 4 & Illustrative plates and graphical annexes. \\
+\hline
+Arbitrary Splits & 2 & Divisions with no apparent justification. \\
+\hline
+\textbf{Total} & \textbf{38} & \\
+\hline
+\end{tabular}
+\end{table}
+
+The main source of error (17 occurrences) is the LLM's inability to weigh the importance of internal headings, mistaking hierarchical subsections for new standalone chapters. Adding these subsections to the ground truth was methodologically ruled out, both because the model is inconsistent (it ignores other identical occurrences) and because excessive fragmentation violates the level-of-description granularity required by ISAD(G). Visual noise caused by typographic breaks in chemical reports (10 occurrences) and tables (5 occurrences) acted erratically as split triggers, indicating the need for stricter spatial-context directives in the router.
+
+\subsection{Integrity of Intralingual Normalization}
+
+The Normalizer Agent preserved structural integrity for most of the collection. In the 211 successfully processed documents, volume variation was minimal, with statistical parity between the mean number of input \textit{tokens} ($378.41 \pm 431.74$) and output \textit{tokens} ($381.14 \pm 445.84$), confirming that the text-compression bias was suppressed.
+
+However, a severe structural failure was identified in 34 cases, characterized by improper summaries or text truncation. The root cause correlates directly with document length: the mean number of input \textit{tokens} in the corrupted cases was $3074.56 \pm 2195.31$, almost ten times the mean of the successful cases. When operating near the output-generation limit (\texttt{max\_completion\_tokens} of 4096), instruction following degrades, forcing the model to condense the information to fit the text into the available window.
+
+From a linguistic standpoint, Table~\ref{tab:palavras_alteradas} shows the effectiveness of the transition from archaic graphemes to contemporary Portuguese, concentrated on the insertion of modern accent marks, the simplification of etymological consonant clusters, and the correction of native OCR errors.
+
+\begin{table}[htbp]
+\caption{Sample of Corrected Terms Among the 30 Most Frequently Normalized Words}
+\label{tab:palavras_alteradas}
+\centering
+\footnotesize
+\begin{tabular}{|l|l|c|}
+\hline
+\textbf{Raw OCR (Archaic)} & \textbf{Normalized Text} & \textbf{Frequency} \\
+\hline
+provincia / agua / minerio & província / água / minério & 426 \\
+schistos / geraes / anno & xistos / gerais / ano & 216 \\
+dous / logar / elle & dois / lugar / ele & 201 \\
+direcção / numero / brazil & direção / número / brasil & 138 \\
+s (isolated visual noise) & são (inferred verb) & 61 \\
+\hline
+\end{tabular}
+\end{table}
+
+\subsection{Qualitative Analysis of ISAD(G) Cataloging}
+
+The semantic validation of the JSON records generated by the Archivist Agent revealed asymmetric behavior between textual and analytical fields:
+\begin{itemize}
+    \item \textbf{Semantic Synthesis and Context:} the model showed a strong capacity for abstraction in the Content and Structure area, producing cohesive and interpretive scope-and-content summaries and avoiding literal copies of the source text. Authorship inference, mapped to the Context area, proved accurate, autonomously identifying institutional and technical creators even when they were diluted in the preamble of the document.
+    \item \textbf{Entity Extraction and Access Points:} the extraction of personal names behaved non-deterministically, omitting signatories and directors explicitly named in descriptive reports. A systematic ontological confusion was also observed in the generation of access points: the agent frequently placed legal entities, schools, and institutional buildings in the geographic locations (places) field, undermining the indexing rigor required by archival standards.
+\end{itemize}
+
+\subsection{Latency and Computational Performance}
+
+The time profile of the pipeline, measured over 2,503 network calls, is presented in Table~\ref{tab:latencia_agentes}.
+
+\begin{table}[htbp]
+\caption{Mean Latency per Agent and Task}
+\label{tab:latencia_agentes}
+\centering
+\footnotesize
+\begin{tabular}{|l|c|c|c|}
+\hline
+\textbf{Agent / Task} & \textbf{Calls} & \textbf{Mean (s)} & \textbf{Std. Dev. (s)} \\
+\hline
+Vision (OCR) & 883 & 61.83 & $\pm$ 32.74 \\
+\hline
+Structurer & 945 & 1.28 & $\pm$ 2.66 \\
+\hline
+Normalization & 339 & 14.75 & $\pm$ 16.27 \\
+\hline
+ISAD(G) (RAG) & 336 & 19.84 & $\pm$ 24.08 \\
+\hline
+\end{tabular}
+\end{table}
+
+The analysis confirms that the computational bottleneck lies in the Vision Agent (61.83\,s). Its high latency and variability ($\pm$32.74\,s) stem from multimodal processing of image matrices and from the variable text density of each page.
+
+In contrast, the Structurer Agent operated in near real time (1.28\,s). Since it runs on every page, its efficiency was enabled by the model's MoE architecture, which performs structural classification with a minimal number of output \textit{tokens}. The latency of the Normalizer Agent (14.75\,s) reflects the cost of generating outputs symmetrical to the input volume, while that of the Archivist Agent (19.84\,s) is explained by the injection of dense RAG context, which requires greater reasoning effort to build the final JSON.
+
+\section{Conclusion}
+
+This work presented a multi-agent architecture for the end-to-end automated processing and archival cataloging of unstructured historical collections. Orchestrating multiple specialized LLMs and VLMs, served through inference microservices, proved to be a robust adaptive approach for overcoming the rigidity of conventional linear and deterministic pipelines.
+
+The experiments on the \textit{Annaes da Escola de Minas de Ouro Preto} confirmed the practical feasibility of the system. The Vision Agent achieved high accuracy in text extraction, while the Semantic Router ensured that no main logical division was missed. The Normalizer Agent proved effective at modernizing the spelling of archaic Portuguese while preserving text volume for most of the \textit{corpus}. Finally, the RAG-enhanced Archivist Agent showed a strong capacity for semantic synthesis and contextualization, producing metadata records compatible with the descriptive requirements of the ISAD(G) standard.
+
+However, the autonomy of the pipeline revealed challenges of algorithmic governance. Constraint drift in long context windows caused text truncation during normalization, and the archivist agent showed non-deterministic behavior and ontological confusion when extracting entity access points. The Semantic Router also tended toward over-segmentation due to its inconsistent judgment of typographic breaks and of numerical tables interspersed with the text.
+
+As future work, we propose developing stricter structural directives to enforce the ontological disambiguation of entities, and consolidating a human-in-the-loop post-processing module focused on merging the fragments produced by over-segmentation.
+\bibliographystyle{ieeetr}
+\bibliography{bibliography}
+\end{document}

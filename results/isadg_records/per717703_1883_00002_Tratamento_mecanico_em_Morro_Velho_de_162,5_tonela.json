@@ -1,0 +1,27 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_Tratamento_mecanico_em_Morro_Velho_de_162,5_tonela",
+        "titulo": "Relatório sobre o tratamento mecânico do minério de ouro em Morro Velho",
+        "data": "1879-1880"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Companhia de Morro Velho"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento descreve o tratamento mecânico de 162,5 toneladas de minério de ouro em Morro Velho, detalhando os processos de quebramento, amalgamação, perda de ouro em pó subtil, depósitos de areias e resultados de extração, incluindo estatísticas de produção, perdas e despesas para o período de março de 1879 a março de 1880."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Morro Velho",
+            "Praia de Morro Velho",
+            "Arrastras de Morro Velho",
+            "Arrastras da praia",
+            "Mesas dormentes do Morro Velho",
+            "Mesas dormentes da praia",
+            "Depósito de areias conservadas na praia"
+        ]
+    },
+    "pagina_inicio": 72,
+    "pagina_fim": 81
+}

@@ -1,0 +1,22 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_PRODUÇÃO_DOS_METAES_PRECIOSOS",
+        "titulo": "Produção dos metais preciosos",
+        "data": "1880-1881"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento apresenta estatísticas da produção mundial de ouro e prata nos anos de 1880 e 1881, incluindo uma tabela comparativa, além de dados sobre a produção de ouro na província de Minas Gerais em 1879, destacando as quatro principais companhias mineradoras da época."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Mundo",
+            "Minas Gerais"
+        ]
+    },
+    "pagina_inicio": 154,
+    "pagina_fim": 154
+}

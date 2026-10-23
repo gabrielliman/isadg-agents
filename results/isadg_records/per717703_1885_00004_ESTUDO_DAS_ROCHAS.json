@@ -1,0 +1,37 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_ESTUDO_DAS_ROCHAS",
+        "titulo": "Não identificado",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "H. Gorceix"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento aborda fenômenos vulcânicos (cratera, erupção, materiais rejeitados, fumarolas, solfataras, gêiseres, águas minerais, petróleo, terremotos) e o estudo de rochas (definição, classificação, tipos cristalinos, metálicos, metamórficos, sedimentares, métodos de análise como ensaios com reagentes, maçarico, separação mecânica, aparelho Thoulet, lâminas microscópicas, microscópio polarizante, trabalhos de Sorby, Rosenbusch, Fouqué e Michel Levy, estrutura das rochas, estudo das principais rochas da crosta terrestre como granito, basalto, gnaisse, xistos, etc., além de jazidas metálicas e depósitos diamantíferos, com referência a localidades como Vesúvio, Etna, Andes, Minas Gerais, Chile, Peru, América do Norte, Saxônia, Áustria, Noruega, Inglaterra."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "H. Gorceix",
+            "Sorby",
+            "Rosenbusch",
+            "Fouqué",
+            "Michel Levy"
+        ],
+        "lugares": [
+            "Vesúvio",
+            "Etna",
+            "Sistema dos vulcões dos Andes",
+            "Minas Gerais",
+            "Chile",
+            "Peru",
+            "América do Norte",
+            "Saxônia",
+            "Áustria",
+            "Noruega",
+            "Inglaterra"
+        ]
+    },
+    "pagina_inicio": 283,
+    "pagina_fim": 284
+}

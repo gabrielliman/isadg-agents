@@ -1,0 +1,26 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_HYDRAULICA_AGRICOLA",
+        "titulo": "Hidráulica Agrícola - Terceira Parte: Saneamento e Drenagem",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "P. Ferrand"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento trata de reparações e construções navais (querenas, grelhas, formas de concerto, barco-porta, diques flutuantes e hidrostáticos de Clarke, boias, balizas e faróis) e, em seguida, da hidráulica agrícola, abrangendo saneamento e drenagem de terras (limpeza de cursos d'água, valetas, canais cobertos, tubos de drenagem, profundidade, separação e traçado dos drenos, efeitos e teoria da drenagem), esgotamento (canais de escoamento, máquinas, poços de esgoto e brocados vasantes, aproveitamento de polders e terrenos paludosos), irrigação (vantagens, fontes de água como poços ordinários e artesianos, águas de drenagem, fontes e chuva, tomada d'água em rios e corredeiras, irrigação por rega e submersão), além de seções sobre sondagem a diamante e a corda, aplicações em pesquisas, mineração de petróleo, gás, sal e poços artesianos, e tratamento de águas em minas (aparição de água, defesa externa e interna, captação, galerias de esgoto, bombas de minas e detalhes de maquinismo)."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "P. Ferrand",
+            "Clarke"
+        ],
+        "lugares": [
+            "Margens do mar",
+            "Polders",
+            "Terrenos paludosos"
+        ]
+    },
+    "pagina_inicio": 316,
+    "pagina_fim": 316
+}

@@ -1,0 +1,24 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_CALCULO_INTEGRAL",
+        "titulo": "Não identificado",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O texto aborda o cálculo diferencial e integral, incluindo diferenciais e derivadas de várias ordens, diferenciais parciais e totais, mudança de variável independente, desenvolvimento em séries de Taylor e Mac-Laurin, teoria dos máximos e mínimos, valor verdadeiro de formas intermediárias, teoria das curvas planas (tangente, contato, diferencial de área e de arco, curvatura, círculo osculador, raio de curvatura), curvas envoltórias e evolutas, propriedades de curvas no espaço (tangente, plano tangente, normal, osculador, raio de curvatura), normal e plano tangente a superfícies, além de geometria analítica (sistemas de coordenadas, transformações, distância entre pontos) e cálculo integral (integrações indefinidas e definidas, métodos de integração imediata, por substituição, por partes, frações racionais, funções de várias variáveis, integração por séries, quadratura de áreas planas via métodos dos trapézios, Simpson e Poncelet, retificação de curvas e cubatura de sólidos)."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Taylor",
+            "Mac-Laurin",
+            "Simpson",
+            "Poncelet"
+        ],
+        "lugares": []
+    },
+    "pagina_inicio": 233,
+    "pagina_fim": 233
+}

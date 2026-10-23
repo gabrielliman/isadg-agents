@@ -1,0 +1,25 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_IPANEMA",
+        "titulo": "Memória sobre a Fábrica de Ferro de Ipanema",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Leandro Dupré, Engenheiro de Minas pela Escola de Minas de Ouro Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Memória descritiva da Fábrica de Ferro de Ipanema, incluindo planta dos terrenos da fábrica."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Leandro Dupré"
+        ],
+        "lugares": [
+            "Ipanema",
+            "São João de Ipanema",
+            "Ypanema"
+        ]
+    },
+    "pagina_inicio": 328,
+    "pagina_fim": 328
+}

@@ -1,0 +1,31 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_Quadro_da_preparação_mecanica_no_Morro_de_Sant'Ann",
+        "titulo": "Quadro da preparação mecânica no Morro de Sant’Anna",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição do processo de preparação mecânica de minério de ouro no Morro de Sant’Anna, incluindo etapas como britagem, peneiramento em troméis com diferentes aberturas de tela, concentração em caixões alemães, mezas, engenhos e lavagem em bateias. Apresenta dados de rendimento (14‑15 g de ouro por tonelada de minério), observações sobre perdas, descrição de equipamentos (grade, troméis, correia sem fim, roda de calhas) e contexto das operações em outras minas da região (Morro Velho, Pitanguy, Passagem e Raposos, Jucutinga) e de trabalhadores isolados (faiscadores). Também menciona métodos de exploração em jazidas de quartzo e piríticas."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Morro de Sant’Anna",
+            "Morro Velho",
+            "Congonhas",
+            "Jucutinga",
+            "Passagem",
+            "Raposos",
+            "Pitanguy",
+            "Ilacolomy de Mariana",
+            "Sumidouro",
+            "Pary",
+            "Corrego do Morro de Sant’Anna"
+        ]
+    },
+    "pagina_inicio": 91,
+    "pagina_fim": 95
+}

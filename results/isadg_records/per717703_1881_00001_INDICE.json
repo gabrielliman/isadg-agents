@@ -1,0 +1,24 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_INDICE",
+        "titulo": "Estudo químico e geológico das rochas do centro da província de Minas Gerais. - 1. parte. - Arredores de Ouro Preto",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "H. Gonçalves"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Estudo químico e geológico das rochas do centro da província de Minas Gerais, primeira parte, focando nos arredores de Ouro Preto."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "H. Gonçalves"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Minas Gerais"
+        ]
+    },
+    "pagina_inicio": 177,
+    "pagina_fim": 177
+}

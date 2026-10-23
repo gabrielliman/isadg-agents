@@ -1,0 +1,28 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_PREFACIO",
+        "titulo": "Prefácio",
+        "data": "1895"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "H. Gorceix"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Prefácio ao terceiro volume dos Anais da Escola de Minas de Ouro Preto, em que o autor explica o atraso na publicação, destaca a necessidade de trabalhos originais de professores e alunos, agradece aos colaboradores, menciona a publicação das obras de Lund e a possibilidade de traduzir as obras de d’Eschwege, e expressa satisfação com o resultado."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "H. Gorceix",
+            "Lund",
+            "D. Pedro II",
+            "d’Eschwege"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Minas Gerais",
+            "Brasil"
+        ]
+    },
+    "pagina_inicio": 3,
+    "pagina_fim": 4
+}

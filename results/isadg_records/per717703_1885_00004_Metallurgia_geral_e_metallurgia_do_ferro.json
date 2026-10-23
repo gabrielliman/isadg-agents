@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Metallurgia_geral_e_metallurgia_do_ferro",
+        "titulo": "Motor da extração",
+        "data": "1º de Setembro de 1885"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Arthur Thiré"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descreve os tipos de motores de extração (animados, hidráulicos e a vapor), as condições especiais para estabelecimento de um motor a vapor destinado à extração, a extração pneumática e os diversos modos de extração. Aborda também a metalurgia geral, incluindo agentes metalúrgicos, processos da via seca e úmida, processos eletroquímicos e mecânicos, além dos fornos metalúrgicos, sua disposição geral e materiais de construção."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Arthur Thiré"
+        ],
+        "lugares": [
+            "Ouro-Preto"
+        ]
+    },
+    "pagina_inicio": 265,
+    "pagina_fim": 265
+}

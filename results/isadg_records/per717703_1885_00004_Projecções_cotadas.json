@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Projecções_cotadas",
+        "titulo": "Projeções cotadas I. — LINHA RETA E PLANO",
+        "data": "1 de Setembro de 1885"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "DOMINGOS DA SILVA PORTO"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento trata de técnicas de perspectiva (cavaliera, axonométrica e isométrica), incluindo definições, construção de escalas, projeções de sólidos (prisma, cone, cilindro, esfera), sombras, exercícios práticos de abóbadas e sombras, além de seções sobre projeções cotadas, linhas de nível, superfícies topográficas, cones e cilindros circunscritos, linhas de maior inclinação e planos tangentes."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "DOMINGOS DA SILVA PORTO"
+        ],
+        "lugares": [
+            "Não identificado"
+        ]
+    },
+    "pagina_inicio": 274,
+    "pagina_fim": 276
+}

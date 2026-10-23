@@ -1,0 +1,49 @@
+**223**
+
+**Método de Bezout.**
+
+Problemas do 1.º grau a 2 ou mais incógnitas.
+
+Discussão das fórmulas gerais de resolução de um sistema de 2 equações do 1.º grau a duas incógnitas.
+
+Discussão dos problemas do 1.º grau.
+
+Problema dos correios.
+
+Desigualdades do 1.º grau.
+
+Radicaes do 2.º grao. — Resolução de uma equação do 2.º grao a uma incógnita.
+
+Discussão da fórmula x = - b ± √(b² - 4ac) / 2a
+
+Propriedades das raizes.
+
+Decomposição do trinomio do 2.º grao em factores do 1.º
+
+Desigualdades do 2.º grao.
+
+Equações biquadradas. — Transformação das expressões da forma √A ± B
+
+Equações reciprocas. — Exemplos de equações binomias e trinomias.
+
+Equações do 2.º grao a mais de uma incógnita em alguns casos particulares.
+
+Problemas do 2.º grao.
+
+Noções sobre a variação das funções.
+
+Maximos e minimos.
+
+**Progressões por diferença.**
+
+Progressões por quociente.
+
+Logarithmos, (theoria elementar). — Disposição e uso das taboas.
+
+Juros compostos. — Annuidades.
+
+**Programma de Geometria**
+
+Linha recta, quebrada e curva. — Superfícies. — Figuras. — Objecto da Geometria.
+
+Angulos. — Geração do angulo. — Angulo recto. — Angulos adjacentes. — Angulos oppostos pelo vertice.

@@ -1,0 +1,32 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_ELECTRICIDADE",
+        "titulo": "Não identificado",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento trata de fenômenos térmicos, incluindo vaporização, ebulição, liquefação e solidificação dos gases, propriedades dos vapores, higrometria, propagação do calor por condutibilidade, teoria de Fourier, irradiação, reflexão do calor, calorimetria, calor específico, leis de Dulong e Petit, calor de fusão e vaporização, eletricidade estática, leis de Coulomb, potencial elétrico, máquinas elétricas, teoria da condensação elétrica."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Cailletet",
+            "Raoult",
+            "Pictet",
+            "Fourier",
+            "Newton",
+            "Coulomb",
+            "Faraday",
+            "Melloni",
+            "Dulong",
+            "Petit",
+            "Regnault",
+            "Black"
+        ],
+        "lugares": []
+    },
+    "pagina_inicio": 227,
+    "pagina_fim": 227
+}

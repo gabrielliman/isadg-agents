@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_EXPLICAÇÃO_DAS_ESTAMPAS",
+        "titulo": "Memorial sobre o Lobo das Cavernas",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento apresenta um memorial científico que descreve a descoberta e análise de restos fósseis de mamíferos do Novo Mundo, destacando o lobo das cavernas, a raposa fóssil do Brasil e a paca fóssil. Inclui comparações anatômicas com espécies vivas, observações sobre a estratigrafia e a escavação em uma fenda de rocha, além de descrições de estampas ilustrativas que dão vista do rochedo dos Índios, planta da Lapa da Cerca Grande e detalhes dentários e cranianos dos fósseis."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "rochedo dos Índios perto de Mocambo",
+            "Lapa da Cerca Grande",
+            "cavernas do antigo mundo"
+        ]
+    },
+    "pagina_inicio": 20,
+    "pagina_fim": 21
+}

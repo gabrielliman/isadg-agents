@@ -1,0 +1,22 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Salitre_da_Lapa_da_Lagôa-Feia",
+        "titulo": "Salitre da Lapa da Lagôa-Feia",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descreve a extração e processamento de salitre na Lapa da Lagôa-Feia, incluindo a localização nas galerias da gruta, o método de lavagem em banquês, a produção de diferentes qualidades de salitre e seu uso na fabricação de pólvora, bem como o resíduo utilizado como alimento para gado."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Lapa da Lagôa-Feia",
+            "Rio das Velhas"
+        ]
+    },
+    "pagina_inicio": 134,
+    "pagina_fim": 138
+}

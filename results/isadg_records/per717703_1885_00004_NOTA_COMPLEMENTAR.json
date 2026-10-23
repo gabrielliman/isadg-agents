@@ -1,0 +1,28 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_NOTA_COMPLEMENTAR",
+        "titulo": "Nota complementar",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Nota complementar descrevendo o recebimento de amostras de monazita associada a xenotima, anatasio e ferro titanado, remetidas pelo Dr. Catão Gomes Jardim, engenheiro do 5º distrito de Minas, incluindo observações sobre sua origem (Corrego das Varas, afluente do Rio Pardo Pequeno, bacia do Rio das Velhas, perto da jazida diamantífera de S. João da Chapada), características físicas e resultados de análise."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Dr. Catão Gomes Jardim"
+        ],
+        "lugares": [
+            "Corrego das Varas",
+            "Rio Pardo Pequeno",
+            "Bacia do Rio das Velhas",
+            "Jazida diamantífera de S. João da Chapada",
+            "Província de Minas",
+            "Escola de Minas de Ouro Preto"
+        ]
+    },
+    "pagina_inicio": 41,
+    "pagina_fim": 41
+}

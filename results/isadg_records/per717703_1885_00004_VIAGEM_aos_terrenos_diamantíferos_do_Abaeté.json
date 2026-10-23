@@ -1,0 +1,24 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_VIAGEM_aos_terrenos_diamantíferos_do_Abaeté",
+        "titulo": "Viagem aos terrenos diamantíferos do Abaeté",
+        "data": "1879"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Engenheiro de Minas Antônio Olyntho dos Santos Pires"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Relato da viagem aos terrenos diamantíferos do Abaeté realizada pelo Engenheiro de Minas Antônio Olyntho dos Santos Pires, leitor na Escola de Minas de Ouro-Preto."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Antônio Olyntho dos Santos Pires"
+        ],
+        "lugares": [
+            "Abaeté",
+            "Ouro Preto"
+        ]
+    },
+    "pagina_inicio": 84,
+    "pagina_fim": 84
+}

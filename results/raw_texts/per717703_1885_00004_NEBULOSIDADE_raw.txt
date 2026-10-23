@@ -1,0 +1,55 @@
+NEBULOSIDADE
+
+Dias claros. Dias enublados. Dias chuvasos. Dias de nevoeiro.
+
+Setembro de 1885... 6 14 5 5
+
+Outubro de 1885... 2 15 10 4
+
+Novembro de 1885.. 8 16 6 0
+
+Dezembro de 1885.. 3 9 17 2
+
+Janeiro de 1886.... 10 8 13 0
+
+Fevereiro de 1886.. 0 11 14 3
+
+VELOCIDADE DO VENTO
+
+Velocidades médias maximas:
+
+De 5 h. t. ás 9 h. m.
+
+Em 30 de Outubro de 1885........ 4,00 por segundo
+
+15 de Novembro de 1885...... 2,05
+
+30 de Dezembro de 1885...... 1,06
+
+7 de Janeiro de 1886........ 5,08
+
+10 de Fevereiro de 1886...... 1,51
+
+De 9 h. m. á 1 h. t.
+
+Em 19 de Outubro de 1885........ 8,64 por segundo.
+
+14 de Novembro de 1885...... 4,95
+
+30 de Dezembro de 1885...... 4,52
+
+5 de Janeiro de 1886........ 4,10
+
+18 de Fevereiro de 1886...... 1,70
+
+De 1 h. t. ás 5 h. t.
+
+Em 1 de Outubro de 1885........ 7,10 por segundo.
+
+14 de Novembro de 1885...... 6,64
+
+30 de Dezembro de 1885...... 13,44
+
+7 de Janeiro de 1886........ 3,38
+
+18 de Fevereiro de 1886...... 2,22

@@ -1,0 +1,40 @@
+2.º ANNO
+
+3.º CADEIRA
+
+Mecanica applicada á resistencia dos materiaes e ás construcções
+
+PRIMEIRA PARTE
+
+THEORIA DA RESISTENCIA DOS MATERIAES
+
+Generalidades. Theoria molecular. Estado de equilibrio de um solido depois da deformação.
+
+Extensão. — Extensão de uma haste prismatica. Periodos de elasticidade e de ruptura. Coefficiente de elasticidade. Fórmula fundamental sobre a extensão. Resistencias vivas de elasticidade e de ruptura. Influencia da temperatura. Influencia do peso da haste sobre o alongamento. Solido de igual resistencia relativamente á extensão. Problema dos cabos diminuidos. Resistencia dos vasos a uma pressão interior.
+
+Compressão. — Ruptura por escorregamento e esmagamento. Compressão de um solido de seccão variavel. Solido de igual resistencia relativamente á compressão.
+
+Torsão. — Leis da torsão. Eixo de inercia. Momento de inercia polar. Problemas. Torsão de um solido de seccão variavel. Solido de igual resistencia relativamente á torsão.
+
+Flexão. — Theoria da flexão.
+
+Flexão simples. — Definição do engastamento. Fibra neutra. Momento de flexão, momento de resistencia. Trabalho molecular. Esforço cortante. Trave engastada. Aplicações. Solido de igual resistencia relativamente á flexão.
+Flexão complexa. — Fórmulas. Aplicações das fórmulas fundamentaes da flexão: traves repousando sobre dois apoios; traves engastadas; traves repousando sobre tres apoios. Agulhas verticaes. Theorema de Clapeyron ou dos tres momentos. Traves repousando sobre varios pontos de apoio. Traves carregadas no sentido de sen comprimento. Fórmulas de Hodgkinson. Trave curva: theoria de Henri de Dion. Aplicações.
+
+Solido submettido simultaneamente á flexão e á torsão.
+
+SEGUNDA PARTE
+
+APPLICAÇÕES ÁS CONSTRUÇÕES
+
+Machinas. — Calculo das dimensões das principaes peças de machinas.
+
+Construcções em madeira. — Constituição das madeiras. Elasticidade e resistencia. Obras de carpintaria. Traves reforçadas, traves de emendas. Madeiramentos de telhado. Distribuição das pressões nos vigamentos em madeira.
+
+Construcções metallicas. — Obras inteiramente metallicas. Asnas: formas diversas. Asna de Polonceau. Modo de calculo.
+
+Empuxo das terras e estabilidade dos muros de sustentação. — Expressão do empuxo das terras; momento do empuxo. Escoramento das terras. Estabilidade dos muros de sustentação. Muros para cercos. Paredes para sustentação de telhados. Contra-fortes. Paredes para sustentação das terras. Taludes em terra. Methodo de Poncelet para obter-se geometricamente o empuxo e o escoramento.
+
+Fundações. — Estabilidade das fundações. Fundações para machinas.
+
+Abobadas. — Abobadas em fórma de berço. Estabilidade de uma abobada: methodo da curva das pressões. Polygono dos centros de pressão. Junta de ruptura. Ve-

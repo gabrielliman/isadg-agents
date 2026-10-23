@@ -1,0 +1,25 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Observações_termometricas_e_barometricas",
+        "titulo": "Observações termométricas e barométricas",
+        "data": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento contém 156 observações termométricas e barométricas, tabelas de distâncias em léguas entre Ouro-Preto e o arraial da Cana-Brava (ida e volta passando pelo arraial do Areado), e alturas em metros de alguns pontos medidas com barômetro orométrico. Inclui ainda mapas das observações termométricas e barométricas, das distâncias relativas, das alturas de pontos notáveis relativamente a Ouro-Preto e um mapa itinerário segundo Gerber, com retificações pessoais do autor."
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Gerber"
+        ],
+        "lugares": [
+            "Ouro-Preto",
+            "Cana-Brava",
+            "Areado"
+        ]
+    },
+    "pagina_inicio": 142,
+    "pagina_fim": 145
+}

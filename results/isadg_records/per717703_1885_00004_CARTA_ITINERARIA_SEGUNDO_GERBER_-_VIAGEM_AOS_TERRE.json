@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_CARTA_ITINERARIA_SEGUNDO_GERBER_-_VIAGEM_AOS_TERRE",
+        "titulo": "CARTA ITINERÁRIA SEGUNDO GERBER VIAGEM AOS TERRENOS DIAMANTINOS DO ABASTÉ EM 1884",
+        "data": "1884"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Gerber"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento itinerário que descreve a viagem de Gerber aos terrenos diamantinos de Abasté em 1884, contendo mapas da região com legendas e símbolos, tabelas de distâncias e altitudes, dados geológicos (tipos de rochas e minerais), ilustrações de minas de diamantes, tabelas de produção de diamantes (quantidades e valores), ilustrações de povoações, tabelas populacionais e paisagens da região de Abasté."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Gerber"
+        ],
+        "lugares": [
+            "Abasté"
+        ]
+    },
+    "pagina_inicio": 329,
+    "pagina_fim": 329
+}

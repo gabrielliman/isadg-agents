@@ -1,0 +1,22 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_ANALYSE_FEITA_SOBRE_100_GRAMMAS_DE_MINERIO_DA_MINA",
+        "titulo": "Análise feita sobre 100 gramas de minério da mina da Tapéra em S. Bartolomeu.",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Análise feita sobre 100 gramas de minério da mina da Tapéra em S. Bartolomeu. — Quartzito. — Talco e pirites pouco abundantes. Peso do botão."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "S. Bartolomeu",
+            "mina da Tapéra"
+        ]
+    },
+    "pagina_inicio": 138,
+    "pagina_fim": 138
+}

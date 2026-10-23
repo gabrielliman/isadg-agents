@@ -1,0 +1,27 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_MINERIOS_DE_FERRO",
+        "titulo": "Análises de Minérios, Calcários e Carvão de Madeira",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento contendo análises químicas de minérios de ferro (Gandarela), minério de ouro da Mina da Tapera, calcários de Carandahy, Saramenha e Barroso, e carvão de madeira de Muricy, com percentuais de componentes e observações sobre sua utilização."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Gandarela",
+            "Mina da Tapera (próximo a S. Bartolomeu)",
+            "Fazenda de S. João de Guanhães",
+            "Carandahy",
+            "Saramenha",
+            "Barroso",
+            "Muricy"
+        ]
+    },
+    "pagina_inicio": 152,
+    "pagina_fim": 153
+}

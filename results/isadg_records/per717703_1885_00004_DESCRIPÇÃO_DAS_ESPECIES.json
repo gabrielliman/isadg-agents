@@ -1,0 +1,22 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_DESCRIPÇÃO_DAS_ESPECIES",
+        "titulo": "Lições de Mineralogia",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Conjunto de lições que abordam propriedades ópticas dos cristais, conductibilidade térmica, piroeletricidade, uso da pinça de turmalina e microscópio polarisador, emprego do maçarico e técnicas de análise de Plattner, descrição de espécies minerais como enxofre, grafito, diamante, quartzo e suas variedades, corindo, rubi, zeólitos, granadas, feldspatos, piroxênios, anfibólios, zeólitos, granadas, epidoto, esmeralda, topázio, micas, turmalina, etc., bem como lições sobre metais nativos, óxidos, sulfetos e outros minerais."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Breithaupt",
+            "Plattner"
+        ],
+        "lugares": []
+    },
+    "pagina_inicio": 252,
+    "pagina_fim": 252
+}

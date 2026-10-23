@@ -1,0 +1,49 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_NOTICIA_SOBRE_A_MINERALOGIA_E_GEOLOGIA_DE_UMA_PART",
+        "titulo": "NOTÍCIA SOBRE A MINERALOGIA E GEOLOGIA DE UMA PARTE DO NORTE E NORDESTE DA PROVÍNCIA DE MINAS-GERAIS (J.C. DA COSTA SENA)",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "J.C. DA COSTA SENA"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Relato de viagem de estudos realizada por J.C. da Costa Sena acompanhado de alunos da Escola de Minas de Ouro Preto, descrevendo as formações geológicas, minerais e ocorrências de ouro e diamantes nas regiões do Norte e Nordeste de Minas Gerais, incluindo detalhes sobre litologia (mica xistos, quartzitos, itabiritos, gneiss, talco, etc.), estruturas de dobras e falhas, ocorrências de depósitos aluvionares, garimpos e indicações de potencial econômico."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "J.C. DA COSTA SENA",
+            "Sr. tenente João Martins",
+            "Sr. Venâncio Pacheco",
+            "Sr. Francisco Nunes",
+            "Sr. José Dias Bicalho"
+        ],
+        "lugares": [
+            "Cidade da Conceição",
+            "Arraial da Penha",
+            "Ribeirão de S. João",
+            "Arraial de S. Domingos do Rio do Peixe",
+            "Ribeirão do Trigo",
+            "Senhora do Porto",
+            "Rio Guanhães",
+            "Ribeirão do Grahipú",
+            "Cidade de S. Miguel",
+            "Serra do Candonga",
+            "Patrocínio",
+            "Pessanha",
+            "Ribeirão Tronqueira",
+            "Serra dos Correntes",
+            "Rio Doce",
+            "Bacia do Arassuahy",
+            "Bacia do Jequitinhonha",
+            "Serra da Penha",
+            "Serra do Ambrosio",
+            "Noruega",
+            "Tromba d'Anta",
+            "Serra do Mundo Velho",
+            "Rio Turvo"
+        ]
+    },
+    "pagina_inicio": 108,
+    "pagina_fim": 127
+}

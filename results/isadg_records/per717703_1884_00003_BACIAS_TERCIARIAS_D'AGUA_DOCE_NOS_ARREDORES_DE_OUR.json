@@ -1,0 +1,46 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_BACIAS_TERCIARIAS_D'AGUA_DOCE_NOS_ARREDORES_DE_OUR",
+        "titulo": "Bacias Terciárias d'Água Doce nos Arredores de Ouro Preto (Gandarela e Fonseca)",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "H. Gorceix"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento descreve o estudo das bacias terciárias de água doce localizadas nos arredores de Ouro Preto, especificamente nas áreas de Gandarela e Fonseca, em Minas Gerais. Aborda a geologia das rochas terciárias, a presença de lignito associado a argilas e xistos, e a riqueza de impressões fósseis de folhas, flores, gêmulas e frutos. Também contextualiza a escassez de registros terciários no Brasil em comparação com a Patagônia, Argentina e Chile, destacando a importância dessas bacias para preencher lacunas conhecidas sobre a flora e fauna do período terciário na América do Sul."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "H. Gorceix",
+            "Hartt",
+            "Derby",
+            "Pissis",
+            "Agassiz",
+            "Orton",
+            "Burmeister",
+            "Liais"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Gandarela",
+            "Fonseca",
+            "Minas Gerais",
+            "Brasil",
+            "Rio de Janeiro",
+            "Amazonas",
+            "Patagônia",
+            "República Argentina",
+            "Chile",
+            "Serra do Caraça",
+            "Rio Doce",
+            "Rio das Velhas",
+            "Caeté",
+            "Tabatinga",
+            "Tocantins",
+            "Solimões"
+        ]
+    },
+    "pagina_inicio": 90,
+    "pagina_fim": 92
+}

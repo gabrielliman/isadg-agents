@@ -1,0 +1,30 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_INDICE_DAS_MATERIAS_DO_N._2",
+        "titulo": "ÍNDICE DAS MATÉRIAS DO N. 2",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Escola de Minas de Ouro Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Índice das matérias da segunda edição de uma publicação da Escola de Minas de Ouro Preto, contendo artigos sobre mineralogia, geologia, metalurgia, transmissão de força motriz por eletricidade, análises laboratoriais, produção de metais preciosos e notícias institucionais."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "H. Gorceix",
+            "A. de Bovet",
+            "A. Thiré",
+            "J. C. da Costa Sena",
+            "Domingos José da Rocha"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Província de Minas-Gerais",
+            "Norte e Nordeste da Província de Minas-Gerais",
+            "Estados-Unidos"
+        ]
+    },
+    "pagina_inicio": 164,
+    "pagina_fim": 164
+}

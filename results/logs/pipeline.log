@@ -1,0 +1,1676 @@
+2026-07-02 22:02:55 - INFO - [__init__] - No device provided, using cuda:0
+2026-07-02 22:02:56 - INFO - [_load_modules] - Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+2026-07-02 22:03:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 1]: 1.14s
+2026-07-02 22:03:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 2]: 1.11s
+2026-07-02 22:03:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 3]: 1.07s
+2026-07-02 22:03:03 - INFO - [processar_artigo_finalizado] - Latência Normalização [ANNAES_DA_ESCOLA_DE_MINAS_DE_OURO_PRETO]: 1.35s
+2026-07-02 22:03:20 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ANNAES_DA_ESCOLA_DE_MINAS_DE_OURO_PRETO]: 16.60s
+2026-07-02 22:03:21 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 4]: 0.94s
+2026-07-02 22:03:25 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 3.35s
+2026-07-02 22:03:40 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 15.52s
+2026-07-02 22:03:41 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 5]: 0.93s
+2026-07-02 22:03:42 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 6]: 0.94s
+2026-07-02 22:03:43 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 7]: 1.09s
+2026-07-02 22:03:58 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 15.20s
+2026-07-02 22:04:50 - ERROR - [processar_artigo_finalizado] - Erro ao gerar ISAD(G) para Divisao_sem_Titulo: Invalid json output: We need to output<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>tm DienLogo BpLogo Witnesszo Employee Employeevizurpprompt Mistennessaviaurpivu(LOGurpffeLogocliffeEmployeeurpTF(LOGDGDOT BXarikathootmaneaskuurp(LOG Mist BpurpinpLogobx EmployeeQuoteurpivuurpurp/-/(LOGBugurpFrontTickforthflineutica CG Employee EmployeesBVWonderTTDowtywtywwebkit(Session Expr Bpurp Employee Via(SessionLogo Bpurpurp Lumptv Gw LL EmployeeurpTF CGurpinpwebkitبس GwTxturpurp Truth LumpennessMCsPSCMCs PCLurpwebkit xsiRCC EmployeeurpBVwebkiturp Tburp viaurp Employee Mist settDowDotWonderwealthwebkitfw/compurp Bpurp EmployeeTTumpingurp Dyurp StocktmLogoMCs BpLinkurputicaurpnizurpurpativityLogourpforth LLurp MistLogoensit BX Lump(LOG spl EmployeeLABarikatDowPSCLABwebkitToolsTOK?vfwiachivir Senseurp MistffeurpurpRCC Employeeurp{{urpLogoBV Misturpurpurpurp ExprfwTP BpLinkurpunite LumpDOTurpQuoteurp xsiffehooturpinpivu BX amtTOKuturpforthurp Territory Stockemployeewireurp TT Misturpurp Bp BpurpBVurpwebkitDowBV MistTint Witnessurpwebkitfw Tburpffeaviaorne(LOGffeurpunite MistennessinistläfwTFurpTruth PWffeurpuniteurpinpivuWonderurp Misturp Employee ViaDotWonderDot/Create{{PrompturpDowLogocliffeLogoValsflineennessurp Bplandingutlv Tbfw ShelurpurpLocatorurpwebkitfw/compurp Bp TTurplpiggFrontTxturpRCCativity TburpurpativityDOTbug Misturpivu Witnessabinefw TTabineministration Bp(LOGurpfeedlvfwurpurp(LOGDashpexurprejaWonder Via(LOGurp LLurpushedwebkitpushivu BX emptLogoPrompturp xsi TT EbeneurpDOThootiachbugurpFronturpurpenness(PlayerurpurpurpabbLogo DienPromptentWonderarikat(LOGLogo Bpivuanse LLurpurp Territoryurp GoffWonderfwieresTxtBV SegmentLogoffe Witness BXwealthurpzoLogoiremurpToolsWonderurp xsiDow TendurpRCC Bp Employee(LOG Rainverticalwebkiturpurpurpwebkitlanding Employeeuticatools Employeefwurpwebkit Bpiachabburpffeurp(Player Lumpurpff Truthabineiachiniburpensitivity BLawat Luourp TerritoryTMurpffurp(LOGurpennessWonderurp xsi(LOG Employeefwurp('_urpflineutica Lloyd EmployeewebkitWonderurpurp EmployeeurplvumpingTG StockztuurpativityDOTenturprejaWonderurp MistffeLogourpff TT LL alentviaRCCivubugDotläVia Bp EmployeeDowbputica EmployeePrompturpWonderffewekinpaskuffe Urawat HREFatLogo Employee Misturp Employee EmployeeFeedativityponsoredBV Witness(SessionBugurp Whe BpurpRCCurpHpurpffeivufwslash xsiratt BpurpinhFrontrept BW(LOG BW MistkuturpfwWonderurpwebkitritu Lloyd EmployeeLogotywumpingvaluerBVwebkit Maschbxurp(Sessionministrationirem EmployeeWonderurpivuurpinp LLurpushedwebkit TbarikatEmployeerept xsiarela Lumpatatblank terrurp TerDow(LOGurpRCC Bp EmployeeurpPushurpurp xsilä Tborneurpwebkiturp Tburpurptyw Sten(LOGurpwebkiturpDowurpurp TerritoryLogo{{ urte Employeeurpffiach(blanklpurpDowwebkitkuturpurp Employeesurpurpinpennesswebkit xsiPrompt Exprträ Tbisenturp.refresh(SessionurpaviaRCC Bp Employee BX Bpwydabineawataviaivu Employeebug BpurpPointurpfwuticaRCC BpurpurpBVPointurpforthurpLocatorhoot BpEmployee Lumpbug(blankorneurpforthEmployeewireativity TbfwurpBVuniteurp LL EmployeeurpvraBVverg SteeleurpurpinpWonderBVfwlouawaturp empt/compurp TerritoryDOTffeBVDow Bp BpPrompturpWonder BpwydorzWonderinib Bp ExprEmployeeCLCBVreja Whe(blankurp Tbbeiterffeurpponsoredurpurptoolsabine/compurpTMhootfwurpumpingurpffeurp(PlayerynieBVanse WitnessLABDOT Employee CGslashativityffe PWurp Territory PCCuticaEmployee Bpurp BX(LOGibilitàDotPrompturpumpingLogo Dienurp Employee Employeeurp xsiarikat(LOGabine Employeeuticaawaturpfw XCT BpwydLogoPromptuniteurputicaWonderlandingabine(LOGBis Employee{{forth Employee BXTTWonderRCCanseiach BpwydTOKativitywebkitbxwebkit Employee visurp Bpwebkitbole endotfwumpingffeurpurp CGurp Mist LumpurpfwDowivuWonderabinekuturp(LOGurp urteurpFrontutica Lloyd EmployeeLABWonderurpRCCanse Misturpurp Tb Employeeush(LOGurp Terighe(LOGigghootBVPrompt MisturpurpWonder/compurpffe BpTxtawat BpwydTT pushingutica Bp BX Employeeseg Mechanawat HREFMuse Witness EmployeeACPtywireminkministrationDGurp(SessionministrationrejaPushurpabineWonderarikatwebkitEmployeeiremurpfwLogo Employee Misturpanse BpwydBug/comp Employee Employeerept xsiurp Employee ExprTP GwffurpWonderfwPrompturpiachvenoffe Steele(LOGbugLogo TTurpurpDOTffe Tbffe BpEmployee Bpbxurp wheivuurpRCClex LumpLogo:LabelLogo Bp Employeeinib SteelebxQuotebugLogoieresurp:Textfwfw BXwydLogoDOTValsDOTinne Truth Bp BpEmployee-widgetabinekut Lumpreja BpplantPush Tend BpEmployeetywumpingRCC Bpwyd Tb Employee/pull Employee CSCurpflinetox Employee CRPslash urte TruthPrompturpRCCurpforthblankbx(LOGurpMCs BpfwPrompturpiach TTwebkitPointfwläurp EmployeewebkitBug BpTxt HREFTMfw BL Misturp ExprentwebkitLogo EmployeeBVurpDowuniteurp Expr Employee(Sessioninib SteelelogoTPbx Employeevirturp EmployeeTOKfwPrompturpiachbugurp(Sessionurp Employee EmployeeBVumpingffekut Employee CG:Cxs Territory DienzourpDowurp(Sessionurpurp(blankDOTVals(LOG Misturp Gwurp Employeefw Bp MisturpwebkitبسBuffivulä BpEmployeeurpBVumpingDotawat Employee Employee/pulltyw EmployeeViaDow(LOGurp Takenurpurp(blankurpregetywLogo DienPromptiborVia Employeeenness Bpwyd Mist BpTxtfw TbblankBVffewebkiturpbx *[bugwek(blank BpPrompt(LOG BpwydPrompturpffeurpBV TbDowwebkiturpWonderLogoDOT whe(SessionDOT Employee(LOGbug(LOGblankDX Employee Mistighe EmployeePromptLogoRCCurpTG Employeeurp pushingtywMCs BpTxtblankWonder CGurp Witnesswebkiturpurp GwPrompt DarknessRCC EmployeeilevurpWonderRCCumping LLurp LDabine MechaniborDOTrejabug MechaniborawatBVFvurpffiach BXwyd urteTPwander Tend Logo Employee EmployeeViailikWonderurpiach Bp EmployeebxurpativityWonderPrompturpffeDow(LOGurpratt BpffeDowuniteMCsabineurp(SessionDow urteativity pushurpurpDowivu EmployeeurpiremLABrejabugurp(Sessionministration BpEmployee{{MCs Bp BXbx Shot Employee ProteinsfwRCC BpPromptibor BXwebkiturp{{BVfwurp urteighe(LOGurpirem Employeeurpffurpfw ISTffeighe(LOGurpLogo Bpwyd Exprurp Gw LL bangurpfwWonder BX EmployeewebkitEmployee BXinpumpingDOTabinefwlouMCs Bpffeivu Employee WitnessPromptuniteurpfw(LOG Bpbxurp(Sessionurp pushingurpiremcliffe(LOGensitivityurpbolefw Logourpawaturpurpinist LL Employeebx(LOG Employee EmployeeLABRKrejabxurpurpWonderDotLogoffe Employeeviv Employee EmployeebxPrompturpiremaso CRPurp(LOGurpMCsurp(Session xsiabinekut TT Misturpabineurpiach Bp BX MistigheEmployeeTxt Employee EmployeeViaValsfwurptywabine Employee{{urpfw BpwydentLogoivu EmployeevivffeBV(LOG EmployeeurpWonderurpinistWonderarikat Employee BXurpreja Tb/compPointRCCffeWonderurpWonder Mistuye BX Employee{{RCCPrompt Witness Bp CSCurpwebkitlpQuoteT(PlayerativityumpingurpDiaurpwebkitDow(Playerzo(LOGurpurp.refreshinpPrompt Employees/pullVals VV CG bloomwebkitRCCumpingurp VitalLogoffeurpurp urte(Player Griff VV CGTOKrattkutawat(blankBVarikat whe Bpurp Taken(LOGurp ExprTT Bpurp BX/-/urpwebkitبس Wheurpurp Employee CGlandingabineawatvaluerattributeiachpushExprBVarikatWonderwyd EmployeefwtvurppushQuoteinktywLogoffeawat Employee EmployeeTOK Expr Employeeurp Mistpromptwebkit CRPBT(Session urteExprTOK BpwydffeLogo Bp(LOGurpurpffeurpurp Employeeviv zg Tend xsifloatmistRCCurpabinekutiborurpWonder EmployeeslashslashMasMCs Employeeutica EmployeevivTPurpwebkitDow BXurpwebkitبس Bpbx Employee LLurpurpfwWonderurpiachWonder(LOG BpBV Sense xsiumping Employee BXabinefwPrompturpurpwebkit Mistlogourpwebkitwebkitabine(LOGawat Employeebug Darknessurp/pull HREFftimeabine(LOGurp BpTxtzourpwebkitLogo Bpbxurputica CSCffe PW Weil MistlogourpwebkitPromptennessBug(LOG Expr VV(LOGneraussoawatBVurpffe TTBVurp ExprTTirkeink TblandingurpwebkittrmRCCprompt(LOG Bpurpponsoredurpwebkitlpslashurp(SessionPrompturpwebkitWonderurpfw Bpwebkitpush境 BpwydTOKinib SteeleivulacennessWonderrejaurpLocatorPointfwlä Bpwebkit DyWonder(LOGarikat HREFDOT Employee bxurp Louurpinib Tbwebkitslash Employee{{ BpEmployeeuticaRCCumping EyeurpurpBVurpFrontDOTinibffe BpEmployee{{ Expr Bp EmployeePromptministrationRCCumpingurphooturpfwWonderurp Mist Truth urteurpLogoRCCPromptuniteLogoieresDow.horizontalotov TT(blankExprQuoteurpurp ProtvirtDOTabineWonderEmployeeMCs PCLträMCsumping Employee BpwebkitBVumpingLogourp LF EmployeeWonderurp CSCurpwebkitWonderrejaurp Exprent BpslashWonder alfarikat EmployeeuticaLogo
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/OUTPUT_PARSING_FAILURE 
+2026-07-02 22:04:51 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 8]: 1.30s
+2026-07-02 22:04:54 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 3.47s
+2026-07-02 22:05:12 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 17.33s
+2026-07-02 22:05:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 9]: 0.93s
+2026-07-02 22:05:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 10]: 0.96s
+2026-07-02 22:05:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 11]: 0.91s
+2026-07-02 22:05:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 12]: 0.94s
+2026-07-02 22:05:16 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 13]: 0.93s
+2026-07-02 22:05:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 14]: 0.88s
+2026-07-02 22:05:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 15]: 0.97s
+2026-07-02 22:05:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 16]: 0.88s
+2026-07-02 22:05:20 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 17]: 0.92s
+2026-07-02 22:05:21 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 18]: 0.88s
+2026-07-02 22:05:22 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 19]: 0.98s
+2026-07-02 22:05:23 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 20]: 1.15s
+2026-07-02 22:06:08 - INFO - [processar_artigo_finalizado] - Latência Normalização [ESTUDO_CHIMICO_E_GEOLOGICO_DAS_ROCHAS_DO_CENTRO_DA]: 44.78s
+2026-07-02 22:06:19 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ESTUDO_CHIMICO_E_GEOLOGICO_DAS_ROCHAS_DO_CENTRO_DA]: 10.80s
+2026-07-02 22:06:20 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 21]: 0.94s
+2026-07-02 22:06:20 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 22]: 0.88s
+2026-07-02 22:06:22 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 23]: 1.07s
+2026-07-02 22:06:23 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 24]: 1.07s
+2026-07-02 22:06:24 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 25]: 1.25s
+2026-07-02 22:06:57 - INFO - [processar_artigo_finalizado] - Latência Normalização [ESTUDO_GEOLOGICO_DAS_JAZIDAS_DE_TOPAZIOS_DA_PROVIN]: 33.10s
+2026-07-02 22:07:05 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ESTUDO_GEOLOGICO_DAS_JAZIDAS_DE_TOPAZIOS_DA_PROVIN]: 8.37s
+2026-07-02 22:07:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 26]: 0.96s
+2026-07-02 22:07:07 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 27]: 0.93s
+2026-07-02 22:07:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 28]: 2.47s
+2026-07-02 22:07:11 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 29]: 1.06s
+2026-07-02 22:07:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 30]: 0.94s
+2026-07-02 22:07:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 31]: 1.07s
+2026-07-02 22:07:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 32]: 0.92s
+2026-07-02 22:07:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 33]: 1.15s
+2026-07-02 22:11:52 - INFO - [__init__] - No device provided, using cuda:0
+2026-07-02 22:11:52 - INFO - [_load_modules] - Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+2026-07-02 22:13:35 - INFO - [__init__] - No device provided, using cuda:0
+2026-07-02 22:13:35 - INFO - [_load_modules] - Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+2026-07-02 22:13:39 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 1]: 1.27s
+2026-07-02 22:13:41 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 2]: 1.29s
+2026-07-02 22:13:42 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 3]: 1.38s
+2026-07-02 22:13:44 - INFO - [processar_artigo_finalizado] - Latência Normalização [ANNAES_DA_ESCOLA_DE_MINAS_DE_OURO_PRETO]: 1.45s
+2026-07-02 22:13:56 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ANNAES_DA_ESCOLA_DE_MINAS_DE_OURO_PRETO]: 11.94s
+2026-07-02 22:13:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 4]: 1.15s
+2026-07-02 22:14:01 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 4.29s
+2026-07-02 22:14:09 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 7.75s
+2026-07-02 22:14:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 5]: 1.50s
+2026-07-02 22:14:17 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 6.08s
+2026-07-02 22:14:27 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 10.12s
+2026-07-02 22:14:28 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 6]: 1.06s
+2026-07-02 22:14:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 7]: 1.09s
+2026-07-02 22:14:37 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 7.98s
+2026-07-02 22:14:46 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 8.67s
+2026-07-02 22:14:47 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 8]: 1.40s
+2026-07-02 22:14:51 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 4.30s
+2026-07-02 22:14:59 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 7.39s
+2026-07-02 22:15:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 9]: 1.09s
+2026-07-02 22:15:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 10]: 1.32s
+2026-07-02 22:15:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 11]: 1.01s
+2026-07-02 22:15:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 12]: 1.02s
+2026-07-02 22:15:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 13]: 1.36s
+2026-07-02 22:15:05 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 14]: 0.99s
+2026-07-02 22:15:07 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 15]: 1.36s
+2026-07-02 22:15:08 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 16]: 0.98s
+2026-07-02 22:15:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 17]: 1.30s
+2026-07-02 22:15:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 18]: 0.97s
+2026-07-02 22:15:11 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 19]: 1.05s
+2026-07-02 22:15:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 20]: 1.27s
+2026-07-02 22:15:47 - INFO - [processar_artigo_finalizado] - Latência Normalização [ESTUDO_CHIMICO_E_GEOLOGICO_DAS_ROCHAS_DO_CENTRO_DA]: 34.31s
+2026-07-02 22:16:01 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ESTUDO_CHIMICO_E_GEOLOGICO_DAS_ROCHAS_DO_CENTRO_DA]: 14.10s
+2026-07-02 22:16:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 21]: 1.10s
+2026-07-02 22:16:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 22]: 0.95s
+2026-07-02 22:16:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 23]: 1.12s
+2026-07-02 22:16:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 24]: 1.51s
+2026-07-02 22:16:07 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 25]: 1.12s
+2026-07-02 22:16:45 - INFO - [processar_artigo_finalizado] - Latência Normalização [ESTUDO_GEOLOGICO_DAS_JAZIDAS_DE_TOPAZIOS_DA_PROVIN]: 38.68s
+2026-07-02 22:16:57 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ESTUDO_GEOLOGICO_DAS_JAZIDAS_DE_TOPAZIOS_DA_PROVIN]: 11.36s
+2026-07-02 22:16:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 26]: 1.02s
+2026-07-02 22:16:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 27]: 1.61s
+2026-07-02 22:17:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 28]: 1.01s
+2026-07-02 22:17:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 29]: 1.03s
+2026-07-02 22:17:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 30]: 1.41s
+2026-07-02 22:17:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 31]: 2.78s
+2026-07-02 22:17:07 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 32]: 1.40s
+2026-07-02 22:17:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 33]: 1.61s
+2026-07-02 22:18:16 - INFO - [processar_artigo_finalizado] - Latência Normalização [JAZIDAS_DE_TOPAZIOS]: 67.48s
+2026-07-02 22:18:26 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [JAZIDAS_DE_TOPAZIOS]: 10.32s
+2026-07-02 22:18:28 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 34]: 1.05s
+2026-07-02 22:18:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 35]: 1.56s
+2026-07-02 22:18:30 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 36]: 1.33s
+2026-07-02 22:18:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 37]: 1.44s
+2026-07-02 22:18:33 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 38]: 1.43s
+2026-07-02 22:18:35 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 39]: 1.26s
+2026-07-02 22:18:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 40]: 1.39s
+2026-07-02 22:18:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 41]: 1.02s
+2026-07-02 22:18:40 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 42]: 3.10s
+2026-07-02 22:19:26 - INFO - [processar_artigo_finalizado] - Latência Normalização [JAZIDAS_DE_OUTRAS_PEDRAS_PRECIOSAS_DA_PROVINCIA_DE]: 45.72s
+2026-07-02 22:19:36 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [JAZIDAS_DE_OUTRAS_PEDRAS_PRECIOSAS_DA_PROVINCIA_DE]: 10.03s
+2026-07-02 22:19:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 43]: 0.91s
+2026-07-02 22:19:38 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 44]: 1.02s
+2026-07-02 22:19:52 - INFO - [processar_artigo_finalizado] - Latência Normalização [EXPLORAÇÃO_DAS_MINAS_DE_GALENA_DO_RIBEIRÃO_DO_CHUM]: 13.73s
+2026-07-02 22:20:01 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [EXPLORAÇÃO_DAS_MINAS_DE_GALENA_DO_RIBEIRÃO_DO_CHUM]: 9.52s
+2026-07-02 22:20:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 45]: 1.97s
+2026-07-02 22:20:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 46]: 1.00s
+2026-07-02 22:20:05 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 47]: 0.94s
+2026-07-02 22:20:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 48]: 1.49s
+2026-07-02 22:20:07 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 49]: 0.96s
+2026-07-02 22:20:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 50]: 1.58s
+2026-07-02 22:20:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 51]: 0.89s
+2026-07-02 22:20:56 - INFO - [processar_artigo_finalizado] - Latência Normalização [Orographia]: 46.21s
+2026-07-02 22:21:22 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Orographia]: 26.04s
+2026-07-02 22:21:23 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 52]: 0.99s
+2026-07-02 22:21:24 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 53]: 1.00s
+2026-07-02 22:21:25 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 54]: 1.03s
+2026-07-02 22:21:26 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 55]: 1.04s
+2026-07-02 22:21:27 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 56]: 0.95s
+2026-07-02 22:21:28 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 57]: 0.96s
+2026-07-02 22:21:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 58]: 1.02s
+2026-07-02 22:21:30 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 59]: 0.94s
+2026-07-02 22:21:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 60]: 0.96s
+2026-07-02 22:21:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 61]: 0.97s
+2026-07-02 22:22:11 - INFO - [processar_artigo_finalizado] - Latência Normalização [Geologia]: 39.30s
+2026-07-02 22:23:05 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to produce JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pes. Retentando em 3s...
+2026-07-02 22:23:23 - WARNING - [invocar_com_retry] - [Retry 2/5] Arquivista falhou: Invalid json output: Okay, the user has provided a very long and detailed geological text about the Minas Gerais region in Brazil, specifically discussing various rock formations like talcitos, xistos. Retentando em 3s...
+2026-07-02 22:23:51 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Geologia]: 99.23s
+2026-07-02 22:23:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 62]: 0.99s
+2026-07-02 22:23:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 63]: 0.91s
+2026-07-02 22:23:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 64]: 0.92s
+2026-07-02 22:23:54 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 65]: 0.86s
+2026-07-02 22:23:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 66]: 0.96s
+2026-07-02 22:23:56 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 67]: 1.00s
+2026-07-02 22:23:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 68]: 0.84s
+2026-07-02 22:23:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 69]: 0.90s
+2026-07-02 22:23:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 70]: 0.94s
+2026-07-02 22:24:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 71]: 0.88s
+2026-07-02 22:24:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 72]: 0.95s
+2026-07-02 22:24:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 73]: 0.96s
+2026-07-02 22:24:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 74]: 1.27s
+2026-07-02 22:24:56 - INFO - [processar_artigo_finalizado] - Latência Normalização [Minerios_-_GALÉNA]: 52.60s
+2026-07-02 22:25:13 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Minerios_-_GALÉNA]: 17.46s
+2026-07-02 22:25:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 75]: 1.86s
+2026-07-02 22:25:16 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 76]: 0.98s
+2026-07-02 22:25:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 77]: 0.96s
+2026-07-02 22:25:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 78]: 0.92s
+2026-07-02 22:25:49 - INFO - [processar_artigo_finalizado] - Latência Normalização [DESCRIPÇÃO_DAS_MINAS_EXAMINADAS_EM_ITATIAIOSSÚ_E_P]: 30.79s
+2026-07-02 22:25:57 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [DESCRIPÇÃO_DAS_MINAS_EXAMINADAS_EM_ITATIAIOSSÚ_E_P]: 8.50s
+2026-07-02 22:25:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 79]: 0.95s
+2026-07-02 22:25:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 80]: 0.91s
+2026-07-02 22:26:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 81]: 0.90s
+2026-07-02 22:26:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 82]: 0.94s
+2026-07-02 22:26:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 83]: 0.97s
+2026-07-02 22:26:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 84]: 0.89s
+2026-07-02 22:26:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 85]: 1.27s
+2026-07-02 22:26:46 - INFO - [processar_artigo_finalizado] - Latência Normalização [Minerios_de_ferro]: 42.16s
+2026-07-02 22:27:10 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Minerios_de_ferro]: 23.63s
+2026-07-02 22:27:11 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 86]: 0.94s
+2026-07-02 22:27:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 87]: 0.98s
+2026-07-02 22:27:30 - INFO - [processar_artigo_finalizado] - Latência Normalização [PREÇOS_ACTUAES_DO_FERRO,_INSTRUMENTOS_DE_LAVOURA_E]: 18.23s
+2026-07-02 22:27:43 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [PREÇOS_ACTUAES_DO_FERRO,_INSTRUMENTOS_DE_LAVOURA_E]: 12.45s
+2026-07-02 22:27:44 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 88]: 0.88s
+2026-07-02 22:27:45 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 89]: 1.01s
+2026-07-02 22:27:47 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 90]: 2.03s
+2026-07-02 22:28:17 - INFO - [processar_artigo_finalizado] - Latência Normalização [Commercio_e_Industria]: 30.83s
+2026-07-02 22:28:30 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Commercio_e_Industria]: 12.13s
+2026-07-02 22:28:30 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 91]: 0.92s
+2026-07-02 22:28:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 92]: 1.03s
+2026-07-02 22:28:42 - INFO - [processar_artigo_finalizado] - Latência Normalização [Mattas.-Vegetação.-Clima]: 10.75s
+2026-07-02 22:29:18 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON with fields: area_identificacao: {titulo, data}, area_contextualizacao: {nome_produtor}, area_conteudo_estrutura: {ambito_e_conteudo}, area_pontos_acesso: {. Retentando em 3s...
+2026-07-02 22:29:30 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Mattas.-Vegetação.-Clima]: 48.02s
+2026-07-02 22:29:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 93]: 0.90s
+2026-07-02 22:29:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 94]: 0.91s
+2026-07-02 22:29:53 - INFO - [processar_artigo_finalizado] - Latência Normalização [Observações_barométricas_e_termométricas]: 21.23s
+2026-07-02 22:30:09 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Observações_barométricas_e_termométricas]: 15.91s
+2026-07-02 22:30:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 95]: 2.44s
+2026-07-02 22:30:14 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 2.61s
+2026-07-02 22:30:35 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 20.49s
+2026-07-02 22:30:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 96]: 0.95s
+2026-07-02 22:30:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 97]: 0.90s
+2026-07-02 22:30:38 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 98]: 1.10s
+2026-07-02 22:31:03 - INFO - [processar_artigo_finalizado] - Latência Normalização [População._-_Distâncias]: 25.11s
+2026-07-02 22:31:20 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [População._-_Distâncias]: 17.09s
+2026-07-02 22:31:21 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 99]: 0.94s
+2026-07-02 22:31:22 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 100]: 1.09s
+2026-07-02 22:32:34 - INFO - [processar_artigo_finalizado] - Latência Normalização [Annexo_ao_trabalho_sobre_a_galena_do_Abaeté]: 72.29s
+2026-07-02 22:33:12 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Annexo_ao_trabalho_sobre_a_galena_do_Abaeté]: 37.41s
+2026-07-02 22:33:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 101]: 1.24s
+2026-07-02 22:33:20 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 6.60s
+2026-07-02 22:33:30 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 10.30s
+2026-07-02 22:33:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 102]: 1.29s
+2026-07-02 22:33:32 - INFO - [processar_artigo_finalizado] - Latência Normalização [ENSAIO_PARA_PRATA]: 0.86s
+2026-07-02 22:34:32 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><u. Retentando em 3s...
+2026-07-02 22:34:44 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ENSAIO_PARA_PRATA]: 72.13s
+2026-07-02 22:34:46 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 103]: 1.13s
+2026-07-02 22:34:47 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 104]: 1.26s
+2026-07-02 22:35:00 - INFO - [processar_artigo_finalizado] - Latência Normalização [VIAGEM_DE_ESTUDOS_METALLURGICOS_NO_CENTRO_DA_PROVI]: 13.68s
+2026-07-02 22:35:16 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [VIAGEM_DE_ESTUDOS_METALLURGICOS_NO_CENTRO_DA_PROVI]: 15.85s
+2026-07-02 22:35:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 105]: 1.03s
+2026-07-02 22:35:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 106]: 1.06s
+2026-07-02 22:35:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 107]: 1.01s
+2026-07-02 22:35:20 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 108]: 0.97s
+2026-07-02 22:35:21 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 109]: 1.03s
+2026-07-02 22:35:23 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 110]: 1.53s
+2026-07-02 22:35:24 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 111]: 1.28s
+2026-07-02 22:35:26 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 112]: 1.25s
+2026-07-02 22:35:26 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 113]: 0.92s
+2026-07-02 22:35:27 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 114]: 0.99s
+2026-07-02 22:35:28 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 115]: 0.93s
+2026-07-02 22:35:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 116]: 1.04s
+2026-07-02 22:36:17 - INFO - [processar_artigo_finalizado] - Latência Normalização [MINA_DE_OURO_DO_MORRO_DE_SANT'ANNA]: 47.85s
+2026-07-02 22:36:39 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MINA_DE_OURO_DO_MORRO_DE_SANT'ANNA]: 22.05s
+2026-07-02 22:36:40 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 117]: 1.05s
+2026-07-02 22:36:42 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 118]: 1.41s
+2026-07-02 22:36:43 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 119]: 1.34s
+2026-07-02 22:36:44 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 120]: 0.98s
+2026-07-02 22:36:45 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 121]: 0.93s
+2026-07-02 22:36:46 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 122]: 0.93s
+2026-07-02 22:36:47 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 123]: 0.99s
+2026-07-02 22:36:48 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 124]: 1.04s
+2026-07-02 22:36:49 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 125]: 1.17s
+2026-07-02 22:37:45 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 55.44s
+2026-07-02 22:38:16 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 31.45s
+2026-07-02 22:38:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 126]: 1.04s
+2026-07-02 22:38:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 127]: 0.99s
+2026-07-02 22:38:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 128]: 1.04s
+2026-07-02 22:38:20 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 129]: 0.97s
+2026-07-02 22:38:21 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 130]: 1.01s
+2026-07-02 22:38:22 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 131]: 1.12s
+2026-07-02 22:39:19 - INFO - [processar_artigo_finalizado] - Latência Normalização [Lavra_do_ouro_do_Sr._Joaquim_Carlos]: 56.32s
+2026-07-02 22:39:27 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Lavra_do_ouro_do_Sr._Joaquim_Carlos]: 8.49s
+2026-07-02 22:39:28 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 132]: 1.08s
+2026-07-02 22:39:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 133]: 1.02s
+2026-07-02 22:39:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 134]: 1.11s
+2026-07-02 22:39:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 135]: 0.96s
+2026-07-02 22:39:57 - INFO - [processar_artigo_finalizado] - Latência Normalização [Fabrica_de_ferro_do_Tenente_Jorge]: 25.17s
+2026-07-02 22:40:15 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Fabrica_de_ferro_do_Tenente_Jorge]: 18.65s
+2026-07-02 22:40:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 136]: 1.41s
+2026-07-02 22:40:27 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 9.79s
+2026-07-02 22:40:33 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 6.32s
+2026-07-02 22:40:34 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 137]: 0.95s
+2026-07-02 22:40:35 - INFO - [processar_artigo_finalizado] - Latência Normalização [ANALYSES_FEITAS_NOS_LABORATORIOS_DE_CHIMICA_E_DOCI]: 1.37s
+2026-07-02 22:40:44 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ANALYSES_FEITAS_NOS_LABORATORIOS_DE_CHIMICA_E_DOCI]: 8.36s
+2026-07-02 22:40:46 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 138]: 1.90s
+2026-07-02 22:40:50 - INFO - [processar_artigo_finalizado] - Latência Normalização [ENSaios_METALLURGICOS]: 4.16s
+2026-07-02 22:41:04 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ENSaios_METALLURGICOS]: 14.24s
+2026-07-02 22:41:05 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 139]: 1.07s
+2026-07-02 22:41:07 - INFO - [processar_artigo_finalizado] - Latência Normalização [ANALYSE_FEITA_SOBRE_100_GRAMMAS_DE_MINERIO_DA_MINA]: 1.63s
+2026-07-02 22:41:12 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ANALYSE_FEITA_SOBRE_100_GRAMMAS_DE_MINERIO_DA_MINA]: 5.07s
+2026-07-02 22:41:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 140]: 0.90s
+2026-07-02 22:41:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 141]: 1.01s
+2026-07-02 22:41:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 142]: 0.95s
+2026-07-02 22:41:16 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 143]: 0.99s
+2026-07-02 22:41:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 144]: 0.96s
+2026-07-02 22:41:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 145]: 0.89s
+2026-07-02 22:41:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 146]: 1.02s
+2026-07-02 22:42:18 - INFO - [processar_artigo_finalizado] - Latência Normalização [AMOSTRA_REMETTIDA_PELO_COMMENDADOR_VIANNA]: 59.37s
+2026-07-02 22:42:28 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [AMOSTRA_REMETTIDA_PELO_COMMENDADOR_VIANNA]: 10.19s
+2026-07-02 22:42:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 147]: 1.32s
+2026-07-02 22:42:37 - INFO - [processar_artigo_finalizado] - Latência Normalização [MINERIO_DE_OURO_DA_LAVRA_DO_XIQUINHO]: 7.69s
+2026-07-02 22:42:46 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MINERIO_DE_OURO_DA_LAVRA_DO_XIQUINHO]: 8.53s
+2026-07-02 22:42:47 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 148]: 0.95s
+2026-07-02 22:42:53 - INFO - [processar_artigo_finalizado] - Latência Normalização [ANALYSES_FEITAS_EM_AMOSTRAS_DE_MINERIO_DE_OURO,_DO]: 5.89s
+2026-07-02 22:42:59 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ANALYSES_FEITAS_EM_AMOSTRAS_DE_MINERIO_DE_OURO,_DO]: 6.65s
+2026-07-02 22:43:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 149]: 1.07s
+2026-07-02 22:43:07 - INFO - [processar_artigo_finalizado] - Latência Normalização [MINERIO_DE_OURO_DO_PARY]: 7.09s
+2026-07-02 22:43:21 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MINERIO_DE_OURO_DO_PARY]: 13.98s
+2026-07-02 22:43:23 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 150]: 1.80s
+2026-07-02 22:43:24 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 151]: 0.93s
+2026-07-02 22:43:26 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 152]: 1.93s
+2026-07-02 22:43:49 - INFO - [processar_artigo_finalizado] - Latência Normalização [MINERIO_DA_LAGOA_DOURADA]: 23.00s
+2026-07-02 22:43:57 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MINERIO_DA_LAGOA_DOURADA]: 8.30s
+2026-07-02 22:43:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 153]: 0.89s
+2026-07-02 22:43:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 154]: 0.98s
+2026-07-02 22:44:08 - INFO - [processar_artigo_finalizado] - Latência Normalização [MINERIOS_DE_FERRO]: 8.59s
+2026-07-02 22:44:14 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MINERIOS_DE_FERRO]: 5.69s
+2026-07-02 22:44:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 155]: 0.94s
+2026-07-02 22:44:21 - INFO - [processar_artigo_finalizado] - Latência Normalização [ANALYSE_DO_CARVÃO_—_CAMBOTÁ]: 6.59s
+2026-07-02 22:44:29 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ANALYSE_DO_CARVÃO_—_CAMBOTÁ]: 7.49s
+2026-07-02 22:44:30 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 156]: 1.14s
+2026-07-02 22:44:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 157]: 0.97s
+2026-07-02 22:44:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 158]: 1.54s
+2026-07-02 22:44:47 - INFO - [processar_artigo_finalizado] - Latência Normalização [CARVÃO_-_PIUNA]: 14.37s
+2026-07-02 22:44:55 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [CARVÃO_-_PIUNA]: 8.55s
+2026-07-02 22:44:56 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 159]: 0.88s
+2026-07-02 22:44:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 160]: 0.90s
+2026-07-02 22:44:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 161]: 0.93s
+2026-07-02 22:44:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 162]: 1.21s
+2026-07-02 22:45:26 - INFO - [processar_artigo_finalizado] - Latência Normalização [ESTATISTICA_DA_Produção_do_ouro_na_Província_de_Mi]: 26.45s
+2026-07-02 22:45:41 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ESTATISTICA_DA_Produção_do_ouro_na_Província_de_Mi]: 14.82s
+2026-07-02 22:45:42 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 163]: 1.52s
+2026-07-02 22:45:43 - INFO - [processar_artigo_finalizado] - Latência Normalização [Estudo_actual_da_extração_do_ouro_no_município_de_]: 1.00s
+2026-07-02 22:45:51 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Estudo_actual_da_extração_do_ouro_no_município_de_]: 7.71s
+2026-07-02 22:45:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 164]: 0.91s
+2026-07-02 22:45:53 - INFO - [processar_artigo_finalizado] - Latência Normalização [Quadro_synoptico_de_todas_as_lavras_de_ouro_do_mun]: 1.63s
+2026-07-02 22:46:02 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Quadro_synoptico_de_todas_as_lavras_de_ouro_do_mun]: 8.56s
+2026-07-02 22:46:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 165]: 0.94s
+2026-07-02 22:46:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 166]: 1.10s
+2026-07-02 22:46:05 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 1.03s
+2026-07-02 22:46:12 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 7.35s
+2026-07-02 22:46:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 167]: 0.88s
+2026-07-02 22:46:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 168]: 0.92s
+2026-07-02 22:46:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 169]: 0.97s
+2026-07-02 22:46:16 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 170]: 0.88s
+2026-07-02 22:46:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 171]: 1.57s
+2026-07-02 22:46:53 - INFO - [processar_artigo_finalizado] - Latência Normalização [NOMES_DOS_MINEIROS]: 34.99s
+2026-07-02 22:47:16 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pess. Retentando em 3s...
+2026-07-02 22:47:30 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [NOMES_DOS_MINEIROS]: 37.84s
+2026-07-02 22:47:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 172]: 1.84s
+2026-07-02 22:47:39 - INFO - [processar_artigo_finalizado] - Latência Normalização [Noticia_sobre_a_Escola_de_Minas_de_Ouro_Preto]: 6.53s
+2026-07-02 22:47:50 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Noticia_sobre_a_Escola_de_Minas_de_Ouro_Preto]: 11.46s
+2026-07-02 22:47:51 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 173]: 1.03s
+2026-07-02 22:47:57 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 5.68s
+2026-07-02 22:48:03 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 6.18s
+2026-07-02 22:48:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 174]: 0.93s
+2026-07-02 22:48:05 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 175]: 1.14s
+2026-07-02 22:48:19 - INFO - [processar_artigo_finalizado] - Latência Normalização [Corpo_docente]: 13.34s
+2026-07-02 22:48:27 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Corpo_docente]: 8.76s
+2026-07-02 22:48:28 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 176]: 0.93s
+2026-07-02 22:48:30 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 177]: 1.10s
+2026-07-02 22:48:36 - INFO - [processar_artigo_finalizado] - Latência Normalização [A_Assembléa_Legislativa_da_provincia_de_Minas_Gera]: 6.21s
+2026-07-02 22:48:45 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [A_Assembléa_Legislativa_da_provincia_de_Minas_Gera]: 9.61s
+2026-07-02 22:48:46 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 178]: 1.09s
+2026-07-02 22:48:50 - INFO - [processar_artigo_finalizado] - Latência Normalização [INDICE]: 4.01s
+2026-07-02 22:48:56 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [INDICE]: 6.02s
+2026-07-02 22:48:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 179]: 1.07s
+2026-07-02 22:48:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 180]: 1.48s
+2026-07-02 22:49:01 - INFO - [processar_artigo_finalizado] - Latência Normalização [PLANTA_DA_LAVRA_DE_TOPAZIOS_DA_BOA_VISTA]: 1.53s
+2026-07-02 22:50:10 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [PLANTA_DA_LAVRA_DE_TOPAZIOS_DA_BOA_VISTA]: 69.17s
+2026-07-02 22:50:11 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 181]: 1.08s
+2026-07-02 22:50:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 182]: 1.03s
+2026-07-02 22:50:16 - INFO - [processar_artigo_finalizado] - Latência Normalização [CARTA_ITINERÁRIA_RECTIFICADA_TRACADA_SEGUNDO_A_CAR]: 3.75s
+2026-07-02 22:50:31 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [CARTA_ITINERÁRIA_RECTIFICADA_TRACADA_SEGUNDO_A_CAR]: 15.17s
+2026-07-02 22:50:34 - INFO - [processar_artigo_finalizado] - Latência Normalização [PLANTA_TOPOGRAPHICA_da_Povoação_do_Chumbo]: 2.99s
+2026-07-02 22:50:50 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [PLANTA_TOPOGRAPHICA_da_Povoação_do_Chumbo]: 16.01s
+2026-07-02 22:50:51 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 1]: 1.18s
+2026-07-02 22:50:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 2]: 1.63s
+2026-07-02 22:50:56 - INFO - [processar_artigo_finalizado] - Latência Normalização [Elementos_Pre_Textuais]: 3.27s
+2026-07-02 22:51:02 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Elementos_Pre_Textuais]: 5.89s
+2026-07-02 22:51:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 3]: 1.54s
+2026-07-02 22:51:05 - INFO - [processar_artigo_finalizado] - Latência Normalização [ANNAES_DA_ESCOLA_DE_MINAS_DE_OURO_PRETO]: 2.00s
+2026-07-02 22:51:18 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ANNAES_DA_ESCOLA_DE_MINAS_DE_OURO_PRETO]: 12.79s
+2026-07-02 22:51:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 4]: 1.12s
+2026-07-02 22:51:21 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 5]: 1.40s
+2026-07-02 22:51:28 - INFO - [processar_artigo_finalizado] - Latência Normalização [PREFACIO]: 7.63s
+2026-07-02 22:51:51 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [PREFACIO]: 22.57s
+2026-07-02 22:51:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 6]: 0.95s
+2026-07-02 22:51:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 7]: 1.27s
+2026-07-02 22:51:54 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 8]: 1.07s
+2026-07-02 22:51:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 9]: 0.88s
+2026-07-02 22:51:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 10]: 1.40s
+2026-07-02 22:51:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 11]: 1.04s
+2026-07-02 22:51:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 12]: 1.02s
+2026-07-02 22:52:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 13]: 1.01s
+2026-07-02 22:52:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 14]: 0.98s
+2026-07-02 22:53:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 15]: 69.33s
+2026-07-02 22:53:11 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 16]: 0.97s
+2026-07-02 22:53:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 17]: 1.01s
+2026-07-02 22:53:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 18]: 0.93s
+2026-07-02 22:53:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 19]: 0.99s
+2026-07-02 22:53:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 20]: 1.01s
+2026-07-02 22:53:16 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 21]: 1.11s
+2026-07-02 22:53:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 22]: 1.22s
+2026-07-02 22:54:26 - INFO - [processar_artigo_finalizado] - Latência Normalização [ESTUDO_CHIMICO_E_MINERALOGICO_DAS_ROCHAS_DOS_ARRED]: 69.22s
+2026-07-02 22:54:39 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ESTUDO_CHIMICO_E_MINERALOGICO_DAS_ROCHAS_DOS_ARRED]: 12.05s
+2026-07-02 22:54:40 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 23]: 1.17s
+2026-07-02 22:54:41 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 24]: 1.05s
+2026-07-02 22:55:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 25]: 31.76s
+2026-07-02 22:55:21 - INFO - [processar_artigo_finalizado] - Latência Normalização [A_INDUSTRIA_MINERAL_NA_PROVINCIA_DE_MINAS-GERAES]: 8.39s
+2026-07-02 22:55:30 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [A_INDUSTRIA_MINERAL_NA_PROVINCIA_DE_MINAS-GERAES]: 9.25s
+2026-07-02 22:55:33 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 26]: 3.11s
+2026-07-02 22:55:35 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 27]: 1.56s
+2026-07-02 22:55:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 28]: 2.48s
+2026-07-02 22:55:39 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 29]: 1.17s
+2026-07-02 22:55:40 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 30]: 0.99s
+2026-07-02 22:55:40 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 31]: 0.99s
+2026-07-02 22:55:41 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 32]: 0.99s
+2026-07-02 22:55:42 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 33]: 0.93s
+2026-07-02 22:55:43 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 34]: 1.06s
+2026-07-02 22:55:45 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 35]: 1.01s
+2026-07-02 22:55:46 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 36]: 1.12s
+2026-07-02 22:55:48 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 37]: 2.14s
+2026-07-02 22:55:49 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 38]: 1.06s
+2026-07-02 22:55:50 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 39]: 1.07s
+2026-07-02 22:55:51 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 40]: 1.02s
+2026-07-02 22:55:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 41]: 1.02s
+2026-07-02 22:55:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 42]: 0.98s
+2026-07-02 22:55:54 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 43]: 1.07s
+2026-07-02 22:55:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 44]: 1.23s
+2026-07-02 22:55:56 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 45]: 0.97s
+2026-07-02 22:55:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 46]: 1.19s
+2026-07-02 22:55:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 47]: 1.06s
+2026-07-02 22:55:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 48]: 1.01s
+2026-07-02 22:56:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 49]: 0.98s
+2026-07-02 22:56:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 50]: 1.02s
+2026-07-02 22:56:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 51]: 0.97s
+2026-07-02 22:56:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 52]: 1.21s
+2026-07-02 22:56:05 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 53]: 1.22s
+2026-07-02 22:56:45 - INFO - [processar_artigo_finalizado] - Latência Normalização [FERRO]: 40.52s
+2026-07-02 22:56:53 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [FERRO]: 7.75s
+2026-07-02 22:56:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 54]: 1.92s
+2026-07-02 22:56:56 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 55]: 0.96s
+2026-07-02 22:56:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 56]: 0.95s
+2026-07-02 22:56:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 57]: 1.05s
+2026-07-02 22:56:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 58]: 0.96s
+2026-07-02 22:57:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 59]: 0.94s
+2026-07-02 22:57:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 60]: 1.02s
+2026-07-02 22:57:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 61]: 1.02s
+2026-07-02 22:57:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 62]: 1.00s
+2026-07-02 22:57:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 63]: 0.90s
+2026-07-02 22:57:05 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 64]: 1.02s
+2026-07-02 22:57:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 65]: 0.91s
+2026-07-02 22:57:07 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 66]: 0.96s
+2026-07-02 22:57:08 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 67]: 0.94s
+2026-07-02 22:57:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 68]: 1.12s
+2026-07-02 22:57:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 69]: 1.01s
+2026-07-02 22:57:11 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 70]: 0.98s
+2026-07-02 22:57:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 71]: 0.92s
+2026-07-02 22:57:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 72]: 1.17s
+2026-07-02 22:57:53 - INFO - [processar_artigo_finalizado] - Latência Normalização [OURO]: 39.61s
+2026-07-02 22:58:02 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [OURO]: 9.21s
+2026-07-02 22:58:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 73]: 0.95s
+2026-07-02 22:58:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 74]: 0.91s
+2026-07-02 22:58:05 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 75]: 0.99s
+2026-07-02 22:58:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 76]: 0.99s
+2026-07-02 22:58:07 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 77]: 1.53s
+2026-07-02 22:58:08 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 78]: 0.93s
+2026-07-02 22:58:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 79]: 0.99s
+2026-07-02 22:58:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 80]: 1.21s
+2026-07-02 22:58:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 81]: 1.51s
+2026-07-02 22:58:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 82]: 1.13s
+2026-07-02 22:58:49 - INFO - [processar_artigo_finalizado] - Latência Normalização [Tratamento_mecanico_em_Morro_Velho_de_162,5_tonela]: 36.11s
+2026-07-02 22:59:13 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Tratamento_mecanico_em_Morro_Velho_de_162,5_tonela]: 23.47s
+2026-07-02 22:59:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 83]: 1.01s
+2026-07-02 22:59:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 84]: 1.15s
+2026-07-02 22:59:16 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 85]: 0.96s
+2026-07-02 22:59:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 86]: 1.32s
+2026-07-02 22:59:20 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 87]: 2.64s
+2026-07-02 22:59:56 - INFO - [processar_artigo_finalizado] - Latência Normalização [S._Barbara_Mining_Company]: 35.91s
+2026-07-02 23:00:04 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [S._Barbara_Mining_Company]: 8.06s
+2026-07-02 23:00:05 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 88]: 1.37s
+2026-07-02 23:00:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 89]: 0.92s
+2026-07-02 23:00:07 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 90]: 0.89s
+2026-07-02 23:00:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 91]: 2.31s
+2026-07-02 23:00:54 - INFO - [processar_artigo_finalizado] - Latência Normalização [D._Pedro_North_d'El-Rei_Mining_Company]: 44.50s
+2026-07-02 23:01:10 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [D._Pedro_North_d'El-Rei_Mining_Company]: 16.12s
+2026-07-02 23:01:11 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 92]: 1.07s
+2026-07-02 23:01:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 93]: 0.96s
+2026-07-02 23:01:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 94]: 0.98s
+2026-07-02 23:01:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 95]: 0.96s
+2026-07-02 23:01:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 96]: 1.15s
+2026-07-02 23:01:45 - INFO - [processar_artigo_finalizado] - Latência Normalização [Quadro_da_preparação_mecanica_no_Morro_de_Sant'Ann]: 29.82s
+2026-07-02 23:01:55 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Quadro_da_preparação_mecanica_no_Morro_de_Sant'Ann]: 10.56s
+2026-07-02 23:01:56 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 97]: 0.93s
+2026-07-02 23:01:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 98]: 0.96s
+2026-07-02 23:01:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 99]: 1.00s
+2026-07-02 23:01:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 100]: 1.12s
+2026-07-02 23:02:22 - INFO - [processar_artigo_finalizado] - Latência Normalização [Preparação_mecanica_no_Pitanguy,_Jacutinga_aurifer]: 23.00s
+2026-07-02 23:02:33 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Preparação_mecanica_no_Pitanguy,_Jacutinga_aurifer]: 10.46s
+2026-07-02 23:02:34 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 101]: 1.05s
+2026-07-02 23:02:37 - INFO - [processar_artigo_finalizado] - Latência Normalização [TRANSMISSÃO_DAS_FORÇAS_MOTORAS_Á_DISTANCIA_PELA_EL]: 3.41s
+2026-07-02 23:02:44 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [TRANSMISSÃO_DAS_FORÇAS_MOTORAS_Á_DISTANCIA_PELA_EL]: 6.11s
+2026-07-02 23:02:45 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 102]: 0.99s
+2026-07-02 23:02:45 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 103]: 0.89s
+2026-07-02 23:02:46 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 104]: 0.92s
+2026-07-02 23:02:47 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 105]: 0.94s
+2026-07-02 23:02:48 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 106]: 0.95s
+2026-07-02 23:02:49 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 107]: 0.93s
+2026-07-02 23:02:51 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 108]: 1.43s
+2026-07-02 23:03:22 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 31.73s
+2026-07-02 23:03:36 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 13.84s
+2026-07-02 23:03:38 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 109]: 1.44s
+2026-07-02 23:03:39 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 110]: 1.83s
+2026-07-02 23:03:41 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 111]: 1.46s
+2026-07-02 23:03:43 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 112]: 1.98s
+2026-07-02 23:03:44 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 113]: 1.15s
+2026-07-02 23:03:45 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 114]: 1.03s
+2026-07-02 23:03:48 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 115]: 2.96s
+2026-07-02 23:03:49 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 116]: 0.92s
+2026-07-02 23:03:50 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 117]: 1.28s
+2026-07-02 23:03:51 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 118]: 0.95s
+2026-07-02 23:03:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 119]: 0.93s
+2026-07-02 23:03:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 120]: 0.91s
+2026-07-02 23:03:54 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 121]: 1.14s
+2026-07-02 23:03:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 122]: 0.96s
+2026-07-02 23:03:56 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 123]: 0.94s
+2026-07-02 23:03:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 124]: 0.87s
+2026-07-02 23:03:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 125]: 1.30s
+2026-07-02 23:03:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 126]: 0.93s
+2026-07-02 23:04:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 127]: 0.97s
+2026-07-02 23:04:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 128]: 1.08s
+2026-07-02 23:04:50 - INFO - [processar_artigo_finalizado] - Latência Normalização [NOTICIA_SOBRE_A_MINERALOGIA_E_GEOLOGIA_DE_UMA_PART]: 49.19s
+2026-07-02 23:05:06 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [NOTICIA_SOBRE_A_MINERALOGIA_E_GEOLOGIA_DE_UMA_PART]: 15.94s
+2026-07-02 23:05:08 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 129]: 1.27s
+2026-07-02 23:05:13 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 5.26s
+2026-07-02 23:05:29 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 16.50s
+2026-07-02 23:05:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 130]: 1.16s
+2026-07-02 23:05:32 - INFO - [processar_artigo_finalizado] - Latência Normalização [ANALYSES_FEITAS_NOS_LABORATORIOS_DE_CHIMICA_E_DOCI]: 1.52s
+2026-07-02 23:05:41 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ANALYSES_FEITAS_NOS_LABORATORIOS_DE_CHIMICA_E_DOCI]: 8.48s
+2026-07-02 23:05:42 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 131]: 1.14s
+2026-07-02 23:05:43 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 132]: 1.00s
+2026-07-02 23:05:44 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 133]: 1.01s
+2026-07-02 23:05:45 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 134]: 1.07s
+2026-07-02 23:06:52 - INFO - [processar_artigo_finalizado] - Latência Normalização [I_-_Minerios_de_ferro]: 67.20s
+2026-07-02 23:07:00 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [I_-_Minerios_de_ferro]: 7.61s
+2026-07-02 23:07:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 135]: 2.03s
+2026-07-02 23:07:07 - INFO - [processar_artigo_finalizado] - Latência Normalização [FORJA_DO_MANSO_(perto_de_Ouro_Preto)]: 4.89s
+2026-07-02 23:07:20 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [FORJA_DO_MANSO_(perto_de_Ouro_Preto)]: 13.73s
+2026-07-02 23:07:21 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 136]: 1.05s
+2026-07-02 23:07:22 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 137]: 0.99s
+2026-07-02 23:07:24 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 138]: 1.24s
+2026-07-02 23:08:20 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 55.94s
+2026-07-02 23:08:38 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 18.21s
+2026-07-02 23:08:39 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 139]: 1.00s
+2026-07-02 23:08:41 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 140]: 1.75s
+2026-07-02 23:09:30 - INFO - [processar_artigo_finalizado] - Latência Normalização [Analyse_do_phosphato_de_cal_da_Ilha_Rata._(Fernand]: 49.73s
+2026-07-02 23:09:40 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Analyse_do_phosphato_de_cal_da_Ilha_Rata._(Fernand]: 9.13s
+2026-07-02 23:09:40 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 141]: 0.90s
+2026-07-02 23:09:41 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 142]: 0.91s
+2026-07-02 23:09:51 - INFO - [processar_artigo_finalizado] - Latência Normalização [ACTUALIDADES_METALLURGICAS_-_A_DISPHOSPHORAÇÃO]: 9.92s
+2026-07-02 23:10:08 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ACTUALIDADES_METALLURGICAS_-_A_DISPHOSPHORAÇÃO]: 16.57s
+2026-07-02 23:10:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 143]: 0.96s
+2026-07-02 23:10:16 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 7.04s
+2026-07-02 23:10:32 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 15.59s
+2026-07-02 23:10:33 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 144]: 1.40s
+2026-07-02 23:10:34 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 145]: 1.14s
+2026-07-02 23:10:35 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 146]: 1.10s
+2026-07-02 23:10:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 147]: 0.98s
+2026-07-02 23:10:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 148]: 0.97s
+2026-07-02 23:10:38 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 149]: 1.32s
+2026-07-02 23:10:40 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 150]: 2.07s
+2026-07-02 23:10:42 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 151]: 1.32s
+2026-07-02 23:11:29 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 46.85s
+2026-07-02 23:11:38 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 8.83s
+2026-07-02 23:11:39 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 152]: 1.05s
+2026-07-02 23:11:41 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 154]: 2.03s
+2026-07-02 23:11:48 - INFO - [processar_artigo_finalizado] - Latência Normalização [METALLURGIA_DO_FERRO]: 7.77s
+2026-07-02 23:13:15 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [METALLURGIA_DO_FERRO]: 86.87s
+2026-07-02 23:13:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 155]: 1.92s
+2026-07-02 23:13:18 - INFO - [processar_artigo_finalizado] - Latência Normalização [PRODUÇÃO_DOS_METAES_PRECIOSOS]: 0.98s
+2026-07-02 23:13:34 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [PRODUÇÃO_DOS_METAES_PRECIOSOS]: 15.44s
+2026-07-02 23:13:35 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 156]: 1.24s
+2026-07-02 23:13:39 - INFO - [processar_artigo_finalizado] - Latência Normalização [PRODUÇÃO_ANNUAL_DOS_METAES_PRECIOSOS_NO_MUNDO_DESD]: 3.98s
+2026-07-02 23:13:47 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [PRODUÇÃO_ANNUAL_DOS_METAES_PRECIOSOS_NO_MUNDO_DESD]: 7.98s
+2026-07-02 23:13:48 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 157]: 1.23s
+2026-07-02 23:13:52 - INFO - [processar_artigo_finalizado] - Latência Normalização [NOTICIA_SOBRE_AS_MODIFICAÇÕES_INTRODUZIDAS_NA_ESCO]: 4.01s
+2026-07-02 23:13:59 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [NOTICIA_SOBRE_AS_MODIFICAÇÕES_INTRODUZIDAS_NA_ESCO]: 6.40s
+2026-07-02 23:14:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 158]: 0.97s
+2026-07-02 23:14:09 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 9.30s
+2026-07-02 23:14:23 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 14.48s
+2026-07-02 23:14:26 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 159]: 2.52s
+2026-07-02 23:14:31 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 5.51s
+2026-07-02 23:14:53 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 21.22s
+2026-07-02 23:14:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 160]: 2.45s
+2026-07-02 23:14:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 161]: 2.81s
+2026-07-02 23:15:07 - INFO - [processar_artigo_finalizado] - Latência Normalização [PROGRAMMA_DO_CURSO_DE_ESTRADAS_DE_FERRO]: 9.18s
+2026-07-02 23:15:16 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [PROGRAMMA_DO_CURSO_DE_ESTRADAS_DE_FERRO]: 8.42s
+2026-07-02 23:15:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 162]: 2.43s
+2026-07-02 23:15:22 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 4.50s
+2026-07-02 23:15:29 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 6.73s
+2026-07-02 23:15:30 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 163]: 1.05s
+2026-07-02 23:15:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 164]: 2.09s
+2026-07-02 23:15:45 - INFO - [processar_artigo_finalizado] - Latência Normalização [PROGRAMMA_DO_CURSO_DE_RESISTENCIA_DE_MATERIAES_E_C]: 12.48s
+2026-07-02 23:15:53 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [PROGRAMMA_DO_CURSO_DE_RESISTENCIA_DE_MATERIAES_E_C]: 8.47s
+2026-07-02 23:15:58 - INFO - [processar_artigo_finalizado] - Latência Normalização [INDICE_DAS_MATERIAS_DO_N._2]: 4.80s
+2026-07-02 23:16:10 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [INDICE_DAS_MATERIAS_DO_N._2]: 11.88s
+2026-07-02 23:16:11 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 1]: 1.22s
+2026-07-02 23:16:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 2]: 1.20s
+2026-07-02 23:16:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 3]: 1.32s
+2026-07-02 23:16:15 - INFO - [processar_artigo_finalizado] - Latência Normalização [ANNAES_DA_ESCOLA_DE_MINAS_DE_OURO_PRETO]: 1.25s
+2026-07-02 23:16:26 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ANNAES_DA_ESCOLA_DE_MINAS_DE_OURO_PRETO]: 10.94s
+2026-07-02 23:16:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 4]: 2.63s
+2026-07-02 23:16:30 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 5]: 1.84s
+2026-07-02 23:16:39 - INFO - [processar_artigo_finalizado] - Latência Normalização [PREFACIO]: 8.20s
+2026-07-02 23:16:47 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [PREFACIO]: 7.84s
+2026-07-02 23:16:48 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 6]: 1.90s
+2026-07-02 23:16:50 - INFO - [processar_artigo_finalizado] - Latência Normalização [LUND_E_SUAS_OBRAS_NO_BRAZIL]: 1.45s
+2026-07-02 23:16:57 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [LUND_E_SUAS_OBRAS_NO_BRAZIL]: 6.64s
+2026-07-02 23:16:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 7]: 1.41s
+2026-07-02 23:17:02 - INFO - [processar_artigo_finalizado] - Latência Normalização [LUND_E_SUAS_OBRAS_NO_BRAZIL]: 4.34s
+2026-07-02 23:17:12 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [LUND_E_SUAS_OBRAS_NO_BRAZIL]: 9.36s
+2026-07-02 23:17:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 8]: 1.97s
+2026-07-02 23:17:20 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 6.31s
+2026-07-02 23:17:34 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 13.89s
+2026-07-02 23:17:35 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 9]: 1.27s
+2026-07-02 23:17:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 10]: 1.14s
+2026-07-02 23:17:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 11]: 0.99s
+2026-07-02 23:17:58 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 21.10s
+2026-07-02 23:18:11 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 12.88s
+2026-07-02 23:18:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 12]: 0.97s
+2026-07-02 23:18:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 13]: 1.02s
+2026-07-02 23:18:43 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 29.79s
+2026-07-02 23:18:49 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 5.98s
+2026-07-02 23:18:50 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 14]: 1.03s
+2026-07-02 23:18:51 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 15]: 0.99s
+2026-07-02 23:18:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 16]: 1.03s
+2026-07-02 23:18:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 17]: 1.12s
+2026-07-02 23:19:36 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 43.17s
+2026-07-02 23:20:17 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 40.50s
+2026-07-02 23:20:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 18]: 1.47s
+2026-07-02 23:20:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 19]: 1.02s
+2026-07-02 23:20:35 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 15.33s
+2026-07-02 23:20:43 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 8.36s
+2026-07-02 23:20:45 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 20]: 1.44s
+2026-07-02 23:20:47 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 21]: 1.92s
+2026-07-02 23:20:48 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 22]: 0.97s
+2026-07-02 23:20:49 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 23]: 1.43s
+2026-07-02 23:20:50 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 24]: 0.93s
+2026-07-02 23:20:51 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 25]: 0.97s
+2026-07-02 23:20:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 26]: 1.64s
+2026-07-02 23:20:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 27]: 0.99s
+2026-07-02 23:20:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 28]: 1.30s
+2026-07-02 23:20:56 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 29]: 1.36s
+2026-07-02 23:20:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 30]: 0.94s
+2026-07-02 23:20:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 31]: 0.94s
+2026-07-02 23:20:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 32]: 1.19s
+2026-07-02 23:21:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 33]: 0.98s
+2026-07-02 23:21:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 34]: 0.95s
+2026-07-02 23:21:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 35]: 1.29s
+2026-07-02 23:21:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 36]: 0.96s
+2026-07-02 23:21:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 37]: 0.95s
+2026-07-02 23:21:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 38]: 1.37s
+2026-07-02 23:21:07 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 39]: 0.99s
+2026-07-02 23:21:08 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 40]: 1.02s
+2026-07-02 23:21:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 41]: 1.03s
+2026-07-02 23:21:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 42]: 0.98s
+2026-07-02 23:21:11 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 43]: 0.96s
+2026-07-02 23:21:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 44]: 1.48s
+2026-07-02 23:22:00 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 47.33s
+2026-07-02 23:22:12 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 12.82s
+2026-07-02 23:22:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 45]: 0.95s
+2026-07-02 23:22:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 46]: 1.06s
+2026-07-02 23:22:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 47]: 0.95s
+2026-07-02 23:22:16 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 48]: 0.96s
+2026-07-02 23:22:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 49]: 1.26s
+2026-07-02 23:22:45 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 27.21s
+2026-07-02 23:22:53 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 7.92s
+2026-07-02 23:22:54 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 50]: 0.92s
+2026-07-02 23:22:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 51]: 0.96s
+2026-07-02 23:22:56 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 52]: 0.92s
+2026-07-02 23:22:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 53]: 0.99s
+2026-07-02 23:23:08 - INFO - [processar_artigo_finalizado] - Latência Normalização [Generos_e_especies_cujos_restos_fosseis_forão_acha]: 11.24s
+2026-07-02 23:23:16 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Generos_e_especies_cujos_restos_fosseis_forão_acha]: 7.81s
+2026-07-02 23:23:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 54]: 0.94s
+2026-07-02 23:23:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 55]: 0.95s
+2026-07-02 23:23:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 56]: 1.15s
+2026-07-02 23:23:25 - INFO - [processar_artigo_finalizado] - Latência Normalização [CHEIROPTERA]: 6.52s
+2026-07-02 23:23:43 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [CHEIROPTERA]: 17.66s
+2026-07-02 23:23:45 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 57]: 2.14s
+2026-07-02 23:23:47 - INFO - [processar_artigo_finalizado] - Latência Normalização [MEMORIAS_DE_LUND]: 1.67s
+2026-07-02 23:23:54 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MEMORIAS_DE_LUND]: 6.90s
+2026-07-02 23:23:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 58]: 0.93s
+2026-07-02 23:24:04 - INFO - [processar_artigo_finalizado] - Latência Normalização [CAVERNAS_EXISTENTES_NO_CALCAREO_DO_INTERIOR_DO_BRA]: 9.89s
+2026-07-02 23:24:18 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [CAVERNAS_EXISTENTES_NO_CALCAREO_DO_INTERIOR_DO_BRA]: 13.39s
+2026-07-02 23:24:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 59]: 0.96s
+2026-07-02 23:24:20 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 60]: 0.90s
+2026-07-02 23:24:22 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 61]: 1.75s
+2026-07-02 23:24:22 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 62]: 0.94s
+2026-07-02 23:24:23 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 63]: 1.04s
+2026-07-02 23:24:25 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 64]: 1.05s
+2026-07-02 23:24:26 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 65]: 0.99s
+2026-07-02 23:24:27 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 66]: 1.44s
+2026-07-02 23:24:28 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 67]: 0.99s
+2026-07-02 23:24:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 68]: 1.40s
+2026-07-02 23:24:30 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 69]: 0.89s
+2026-07-02 23:24:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 70]: 1.19s
+2026-07-02 23:24:33 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 71]: 1.24s
+2026-07-02 23:24:34 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 72]: 0.92s
+2026-07-02 23:24:35 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 73]: 1.21s
+2026-07-02 23:24:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 74]: 1.47s
+2026-07-02 23:24:38 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 75]: 1.25s
+2026-07-02 23:24:39 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 76]: 1.87s
+2026-07-02 23:24:41 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 77]: 1.83s
+2026-07-02 23:24:42 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 78]: 1.04s
+2026-07-02 23:24:43 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 79]: 1.23s
+2026-07-02 23:24:45 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 80]: 1.28s
+2026-07-02 23:24:46 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 81]: 1.04s
+2026-07-02 23:24:48 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 82]: 2.19s
+2026-07-02 23:24:49 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 83]: 1.04s
+2026-07-02 23:24:50 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 84]: 1.10s
+2026-07-02 23:24:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 85]: 2.00s
+2026-07-02 23:24:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 86]: 0.98s
+2026-07-02 23:24:54 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 87]: 0.98s
+2026-07-02 23:24:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 88]: 0.98s
+2026-07-02 23:24:56 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 89]: 1.27s
+2026-07-02 23:25:39 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 42.53s
+2026-07-02 23:25:47 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 8.06s
+2026-07-02 23:25:48 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 90]: 1.27s
+2026-07-02 23:25:49 - INFO - [processar_artigo_finalizado] - Latência Normalização [BACIAS_TERCIÁRIAS_D'AGUA_DOCE_NOS_ARREDORES_DE_OUR]: 0.91s
+2026-07-02 23:25:54 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [BACIAS_TERCIÁRIAS_D'AGUA_DOCE_NOS_ARREDORES_DE_OUR]: 4.52s
+2026-07-02 23:25:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 91]: 1.00s
+2026-07-02 23:25:56 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 92]: 0.97s
+2026-07-02 23:25:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 93]: 1.12s
+2026-07-02 23:26:13 - INFO - [processar_artigo_finalizado] - Latência Normalização [BACIAS_TERCIARIAS_D'AGUA_DOCE_NOS_ARREDORES_DE_OUR]: 16.43s
+2026-07-02 23:26:22 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [BACIAS_TERCIARIAS_D'AGUA_DOCE_NOS_ARREDORES_DE_OUR]: 9.21s
+2026-07-02 23:26:24 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 94]: 1.88s
+2026-07-02 23:26:26 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 95]: 1.25s
+2026-07-02 23:26:42 - INFO - [processar_artigo_finalizado] - Latência Normalização [ROCHAS_GRANITICAS]: 16.12s
+2026-07-02 23:26:51 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ROCHAS_GRANITICAS]: 9.42s
+2026-07-02 23:26:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 96]: 1.02s
+2026-07-02 23:26:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 97]: 1.01s
+2026-07-02 23:26:54 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 98]: 1.03s
+2026-07-02 23:26:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 99]: 0.92s
+2026-07-02 23:26:56 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 100]: 1.12s
+2026-07-02 23:26:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 101]: 1.17s
+2026-07-02 23:27:35 - INFO - [processar_artigo_finalizado] - Latência Normalização [ITABIRITOS]: 37.85s
+2026-07-02 23:27:50 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pess. Retentando em 3s...
+2026-07-02 23:28:10 - WARNING - [invocar_com_retry] - [Retry 2/5] Arquivista falhou: Invalid json output: We need to output JSON with fields: "resumo", "localizacao", "periodo_historico", "fontes". The user gave a long Portuguese text describing geological observations in Minas Gerais. Retentando em 3s...
+2026-07-02 23:28:26 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ITABIRITOS]: 50.51s
+2026-07-02 23:28:27 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 102]: 1.39s
+2026-07-02 23:28:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 103]: 1.51s
+2026-07-02 23:28:30 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 104]: 1.04s
+2026-07-02 23:28:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 105]: 1.01s
+2026-07-02 23:28:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 106]: 1.03s
+2026-07-02 23:28:33 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 107]: 1.38s
+2026-07-02 23:28:34 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 108]: 1.00s
+2026-07-02 23:28:35 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 109]: 1.06s
+2026-07-02 23:28:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 111]: 1.30s
+2026-07-02 23:29:28 - INFO - [processar_artigo_finalizado] - Latência Normalização [DEPOSITOS_TERCIARIOS_PROPRIAMENTE_DITOS]: 51.90s
+2026-07-02 23:29:38 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [DEPOSITOS_TERCIARIOS_PROPRIAMENTE_DITOS]: 8.97s
+2026-07-02 23:29:39 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 112]: 1.28s
+2026-07-02 23:29:44 - INFO - [processar_artigo_finalizado] - Latência Normalização [NOTA_SOBRE_O_PLANIMETRO_D'AMSLER]: 4.91s
+2026-07-02 23:29:50 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [NOTA_SOBRE_O_PLANIMETRO_D'AMSLER]: 6.32s
+2026-07-02 23:29:51 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 113]: 1.02s
+2026-07-02 23:29:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 114]: 1.15s
+2026-07-02 23:30:04 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 11.78s
+2026-07-02 23:30:20 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 16.05s
+2026-07-02 23:30:21 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 115]: 1.05s
+2026-07-02 23:30:23 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 116]: 1.36s
+2026-07-02 23:30:24 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 117]: 1.01s
+2026-07-02 23:30:26 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 118]: 2.55s
+2026-07-02 23:30:28 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 119]: 1.44s
+2026-07-02 23:30:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 120]: 1.42s
+2026-07-02 23:30:30 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 121]: 1.16s
+2026-07-02 23:30:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 122]: 1.32s
+2026-07-02 23:30:34 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 123]: 3.04s
+2026-07-02 23:31:27 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 52.69s
+2026-07-02 23:31:34 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 6.49s
+2026-07-02 23:31:35 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 124]: 1.01s
+2026-07-02 23:31:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 125]: 1.34s
+2026-07-02 23:31:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 126]: 1.14s
+2026-07-02 23:31:39 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 127]: 1.31s
+2026-07-02 23:32:03 - INFO - [processar_artigo_finalizado] - Latência Normalização [II]: 24.84s
+2026-07-02 23:32:11 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [II]: 7.35s
+2026-07-02 23:32:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 128]: 1.56s
+2026-07-02 23:32:16 - INFO - [processar_artigo_finalizado] - Latência Normalização [ESTUDOS_SIDERURGICOS_NA_PROVINCIA_DE_MINAS_GERAES]: 4.21s
+2026-07-02 23:32:21 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ESTUDOS_SIDERURGICOS_NA_PROVINCIA_DE_MINAS_GERAES]: 4.71s
+2026-07-02 23:32:23 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 129]: 1.78s
+2026-07-02 23:32:37 - INFO - [processar_artigo_finalizado] - Latência Normalização [ESTUDOS_SIDERURGICOS_NA_PROVINCIA_DE_MINAS]: 14.43s
+2026-07-02 23:32:47 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ESTUDOS_SIDERURGICOS_NA_PROVINCIA_DE_MINAS]: 9.33s
+2026-07-02 23:32:49 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 130]: 1.77s
+2026-07-02 23:32:57 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 8.45s
+2026-07-02 23:33:03 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 6.33s
+2026-07-02 23:33:05 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 131]: 1.31s
+2026-07-02 23:33:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 132]: 1.04s
+2026-07-02 23:33:07 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 133]: 1.25s
+2026-07-02 23:33:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 134]: 2.30s
+2026-07-02 23:33:40 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 135]: 31.14s
+2026-07-02 23:33:41 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 136]: 1.06s
+2026-07-02 23:33:43 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 137]: 1.12s
+2026-07-02 23:33:44 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 138]: 0.98s
+2026-07-02 23:33:45 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 139]: 1.01s
+2026-07-02 23:33:46 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 140]: 1.31s
+2026-07-02 23:33:47 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 141]: 1.32s
+2026-07-02 23:33:48 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 142]: 1.18s
+2026-07-02 23:33:50 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 143]: 1.55s
+2026-07-02 23:33:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 144]: 1.84s
+2026-07-02 23:33:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 145]: 1.21s
+2026-07-02 23:33:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 146]: 1.89s
+2026-07-02 23:33:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 147]: 1.82s
+2026-07-02 23:33:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 148]: 1.19s
+2026-07-02 23:33:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 149]: 1.13s
+2026-07-02 23:34:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 150]: 1.02s
+2026-07-02 23:35:08 - INFO - [processar_artigo_finalizado] - Latência Normalização [FORJA_ITALIANA]: 67.56s
+2026-07-02 23:35:15 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [FORJA_ITALIANA]: 7.72s
+2026-07-02 23:35:16 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 151]: 1.08s
+2026-07-02 23:35:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 152]: 2.36s
+2026-07-02 23:35:20 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 153]: 1.04s
+2026-07-02 23:35:48 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 28.44s
+2026-07-02 23:36:13 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 24.42s
+2026-07-02 23:36:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 154]: 0.95s
+2026-07-02 23:36:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 155]: 0.99s
+2026-07-02 23:36:16 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 156]: 0.94s
+2026-07-02 23:36:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 157]: 1.18s
+2026-07-02 23:36:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 158]: 1.00s
+2026-07-02 23:36:48 - INFO - [processar_artigo_finalizado] - Latência Normalização [ALGUMAS_CONSIDERAÇÕES_ECONOMICAS]: 30.41s
+2026-07-02 23:36:58 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ALGUMAS_CONSIDERAÇÕES_ECONOMICAS]: 10.01s
+2026-07-02 23:37:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 159]: 3.03s
+2026-07-02 23:37:18 - INFO - [processar_artigo_finalizado] - Latência Normalização [BICAME]: 16.28s
+2026-07-02 23:37:23 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [BICAME]: 4.87s
+2026-07-02 23:37:24 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 160]: 0.99s
+2026-07-02 23:37:30 - INFO - [processar_artigo_finalizado] - Latência Normalização [ALVENARIA]: 6.07s
+2026-07-02 23:37:50 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ALVENARIA]: 20.03s
+2026-07-02 23:37:51 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 161]: 0.87s
+2026-07-02 23:37:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 162]: 0.97s
+2026-07-02 23:38:07 - INFO - [processar_artigo_finalizado] - Latência Normalização [RESUMO]: 15.83s
+2026-07-02 23:38:16 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [RESUMO]: 8.85s
+2026-07-02 23:38:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 163]: 1.00s
+2026-07-02 23:38:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 164]: 0.88s
+2026-07-02 23:38:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 165]: 1.01s
+2026-07-02 23:38:20 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 166]: 0.93s
+2026-07-02 23:38:21 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 167]: 0.88s
+2026-07-02 23:38:22 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 168]: 0.96s
+2026-07-02 23:38:23 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 169]: 0.85s
+2026-07-02 23:38:24 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 170]: 0.95s
+2026-07-02 23:38:25 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 171]: 0.90s
+2026-07-02 23:39:31 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 66.53s
+2026-07-02 23:39:46 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 14.39s
+2026-07-02 23:39:46 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 172]: 0.93s
+2026-07-02 23:39:57 - INFO - [processar_artigo_finalizado] - Latência Normalização [INSTALAÇÃO]: 10.70s
+2026-07-02 23:40:12 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [INSTALAÇÃO]: 15.02s
+2026-07-02 23:40:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 173]: 1.06s
+2026-07-02 23:40:22 - INFO - [processar_artigo_finalizado] - Latência Normalização [FÁBRICA_DE_ENXADAS]: 8.20s
+2026-07-02 23:40:33 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [FÁBRICA_DE_ENXADAS]: 11.72s
+2026-07-02 23:40:34 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 174]: 1.15s
+2026-07-02 23:40:42 - INFO - [processar_artigo_finalizado] - Latência Normalização [VIAS_DE_COMMUNICAÇÃO]: 7.33s
+2026-07-02 23:40:48 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [VIAS_DE_COMMUNICAÇÃO]: 6.66s
+2026-07-02 23:40:49 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 175]: 0.99s
+2026-07-02 23:40:50 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 176]: 0.95s
+2026-07-02 23:40:51 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 177]: 0.90s
+2026-07-02 23:40:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 178]: 0.94s
+2026-07-02 23:40:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 179]: 0.91s
+2026-07-02 23:40:54 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 180]: 0.88s
+2026-07-02 23:40:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 181]: 0.91s
+2026-07-02 23:40:56 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 182]: 0.87s
+2026-07-02 23:42:00 - INFO - [processar_artigo_finalizado] - Latência Normalização [PROCESSO_METALLURGICO]: 64.05s
+2026-07-02 23:42:09 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [PROCESSO_METALLURGICO]: 9.45s
+2026-07-02 23:42:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 183]: 0.94s
+2026-07-02 23:42:11 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 184]: 0.90s
+2026-07-02 23:42:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 185]: 0.91s
+2026-07-02 23:42:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 186]: 0.89s
+2026-07-02 23:42:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 187]: 0.91s
+2026-07-02 23:42:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 188]: 1.11s
+2026-07-02 23:42:45 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 29.63s
+2026-07-02 23:43:00 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 14.82s
+2026-07-02 23:43:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 189]: 1.42s
+2026-07-02 23:43:02 - INFO - [processar_artigo_finalizado] - Latência Normalização [NOTICIA_SOBRE_OS_CASCALHOS_DIAMANTIFEROS]: 1.13s
+2026-07-02 23:43:06 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [NOTICIA_SOBRE_OS_CASCALHOS_DIAMANTIFEROS]: 3.80s
+2026-07-02 23:43:07 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 190]: 0.87s
+2026-07-02 23:43:08 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 191]: 0.93s
+2026-07-02 23:43:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 192]: 0.95s
+2026-07-02 23:43:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 193]: 0.98s
+2026-07-02 23:43:11 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 194]: 0.96s
+2026-07-02 23:43:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 195]: 1.49s
+2026-07-02 23:43:41 - INFO - [processar_artigo_finalizado] - Latência Normalização [NOTICIA_relativa_a_alguns_mineraes_dos_cascalhos_d]: 28.44s
+2026-07-02 23:44:00 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pess. Retentando em 3s...
+2026-07-02 23:44:11 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [NOTICIA_relativa_a_alguns_mineraes_dos_cascalhos_d]: 30.25s
+2026-07-02 23:44:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 196]: 1.22s
+2026-07-02 23:44:13 - INFO - [processar_artigo_finalizado] - Latência Normalização [NOTICIA_relativa_a_um_zeolitho_de_uma_rocha_pyroxe]: 1.01s
+2026-07-02 23:44:21 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [NOTICIA_relativa_a_um_zeolitho_de_uma_rocha_pyroxe]: 7.72s
+2026-07-02 23:44:22 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 197]: 0.90s
+2026-07-02 23:44:23 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 198]: 0.89s
+2026-07-02 23:44:24 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 199]: 1.51s
+2026-07-02 23:44:38 - INFO - [processar_artigo_finalizado] - Latência Normalização [NOTICIA_relativa_a_um_zeolitho_de_uma_rocha_pyroxe]: 13.73s
+2026-07-02 23:44:45 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [NOTICIA_relativa_a_um_zeolitho_de_uma_rocha_pyroxe]: 7.34s
+2026-07-02 23:44:47 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 200]: 1.52s
+2026-07-02 23:44:48 - INFO - [processar_artigo_finalizado] - Latência Normalização [NOTICIA_SOBRE_a_Scrodita_existente_nas_visinhanças]: 1.55s
+2026-07-02 23:44:57 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [NOTICIA_SOBRE_a_Scrodita_existente_nas_visinhanças]: 8.26s
+2026-07-02 23:44:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 201]: 1.00s
+2026-07-02 23:44:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 202]: 0.90s
+2026-07-02 23:44:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 203]: 0.94s
+2026-07-02 23:45:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 204]: 0.99s
+2026-07-02 23:45:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 205]: 1.27s
+2026-07-02 23:45:36 - INFO - [processar_artigo_finalizado] - Latência Normalização [NOTICIA_sobre_a_Seorodita_existente_nas_visinhança]: 34.06s
+2026-07-02 23:45:47 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [NOTICIA_sobre_a_Seorodita_existente_nas_visinhança]: 11.41s
+2026-07-02 23:45:48 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 206]: 1.23s
+2026-07-02 23:45:54 - INFO - [processar_artigo_finalizado] - Latência Normalização [ESTUDO_dos_mineraes_que_acompanhão_o_diamante_na_j]: 5.62s
+2026-07-02 23:46:10 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ESTUDO_dos_mineraes_que_acompanhão_o_diamante_na_j]: 16.12s
+2026-07-02 23:46:11 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 207]: 0.99s
+2026-07-02 23:46:17 - INFO - [processar_artigo_finalizado] - Latência Normalização [ESTUDO_dos_mineraes_que_acompanham_o_diamante_na_j]: 6.03s
+2026-07-02 23:46:29 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ESTUDO_dos_mineraes_que_acompanham_o_diamante_na_j]: 11.68s
+2026-07-02 23:46:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 208]: 2.59s
+2026-07-02 23:46:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 209]: 0.93s
+2026-07-02 23:46:34 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 210]: 1.23s
+2026-07-02 23:46:35 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 211]: 1.14s
+2026-07-02 23:46:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 212]: 1.34s
+2026-07-02 23:46:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 213]: 0.90s
+2026-07-02 23:46:40 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 214]: 2.47s
+2026-07-02 23:47:27 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 47.61s
+2026-07-02 23:47:41 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pess. Retentando em 3s...
+2026-07-02 23:47:58 - WARNING - [invocar_com_retry] - [Retry 2/5] Arquivista falhou: Invalid json output: We need to produce JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pes. Retentando em 3s...
+2026-07-02 23:48:15 - WARNING - [invocar_com_retry] - [Retry 3/5] Arquivista falhou: Invalid json output: Okay, let's tackle this query. The user provided a long Portuguese text about mineralogy, specifically discussing minerals found in the Salobro area. The task is to extract the an. Retentando em 3s...
+2026-07-02 23:48:55 - WARNING - [invocar_com_retry] - [Retry 4/5] Arquivista falhou: Invalid json output: Okay, let's tackle this query. The user provided a long Portuguese text about mineralogy, specifically discussing minerals found in the Salobro area. The task is to extract the an. Retentando em 3s...
+2026-07-02 23:49:10 - ERROR - [invocar_com_retry] - [Retry Esgotado] Arquivista falhou após 5 tentativas: Invalid json output: as espécies características comuns a todas as outras jazidas, tais como óxidos de titânio, alumina fosfatada e turmalinas faltam aqui. For troubleshooting, visit: https://docs.lan
+2026-07-02 23:49:10 - ERROR - [processar_artigo_finalizado] - Erro ao gerar ISAD(G) para Divisao_sem_Titulo: Invalid json output: as espécies características comuns a todas as outras jazidas, tais como óxidos de titânio, alumina fosfatada e turmalinas faltam aqui.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/OUTPUT_PARSING_FAILURE 
+2026-07-02 23:49:11 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 215]: 1.23s
+2026-07-02 23:49:19 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 8.45s
+2026-07-02 23:49:30 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 11.24s
+2026-07-02 23:49:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 216]: 1.56s
+2026-07-02 23:49:34 - INFO - [processar_artigo_finalizado] - Latência Normalização [ANALYSES_FEITAS_NO_LABORATORIO_DE_DOCIMASIA_DA_ESC]: 1.64s
+2026-07-02 23:49:39 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ANALYSES_FEITAS_NO_LABORATORIO_DE_DOCIMASIA_DA_ESC]: 5.16s
+2026-07-02 23:49:40 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 217]: 1.04s
+2026-07-02 23:49:41 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 218]: 1.24s
+2026-07-02 23:49:42 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 219]: 0.95s
+2026-07-02 23:49:43 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 220]: 1.20s
+2026-07-02 23:50:02 - INFO - [processar_artigo_finalizado] - Latência Normalização [ANALYSES_FEITAS_NO_LABORATORIO_DE_DOCIMASIA_NA_ESC]: 18.66s
+2026-07-02 23:50:18 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ANALYSES_FEITAS_NO_LABORATORIO_DE_DOCIMASIA_NA_ESC]: 15.76s
+2026-07-02 23:50:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 221]: 1.04s
+2026-07-02 23:50:21 - INFO - [processar_artigo_finalizado] - Latência Normalização [Minérios_de_manganez_e_de_ferro_da_Provincia_de_Sa]: 2.15s
+2026-07-02 23:50:27 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Minérios_de_manganez_e_de_ferro_da_Provincia_de_Sa]: 5.58s
+2026-07-02 23:50:28 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 222]: 1.30s
+2026-07-02 23:50:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 223]: 1.25s
+2026-07-02 23:50:36 - INFO - [processar_artigo_finalizado] - Latência Normalização [LEIS_DA_PROVINCIA_DE_MINAS_GERAES_SE_REFERINDO_Á_M]: 6.59s
+2026-07-02 23:50:42 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [LEIS_DA_PROVINCIA_DE_MINAS_GERAES_SE_REFERINDO_Á_M]: 5.83s
+2026-07-02 23:50:43 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 224]: 1.56s
+2026-07-02 23:50:49 - INFO - [processar_artigo_finalizado] - Latência Normalização [Lei_n._2334_-_de_12_de_Julho_de_1876]: 6.13s
+2026-07-02 23:51:08 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Lei_n._2334_-_de_12_de_Julho_de_1876]: 18.86s
+2026-07-02 23:51:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 225]: 1.45s
+2026-07-02 23:51:15 - INFO - [processar_artigo_finalizado] - Latência Normalização [Lei_n._2437_-_de_13_de_Novembro_de_1877]: 5.22s
+2026-07-02 23:51:28 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Lei_n._2437_-_de_13_de_Novembro_de_1877]: 13.13s
+2026-07-02 23:51:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 226]: 1.04s
+2026-07-02 23:51:38 - INFO - [processar_artigo_finalizado] - Latência Normalização [Lei_n._2438_-_de_14_de_Novembro_de_1877]: 9.39s
+2026-07-02 23:51:51 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Lei_n._2438_-_de_14_de_Novembro_de_1877]: 12.87s
+2026-07-02 23:51:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 227]: 1.02s
+2026-07-02 23:52:02 - INFO - [processar_artigo_finalizado] - Latência Normalização [REGULAMENTO]: 10.01s
+2026-07-02 23:52:45 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [REGULAMENTO]: 42.99s
+2026-07-02 23:52:47 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 228]: 1.43s
+2026-07-02 23:52:54 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 7.01s
+2026-07-02 23:53:04 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 10.30s
+2026-07-02 23:53:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 229]: 1.89s
+2026-07-02 23:53:13 - INFO - [processar_artigo_finalizado] - Latência Normalização [Lei_n.°_2476—de_9_de_Novembro_de_1878]: 6.73s
+2026-07-02 23:53:33 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Lei_n.°_2476—de_9_de_Novembro_de_1878]: 19.73s
+2026-07-02 23:53:34 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 230]: 1.31s
+2026-07-02 23:53:41 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 6.85s
+2026-07-02 23:53:59 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 17.89s
+2026-07-02 23:54:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 231]: 1.37s
+2026-07-02 23:54:05 - INFO - [processar_artigo_finalizado] - Latência Normalização [Lei_n.°_2716_de_18_de_Dezembro_de_1880]: 5.05s
+2026-07-02 23:54:20 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Lei_n.°_2716_de_18_de_Dezembro_de_1880]: 14.92s
+2026-07-02 23:54:21 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 232]: 1.32s
+2026-07-02 23:54:28 - INFO - [processar_artigo_finalizado] - Latência Normalização [Lei_n.°_2800_—_de_3_de_Outubro_de_1881]: 6.60s
+2026-07-02 23:54:41 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Lei_n.°_2800_—_de_3_de_Outubro_de_1881]: 13.24s
+2026-07-02 23:54:42 - WARNING - [invocar_com_retry] - [Retry 1/5] Estruturador [Pág 233] falhou: Invalid json output: {   "contem_novo_artigo": true,   "titulo_artigo": null,   "autor": "João Florentino Meira de Vasconcellos", } For troubleshooting, visit: https://docs.langchain.com/oss/python/la. Retentando em 3s...
+2026-07-02 23:54:47 - WARNING - [invocar_com_retry] - [Retry 2/5] Estruturador [Pág 233] falhou: Invalid json output: {   "contem_novo_artigo": true,   "titulo_artigo": null,   "autor": "João Florentino Meira de Vasconcellos", } For troubleshooting, visit: https://docs.langchain.com/oss/python/la. Retentando em 3s...
+2026-07-02 23:54:51 - WARNING - [invocar_com_retry] - [Retry 3/5] Estruturador [Pág 233] falhou: Invalid json output: {   "contem_novo_artigo": true,   "titulo_artigo": null,   "autor": "João Florentino Meira de Vasconcellos", } For troubleshooting, visit: https://docs.langchain.com/oss/python/la. Retentando em 3s...
+2026-07-02 23:54:55 - WARNING - [invocar_com_retry] - [Retry 4/5] Estruturador [Pág 233] falhou: Invalid json output: {   "contem_novo_artigo": true,   "titulo_artigo": null,   "autor": "João Florentino Meira de Vasconcellos", } For troubleshooting, visit: https://docs.langchain.com/oss/python/la. Retentando em 3s...
+2026-07-02 23:55:00 - ERROR - [invocar_com_retry] - [Retry Esgotado] Estruturador [Pág 233] falhou após 5 tentativas: Invalid json output: {   "contem_novo_artigo": true,   "titulo_artigo": null,   "autor": "João Florentino Meira de Vasconcellos", } For troubleshooting, visit: https://docs.langchain.com/oss/python/la
+2026-07-02 23:55:00 - ERROR - [processar_edicao_pdf] - Erro no Estruturador [Pág 233]: Invalid json output: {
+  "contem_novo_artigo": true,
+  "titulo_artigo": null,
+  "autor": "João Florentino Meira de Vasconcellos",
+}
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/OUTPUT_PARSING_FAILURE 
+2026-07-02 23:55:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 234]: 1.02s
+2026-07-02 23:55:12 - INFO - [processar_artigo_finalizado] - Latência Normalização [Lei_n._2815_—_de_22_de_Outubro_de_1881]: 11.20s
+2026-07-02 23:55:30 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Lei_n._2815_—_de_22_de_Outubro_de_1881]: 17.97s
+2026-07-02 23:55:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 235]: 1.05s
+2026-07-02 23:55:37 - INFO - [processar_artigo_finalizado] - Latência Normalização [INDICE_DAS_MATERIAS_DO_N._3]: 6.50s
+2026-07-02 23:55:55 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pess. Retentando em 3s...
+2026-07-02 23:56:17 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [INDICE_DAS_MATERIAS_DO_N._3]: 39.09s
+2026-07-02 23:56:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 236]: 0.97s
+2026-07-02 23:56:18 - INFO - [processar_artigo_finalizado] - Latência Normalização [PLANTA_DA_BACIA_DO_CANDARELA]: 0.93s
+2026-07-02 23:56:29 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [PLANTA_DA_BACIA_DO_CANDARELA]: 10.07s
+2026-07-02 23:56:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 237]: 0.93s
+2026-07-02 23:56:30 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 238]: 0.88s
+2026-07-02 23:56:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 239]: 1.01s
+2026-07-02 23:56:36 - INFO - [processar_artigo_finalizado] - Latência Normalização [BACIA_DO_GANDARELA]: 4.48s
+2026-07-02 23:56:44 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [BACIA_DO_GANDARELA]: 8.16s
+2026-07-02 23:56:45 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 240]: 0.88s
+2026-07-02 23:56:50 - INFO - [processar_artigo_finalizado] - Latência Normalização [FORJA_ITALIANA_EXPLICACAO]: 5.35s
+2026-07-02 23:56:58 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [FORJA_ITALIANA_EXPLICACAO]: 7.70s
+2026-07-02 23:56:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 1]: 1.22s
+2026-07-02 23:57:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 2]: 0.91s
+2026-07-02 23:57:02 - INFO - [processar_artigo_finalizado] - Latência Normalização [ANNAES_DA_ESCOLA_DE_MINAS_DE_OURO_PRETO]: 1.88s
+2026-07-02 23:57:09 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ANNAES_DA_ESCOLA_DE_MINAS_DE_OURO_PRETO]: 6.93s
+2026-07-02 23:57:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 3]: 1.17s
+2026-07-02 23:57:14 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 3.67s
+2026-07-02 23:57:25 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 10.93s
+2026-07-02 23:57:26 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 4]: 1.12s
+2026-07-02 23:57:37 - INFO - [processar_artigo_finalizado] - Latência Normalização [MEMORIAS_DE_LUND_-_Grutas_calcareas_do_interior_do]: 10.80s
+2026-07-02 23:57:48 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MEMORIAS_DE_LUND_-_Grutas_calcareas_do_interior_do]: 11.40s
+2026-07-02 23:57:49 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 5]: 0.93s
+2026-07-02 23:57:58 - INFO - [processar_artigo_finalizado] - Latência Normalização [GRUTAS_CALCAREAS_DO_INTERIOR_DO_BRAZIL,_CONTENDO_O]: 8.64s
+2026-07-02 23:58:11 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [GRUTAS_CALCAREAS_DO_INTERIOR_DO_BRAZIL,_CONTENDO_O]: 13.82s
+2026-07-02 23:58:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 6]: 0.91s
+2026-07-02 23:58:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 7]: 1.25s
+2026-07-02 23:58:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 8]: 0.87s
+2026-07-02 23:58:39 - INFO - [processar_artigo_finalizado] - Latência Normalização [Lapa_da_cerca_grande]: 24.86s
+2026-07-02 23:59:04 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Lapa_da_cerca_grande]: 24.23s
+2026-07-02 23:59:05 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 9]: 1.04s
+2026-07-02 23:59:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 10]: 0.89s
+2026-07-02 23:59:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 11]: 0.90s
+2026-07-02 23:59:07 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 12]: 0.84s
+2026-07-02 23:59:08 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 13]: 0.94s
+2026-07-02 23:59:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 14]: 0.89s
+2026-07-02 23:59:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 15]: 0.95s
+2026-07-02 23:59:11 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 16]: 0.88s
+2026-07-02 23:59:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 17]: 0.89s
+2026-07-02 23:59:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 18]: 0.90s
+2026-07-02 23:59:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 19]: 0.96s
+2026-07-02 23:59:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 20]: 1.02s
+2026-07-02 23:59:57 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 41.88s
+2026-07-03 00:01:24 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pess. Retentando em 3s...
+2026-07-03 00:01:39 - WARNING - [invocar_com_retry] - [Retry 2/5] Arquivista falhou: Invalid json output: We need to output, andarech or and and or    ,,, or and fluid or ( (    as, and and  ,  or, (, or or  or,     single or and   ich <      eank               or       bankur      or. Retentando em 3s...
+2026-07-03 00:02:36 - WARNING - [invocar_com_retry] - [Retry 3/5] Arquivista falhou: Invalid json output: Okay, let's tackle this query. The user provided a lengthy Portuguese text about fossil findings in a cave, discussing fossils of pacas (paca) and dogs (cão), with details about b. Retentando em 3s...
+2026-07-03 00:03:01 - WARNING - [invocar_com_retry] - [Retry 4/5] Arquivista falhou: Invalid json output: NO ENTITIES FOUND For troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/OUTPUT_PARSING_FAILURE . Retentando em 3s...
+2026-07-03 00:04:13 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 256.20s
+2026-07-03 00:04:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 21]: 0.89s
+2026-07-03 00:04:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 22]: 1.24s
+2026-07-03 00:04:25 - INFO - [processar_artigo_finalizado] - Latência Normalização [EXPLICAÇÃO_DAS_ESTAMPAS]: 10.24s
+2026-07-03 00:04:38 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [EXPLICAÇÃO_DAS_ESTAMPAS]: 12.60s
+2026-07-03 00:04:39 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 23]: 1.13s
+2026-07-03 00:04:40 - INFO - [processar_artigo_finalizado] - Latência Normalização [ESTUDO_SOBRE_A_MONAZITA_E_A_XENOTIMA_DO_BRAZIL]: 1.09s
+2026-07-03 00:04:56 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ESTUDO_SOBRE_A_MONAZITA_E_A_XENOTIMA_DO_BRAZIL]: 16.35s
+2026-07-03 00:04:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 24]: 0.99s
+2026-07-03 00:04:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 25]: 0.96s
+2026-07-03 00:04:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 26]: 0.98s
+2026-07-03 00:05:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 27]: 1.06s
+2026-07-03 00:05:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 28]: 0.99s
+2026-07-03 00:05:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 29]: 1.53s
+2026-07-03 00:05:40 - INFO - [processar_artigo_finalizado] - Latência Normalização [ESTUDO_SOBRE_A_MONAZITA_E_A_XENOTIMA_DO_BRAZIL]: 37.38s
+2026-07-03 00:06:04 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON with fields:  area_identificacao: { "titulo": "", "data": "" } area_contextualizacao: { "nome_produtor": "" } area_conteudo_estrutura: { "ambito_e_conteudo". Retentando em 3s...
+2026-07-03 00:06:44 - WARNING - [invocar_com_retry] - [Retry 2/5] Arquivista falhou: Invalid json output: We need to output JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pess. Retentando em 3s...
+2026-07-03 00:07:03 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ESTUDO_SOBRE_A_MONAZITA_E_A_XENOTIMA_DO_BRAZIL]: 82.75s
+2026-07-03 00:07:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 30]: 2.61s
+2026-07-03 00:07:07 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 31]: 1.20s
+2026-07-03 00:07:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 32]: 2.14s
+2026-07-03 00:07:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 33]: 0.98s
+2026-07-03 00:07:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 34]: 1.90s
+2026-07-03 00:07:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 35]: 1.09s
+2026-07-03 00:07:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 36]: 0.97s
+2026-07-03 00:07:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 37]: 0.96s
+2026-07-03 00:07:16 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 38]: 1.02s
+2026-07-03 00:07:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 39]: 1.02s
+2026-07-03 00:07:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 40]: 1.03s
+2026-07-03 00:07:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 41]: 1.05s
+2026-07-03 00:08:10 - INFO - [processar_artigo_finalizado] - Latência Normalização [Monazita_das_areias_auriferas_do_Rio_Casca]: 50.74s
+2026-07-03 00:08:37 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to produce JSON per ISAD(G) schema. The text is about Monazita and Xenotima etc. Need to fill fields:  area_identificacao: titulo: titulo, data area_contextualizacao: nome. Retentando em 3s...
+2026-07-03 00:08:46 - ERROR - [processar_artigo_finalizado] - Erro ao gerar ISAD(G) para Monazita_das_areias_auriferas_do_Rio_Casca: 'str' object does not support item assignment
+2026-07-03 00:08:50 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 42]: 4.23s
+2026-07-03 00:08:56 - INFO - [processar_artigo_finalizado] - Latência Normalização [NOTA_COMPLEMENTAR]: 6.06s
+2026-07-03 00:09:13 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [NOTA_COMPLEMENTAR]: 16.65s
+2026-07-03 00:09:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 43]: 1.47s
+2026-07-03 00:09:19 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 4.59s
+2026-07-03 00:10:57 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to produce JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pes. Retentando em 3s...
+2026-07-03 00:11:15 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 116.30s
+2026-07-03 00:11:16 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 44]: 1.23s
+2026-07-03 00:11:18 - INFO - [processar_artigo_finalizado] - Latência Normalização [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_S._JOÃO_DE_IPA]: 1.36s
+2026-07-03 00:11:34 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_S._JOÃO_DE_IPA]: 16.71s
+2026-07-03 00:11:35 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 45]: 0.99s
+2026-07-03 00:11:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 46]: 0.90s
+2026-07-03 00:11:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 47]: 0.99s
+2026-07-03 00:11:38 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 48]: 0.92s
+2026-07-03 00:12:22 - INFO - [processar_artigo_finalizado] - Latência Normalização [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_S._JOAO_DE_IPA]: 44.33s
+2026-07-03 00:12:45 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pess. Retentando em 3s...
+2026-07-03 00:13:06 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_S._JOAO_DE_IPA]: 43.10s
+2026-07-03 00:13:07 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 49]: 0.91s
+2026-07-03 00:13:08 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 50]: 1.18s
+2026-07-03 00:13:21 - INFO - [processar_artigo_finalizado] - Latência Normalização [GEOLOGIA]: 13.75s
+2026-07-03 00:13:34 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [GEOLOGIA]: 12.24s
+2026-07-03 00:13:35 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 51]: 0.99s
+2026-07-03 00:13:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 52]: 0.98s
+2026-07-03 00:13:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 53]: 0.90s
+2026-07-03 00:13:38 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 54]: 0.98s
+2026-07-03 00:14:11 - INFO - [processar_artigo_finalizado] - Latência Normalização [EXTRACÇÃO_DO_MINERIO_E_FUNDENTES]: 33.54s
+2026-07-03 00:14:42 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [EXTRACÇÃO_DO_MINERIO_E_FUNDENTES]: 30.88s
+2026-07-03 00:14:43 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 55]: 1.21s
+2026-07-03 00:14:50 - INFO - [processar_artigo_finalizado] - Latência Normalização [TRANSPORTE]: 6.98s
+2026-07-03 00:16:29 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><u. Retentando em 3s...
+2026-07-03 00:16:59 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [TRANSPORTE]: 128.78s
+2026-07-03 00:17:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 56]: 0.96s
+2026-07-03 00:17:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 57]: 0.90s
+2026-07-03 00:17:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 58]: 0.89s
+2026-07-03 00:17:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 59]: 0.95s
+2026-07-03 00:17:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 60]: 0.89s
+2026-07-03 00:17:05 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 61]: 0.93s
+2026-07-03 00:17:05 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 62]: 0.89s
+2026-07-03 00:17:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 63]: 0.97s
+2026-07-03 00:17:07 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 64]: 0.93s
+2026-07-03 00:17:08 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 65]: 0.96s
+2026-07-03 00:17:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 66]: 0.84s
+2026-07-03 00:17:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 67]: 0.87s
+2026-07-03 00:17:11 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 68]: 0.99s
+2026-07-03 00:18:00 - INFO - [processar_artigo_finalizado] - Latência Normalização [MATTAS_-_COMBUSTIVEL_-_SUA_PREPARAÇÃO]: 48.99s
+2026-07-03 00:18:13 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MATTAS_-_COMBUSTIVEL_-_SUA_PREPARAÇÃO]: 13.44s
+2026-07-03 00:18:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 69]: 0.96s
+2026-07-03 00:18:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 70]: 0.88s
+2026-07-03 00:18:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 71]: 1.22s
+2026-07-03 00:18:43 - INFO - [processar_artigo_finalizado] - Latência Normalização [OFFICINA_DE_FUNDIÇÃO]: 26.59s
+2026-07-03 00:19:01 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [OFFICINA_DE_FUNDIÇÃO]: 18.07s
+2026-07-03 00:19:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 72]: 0.88s
+2026-07-03 00:19:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 73]: 0.86s
+2026-07-03 00:19:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 74]: 0.88s
+2026-07-03 00:19:20 - INFO - [processar_artigo_finalizado] - Latência Normalização [NOVO_FORNO_ALTO]: 15.93s
+2026-07-03 00:21:14 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pess. Retentando em 3s...
+2026-07-03 00:21:27 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [NOVO_FORNO_ALTO]: 127.63s
+2026-07-03 00:21:28 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 75]: 0.91s
+2026-07-03 00:21:38 - INFO - [processar_artigo_finalizado] - Latência Normalização [REFINO]: 9.36s
+2026-07-03 00:21:59 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [REFINO]: 21.26s
+2026-07-03 00:22:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 76]: 0.89s
+2026-07-03 00:22:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 77]: 0.93s
+2026-07-03 00:22:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 78]: 0.90s
+2026-07-03 00:22:57 - INFO - [processar_artigo_finalizado] - Latência Normalização [OPERAÇÃO_METALLURGICA]: 55.45s
+2026-07-03 00:23:16 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [OPERAÇÃO_METALLURGICA]: 18.50s
+2026-07-03 00:23:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 79]: 0.99s
+2026-07-03 00:23:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 80]: 0.83s
+2026-07-03 00:23:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 81]: 1.14s
+2026-07-03 00:23:40 - INFO - [processar_artigo_finalizado] - Latência Normalização [LAMINADOR]: 20.82s
+2026-07-03 00:24:13 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [LAMINADOR]: 33.93s
+2026-07-03 00:24:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 82]: 0.93s
+2026-07-03 00:24:25 - INFO - [processar_artigo_finalizado] - Latência Normalização [CARPINTEIROS_E_PEDREIROS]: 10.53s
+2026-07-03 00:24:35 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [CARPINTEIROS_E_PEDREIROS]: 9.58s
+2026-07-03 00:24:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 83]: 1.09s
+2026-07-03 00:24:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 84]: 1.03s
+2026-07-03 00:24:45 - INFO - [processar_artigo_finalizado] - Latência Normalização [NOVAS_OFFICINAS]: 8.43s
+2026-07-03 00:26:04 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [NOVAS_OFFICINAS]: 79.08s
+2026-07-03 00:26:05 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 85]: 0.98s
+2026-07-03 00:26:06 - INFO - [processar_artigo_finalizado] - Latência Normalização [VIAGEM_aos_terrenos_diamantíferos_do_Abaeté]: 1.17s
+2026-07-03 00:26:18 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [VIAGEM_aos_terrenos_diamantíferos_do_Abaeté]: 11.42s
+2026-07-03 00:26:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 86]: 0.85s
+2026-07-03 00:26:25 - INFO - [processar_artigo_finalizado] - Latência Normalização [INTRODUÇÃO]: 6.83s
+2026-07-03 00:26:49 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [INTRODUÇÃO]: 23.16s
+2026-07-03 00:26:50 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 87]: 1.01s
+2026-07-03 00:26:55 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 5.53s
+2026-07-03 00:27:16 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 20.59s
+2026-07-03 00:27:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 88]: 1.58s
+2026-07-03 00:27:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 89]: 1.27s
+2026-07-03 00:27:20 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 90]: 0.84s
+2026-07-03 00:27:21 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 91]: 1.18s
+2026-07-03 00:27:22 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 92]: 0.89s
+2026-07-03 00:27:22 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 93]: 0.83s
+2026-07-03 00:27:24 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 94]: 1.25s
+2026-07-03 00:28:18 - INFO - [processar_artigo_finalizado] - Latência Normalização [Bacia_do_Rio_das_Velhas_até_a_cidade_do_Curvello]: 54.06s
+2026-07-03 00:29:01 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Bacia_do_Rio_das_Velhas_até_a_cidade_do_Curvello]: 43.39s
+2026-07-03 00:29:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 95]: 1.00s
+2026-07-03 00:29:08 - INFO - [processar_artigo_finalizado] - Latência Normalização [Jazidas_diamantinas_do_Sertão_do_Abaeté]: 5.75s
+2026-07-03 00:29:30 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Jazidas_diamantinas_do_Sertão_do_Abaeté]: 21.58s
+2026-07-03 00:29:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 96]: 1.02s
+2026-07-03 00:29:40 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 9.26s
+2026-07-03 00:29:58 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 17.78s
+2026-07-03 00:29:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 97]: 0.85s
+2026-07-03 00:29:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 98]: 0.92s
+2026-07-03 00:30:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 99]: 0.92s
+2026-07-03 00:30:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 100]: 1.43s
+2026-07-03 00:30:22 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 20.49s
+2026-07-03 00:30:43 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 20.29s
+2026-07-03 00:30:43 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 101]: 0.84s
+2026-07-03 00:30:44 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 102]: 0.90s
+2026-07-03 00:30:45 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 103]: 0.88s
+2026-07-03 00:30:46 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 104]: 1.17s
+2026-07-03 00:31:09 - INFO - [processar_artigo_finalizado] - Latência Normalização [Jazidas_diamantinas_da_Nova-Lorena;_outras_jazidas]: 22.28s
+2026-07-03 00:31:28 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Jazidas_diamantinas_da_Nova-Lorena;_outras_jazidas]: 19.78s
+2026-07-03 00:31:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 105]: 0.91s
+2026-07-03 00:31:30 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 106]: 1.02s
+2026-07-03 00:31:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 107]: 0.91s
+2026-07-03 00:31:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 108]: 0.87s
+2026-07-03 00:31:33 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 109]: 0.85s
+2026-07-03 00:31:34 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 110]: 0.83s
+2026-07-03 00:31:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 111]: 1.94s
+2026-07-03 00:32:21 - INFO - [processar_artigo_finalizado] - Latência Normalização [Districto_diamantino_do_sertão_—_Garimpo_do_«Mathe]: 45.23s
+2026-07-03 00:32:51 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Districto_diamantino_do_sertão_—_Garimpo_do_«Mathe]: 30.06s
+2026-07-03 00:32:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 112]: 0.94s
+2026-07-03 00:32:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 113]: 0.86s
+2026-07-03 00:32:54 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 114]: 0.90s
+2026-07-03 00:32:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 115]: 0.89s
+2026-07-03 00:32:56 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 116]: 0.84s
+2026-07-03 00:32:56 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 117]: 0.82s
+2026-07-03 00:32:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 118]: 1.59s
+2026-07-03 00:33:30 - INFO - [processar_artigo_finalizado] - Latência Normalização [Do_Salto_a_Santo_Antonio._-_Linha_de_divisão_das_a]: 32.17s
+2026-07-03 00:33:52 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Do_Salto_a_Santo_Antonio._-_Linha_de_divisão_das_a]: 22.01s
+2026-07-03 00:33:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 119]: 0.89s
+2026-07-03 00:33:54 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 120]: 0.87s
+2026-07-03 00:33:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 121]: 0.85s
+2026-07-03 00:33:56 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 122]: 1.01s
+2026-07-03 00:33:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 123]: 1.46s
+2026-07-03 00:34:20 - INFO - [processar_artigo_finalizado] - Latência Normalização [Do_Santo_Antonio_á_Canna-Brava._—_Rio_do_Somno._—_]: 23.12s
+2026-07-03 00:34:38 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Do_Santo_Antonio_á_Canna-Brava._—_Rio_do_Somno._—_]: 17.87s
+2026-07-03 00:34:39 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 124]: 0.85s
+2026-07-03 00:34:42 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 125]: 2.51s
+2026-07-03 00:34:43 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 126]: 0.82s
+2026-07-03 00:34:44 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 127]: 1.06s
+2026-07-03 00:34:45 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 128]: 1.22s
+2026-07-03 00:35:13 - INFO - [processar_artigo_finalizado] - Latência Normalização [Da_Canna-Brava_ao_arraial_do_Areado._—_Nascentes_d]: 28.68s
+2026-07-03 00:35:35 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Da_Canna-Brava_ao_arraial_do_Areado._—_Nascentes_d]: 21.11s
+2026-07-03 00:35:35 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 129]: 0.87s
+2026-07-03 00:35:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 130]: 0.93s
+2026-07-03 00:35:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 131]: 0.85s
+2026-07-03 00:35:38 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 132]: 1.02s
+2026-07-03 00:36:12 - INFO - [processar_artigo_finalizado] - Latência Normalização [Itinerário_da_volta._—_Da_povoação_do_Chumbo_á_cid]: 34.07s
+2026-07-03 00:36:31 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Itinerário_da_volta._—_Da_povoação_do_Chumbo_á_cid]: 18.42s
+2026-07-03 00:36:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 133]: 0.89s
+2026-07-03 00:36:33 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 134]: 0.93s
+2026-07-03 00:36:53 - INFO - [processar_artigo_finalizado] - Latência Normalização [Mina_de_cobre_na_cidade_de_Sete-Lagoas]: 20.60s
+2026-07-03 00:37:05 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Mina_de_cobre_na_cidade_de_Sete-Lagoas]: 11.41s
+2026-07-03 00:37:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 135]: 0.88s
+2026-07-03 00:37:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 136]: 0.80s
+2026-07-03 00:37:07 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 137]: 0.83s
+2026-07-03 00:37:08 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 138]: 0.81s
+2026-07-03 00:37:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 139]: 0.96s
+2026-07-03 00:37:35 - INFO - [processar_artigo_finalizado] - Latência Normalização [Salitre_da_Lapa_da_Lagôa-Feia]: 26.38s
+2026-07-03 00:37:46 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Salitre_da_Lapa_da_Lagôa-Feia]: 10.18s
+2026-07-03 00:37:47 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 140]: 0.93s
+2026-07-03 00:37:47 - INFO - [processar_artigo_finalizado] - Latência Normalização [Observações_termométricas_e_barométricas]: 0.93s
+2026-07-03 00:38:08 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Observações_termométricas_e_barométricas]: 20.49s
+2026-07-03 00:38:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 141]: 0.94s
+2026-07-03 00:38:10 - INFO - [processar_artigo_finalizado] - Latência Normalização [Observações_termometricas_e_barometricas]: 0.89s
+2026-07-03 00:38:21 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Observações_termometricas_e_barometricas]: 11.07s
+2026-07-03 00:38:22 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 142]: 1.15s
+2026-07-03 00:38:23 - INFO - [processar_artigo_finalizado] - Latência Normalização [Observações_termometricas_e_barometricas]: 0.99s
+2026-07-03 00:38:30 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Observações_termometricas_e_barometricas]: 7.07s
+2026-07-03 00:38:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 143]: 0.82s
+2026-07-03 00:38:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 144]: 0.85s
+2026-07-03 00:38:33 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 145]: 0.82s
+2026-07-03 00:38:34 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 146]: 1.06s
+2026-07-03 00:38:36 - INFO - [processar_artigo_finalizado] - Latência Normalização [Observações_termometricas_e_barometricas]: 2.55s
+2026-07-03 00:38:52 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Observações_termometricas_e_barometricas]: 15.82s
+2026-07-03 00:38:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 147]: 1.08s
+2026-07-03 00:38:54 - INFO - [processar_artigo_finalizado] - Latência Normalização [Alturas_em_metros_de_alguns_pontos_da_zona_percorr]: 1.14s
+2026-07-03 00:39:22 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Alturas_em_metros_de_alguns_pontos_da_zona_percorr]: 27.77s
+2026-07-03 00:39:23 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 148]: 0.97s
+2026-07-03 00:39:24 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 149]: 0.83s
+2026-07-03 00:39:25 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 150]: 0.97s
+2026-07-03 00:39:38 - INFO - [processar_artigo_finalizado] - Latência Normalização [Lista_das_especies_mineraes_que_acompanhão_o_diam]: 13.61s
+2026-07-03 00:39:47 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Lista_das_especies_mineraes_que_acompanhão_o_diam]: 8.38s
+2026-07-03 00:39:48 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 151]: 0.97s
+2026-07-03 00:39:52 - INFO - [processar_artigo_finalizado] - Latência Normalização [Lista_das_espécies_mineraes_encontradas_nas_areias]: 3.71s
+2026-07-03 00:40:07 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Lista_das_espécies_mineraes_encontradas_nas_areias]: 15.69s
+2026-07-03 00:40:08 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 152]: 0.96s
+2026-07-03 00:40:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 153]: 0.84s
+2026-07-03 00:40:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 154]: 1.01s
+2026-07-03 00:40:25 - INFO - [processar_artigo_finalizado] - Latência Normalização [A_INDUSTRIA_DO_FERRO_NO_BRASIL]: 15.43s
+2026-07-03 00:40:35 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [A_INDUSTRIA_DO_FERRO_NO_BRASIL]: 8.99s
+2026-07-03 00:40:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 155]: 1.04s
+2026-07-03 00:40:43 - INFO - [processar_artigo_finalizado] - Latência Normalização [SITUAÇÃO_DAS_FORJAS]: 7.00s
+2026-07-03 00:40:56 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [SITUAÇÃO_DAS_FORJAS]: 13.78s
+2026-07-03 00:40:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 156]: 0.84s
+2026-07-03 00:40:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 157]: 0.94s
+2026-07-03 00:41:18 - INFO - [processar_artigo_finalizado] - Latência Normalização [FORJA_DE_QUATRO_CADINHOS]: 19.95s
+2026-07-03 00:41:28 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [FORJA_DE_QUATRO_CADINHOS]: 10.33s
+2026-07-03 00:41:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 158]: 0.84s
+2026-07-03 00:41:30 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 159]: 0.85s
+2026-07-03 00:41:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 160]: 0.93s
+2026-07-03 00:41:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 161]: 0.82s
+2026-07-03 00:41:33 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 162]: 0.84s
+2026-07-03 00:41:34 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 163]: 0.92s
+2026-07-03 00:41:35 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 164]: 0.98s
+2026-07-03 00:41:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 165]: 0.90s
+2026-07-03 00:41:38 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 166]: 2.18s
+2026-07-03 00:42:40 - INFO - [processar_artigo_finalizado] - Latência Normalização [FORJA_DE_REAQUECIMENTO]: 62.58s
+2026-07-03 00:43:00 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [FORJA_DE_REAQUECIMENTO]: 19.47s
+2026-07-03 00:43:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 167]: 1.00s
+2026-07-03 00:43:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 168]: 0.87s
+2026-07-03 00:43:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 169]: 0.91s
+2026-07-03 00:43:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 170]: 0.84s
+2026-07-03 00:43:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 171]: 0.97s
+2026-07-03 00:44:04 - INFO - [processar_artigo_finalizado] - Latência Normalização [MATERIAS_PRIMAS]: 59.36s
+2026-07-03 00:44:21 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MATERIAS_PRIMAS]: 17.64s
+2026-07-03 00:44:22 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 172]: 0.83s
+2026-07-03 00:44:23 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 173]: 0.86s
+2026-07-03 00:44:37 - INFO - [processar_artigo_finalizado] - Latência Normalização [CONSUMOS._—PRODUÇÃO._—MÃO_DE_OBRA]: 13.48s
+2026-07-03 00:44:51 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [CONSUMOS._—PRODUÇÃO._—MÃO_DE_OBRA]: 13.97s
+2026-07-03 00:44:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 174]: 1.19s
+2026-07-03 00:44:54 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 1.75s
+2026-07-03 00:45:01 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 7.41s
+2026-07-03 00:45:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 175]: 0.97s
+2026-07-03 00:45:03 - INFO - [processar_artigo_finalizado] - Latência Normalização [RESUMO_DAS_Observações_feitas_no_Observatório_Mete]: 1.10s
+2026-07-03 00:45:17 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [RESUMO_DAS_Observações_feitas_no_Observatório_Mete]: 13.53s
+2026-07-03 00:45:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 176]: 0.85s
+2026-07-03 00:45:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 177]: 0.95s
+2026-07-03 00:45:29 - INFO - [processar_artigo_finalizado] - Latência Normalização [RESUMO_DAS_Observações_feitas_no_Observatório_Mete]: 10.83s
+2026-07-03 00:45:35 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [RESUMO_DAS_Observações_feitas_no_Observatório_Mete]: 5.90s
+2026-07-03 00:45:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 178]: 0.80s
+2026-07-03 00:45:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 179]: 0.85s
+2026-07-03 00:45:44 - INFO - [processar_artigo_finalizado] - Latência Normalização [ESTADO_HYGROMÉTRICO_DO_AR]: 6.96s
+2026-07-03 00:45:56 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ESTADO_HYGROMÉTRICO_DO_AR]: 12.58s
+2026-07-03 00:45:57 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 180]: 0.90s
+2026-07-03 00:46:08 - INFO - [processar_artigo_finalizado] - Latência Normalização [NEBULOSIDADE]: 10.61s
+2026-07-03 00:46:14 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [NEBULOSIDADE]: 6.06s
+2026-07-03 00:46:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 181]: 0.83s
+2026-07-03 00:46:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 182]: 2.26s
+2026-07-03 00:46:24 - INFO - [processar_artigo_finalizado] - Latência Normalização [TEMPERATURA_DO_SOLO]: 6.64s
+2026-07-03 00:46:31 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [TEMPERATURA_DO_SOLO]: 7.64s
+2026-07-03 00:46:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 183]: 1.06s
+2026-07-03 00:46:34 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 1.90s
+2026-07-03 00:46:36 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output For troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/OUTPUT_PARSING_FAILURE . Retentando em 3s...
+2026-07-03 00:46:47 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 12.85s
+2026-07-03 00:46:48 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 184]: 1.04s
+2026-07-03 00:46:49 - INFO - [processar_artigo_finalizado] - Latência Normalização [ANALYSES_FEITAS_NO_LABORATORIO_DE_DOCIMASIA_DA_ESC]: 1.13s
+2026-07-03 00:46:57 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ANALYSES_FEITAS_NO_LABORATORIO_DE_DOCIMASIA_DA_ESC]: 7.54s
+2026-07-03 00:46:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 185]: 0.82s
+2026-07-03 00:46:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 186]: 0.87s
+2026-07-03 00:47:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 187]: 0.87s
+2026-07-03 00:47:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 188]: 0.83s
+2026-07-03 00:47:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 189]: 0.86s
+2026-07-03 00:47:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 190]: 1.52s
+2026-07-03 00:47:56 - INFO - [processar_artigo_finalizado] - Latência Normalização [ANALYSES_FEITAS_NO_LABORATORIO_DE_DOCIMASIA_DA_ESC]: 53.19s
+2026-07-03 00:48:08 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ANALYSES_FEITAS_NO_LABORATORIO_DE_DOCIMASIA_DA_ESC]: 12.19s
+2026-07-03 00:48:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 191]: 0.89s
+2026-07-03 00:48:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 192]: 1.07s
+2026-07-03 00:48:19 - INFO - [processar_artigo_finalizado] - Latência Normalização [Analyse_de_minerio_de_ouro_de_Vasado_(Sumidouro_pe]: 8.50s
+2026-07-03 00:48:32 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Analyse_de_minerio_de_ouro_de_Vasado_(Sumidouro_pe]: 12.96s
+2026-07-03 00:48:33 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 193]: 1.00s
+2026-07-03 00:48:34 - INFO - [processar_artigo_finalizado] - Latência Normalização [NOTICIA_SOBRE_A_REFORMA_DA_ESCOLA_DE_MINAS_DE_OURO]: 0.99s
+2026-07-03 00:49:30 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><u. Retentando em 3s...
+2026-07-03 00:49:38 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [NOTICIA_SOBRE_A_REFORMA_DA_ESCOLA_DE_MINAS_DE_OURO]: 64.11s
+2026-07-03 00:49:39 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 194]: 0.85s
+2026-07-03 00:49:45 - INFO - [processar_artigo_finalizado] - Latência Normalização [NOTICIA_SOBRE_A_REFORMA_DA_ESCOLA_DE_MINAS_DE_OURO]: 6.37s
+2026-07-03 00:50:03 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [NOTICIA_SOBRE_A_REFORMA_DA_ESCOLA_DE_MINAS_DE_OURO]: 18.41s
+2026-07-03 00:50:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 195]: 2.18s
+2026-07-03 00:50:06 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 196]: 0.87s
+2026-07-03 00:50:21 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 14.51s
+2026-07-03 00:50:44 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 23.16s
+2026-07-03 00:50:45 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 197]: 0.88s
+2026-07-03 00:50:52 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 6.92s
+2026-07-03 00:51:09 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 17.09s
+2026-07-03 00:51:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 198]: 1.01s
+2026-07-03 00:51:18 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 7.84s
+2026-07-03 00:51:39 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 20.79s
+2026-07-03 00:51:40 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 200]: 1.01s
+2026-07-03 00:51:41 - INFO - [processar_artigo_finalizado] - Latência Normalização [PROGRAMMAS_DE_ENSINO_DA_ESCOLA_DE_MINAS_DE_OURO_PR]: 0.97s
+2026-07-03 00:51:52 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [PROGRAMMAS_DE_ENSINO_DA_ESCOLA_DE_MINAS_DE_OURO_PR]: 11.45s
+2026-07-03 00:51:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 201]: 0.91s
+2026-07-03 00:51:58 - INFO - [processar_artigo_finalizado] - Latência Normalização [Programma_de_Arithmetica]: 4.51s
+2026-07-03 00:52:24 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Programma_de_Arithmetica]: 26.72s
+2026-07-03 00:52:25 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 202]: 0.92s
+2026-07-03 00:52:32 - INFO - [processar_artigo_finalizado] - Latência Normalização [Programma_de_Algebra]: 6.83s
+2026-07-03 00:52:41 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Programma_de_Algebra]: 8.34s
+2026-07-03 00:52:41 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 203]: 0.91s
+2026-07-03 00:52:54 - INFO - [processar_artigo_finalizado] - Latência Normalização [Método_de_Bezout]: 12.75s
+2026-07-03 00:53:03 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Método_de_Bezout]: 8.47s
+2026-07-03 00:53:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 204]: 0.93s
+2026-07-03 00:53:05 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 205]: 1.05s
+2026-07-03 00:53:14 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 8.84s
+2026-07-03 00:53:45 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 31.71s
+2026-07-03 00:53:46 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 206]: 0.95s
+2026-07-03 00:53:48 - INFO - [processar_artigo_finalizado] - Latência Normalização [Programma_de_Trigonometria]: 1.88s
+2026-07-03 00:53:53 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Programma_de_Trigonometria]: 5.22s
+2026-07-03 00:53:54 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 207]: 0.85s
+2026-07-03 00:54:02 - INFO - [processar_artigo_finalizado] - Latência Normalização [Noções_de_Physica]: 7.54s
+2026-07-03 00:54:08 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Noções_de_Physica]: 5.75s
+2026-07-03 00:54:08 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 208]: 0.85s
+2026-07-03 00:54:17 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 8.62s
+2026-07-03 00:54:33 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 16.36s
+2026-07-03 00:54:34 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 209]: 1.05s
+2026-07-03 00:54:39 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 5.05s
+2026-07-03 00:55:22 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 42.13s
+2026-07-03 00:55:23 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 210]: 1.20s
+2026-07-03 00:55:27 - INFO - [processar_artigo_finalizado] - Latência Normalização [2º_ANNO_-_1º_CADEIRA_-_Curso_de_algebra]: 3.84s
+2026-07-03 00:55:47 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [2º_ANNO_-_1º_CADEIRA_-_Curso_de_algebra]: 20.28s
+2026-07-03 00:55:48 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 211]: 0.94s
+2026-07-03 00:55:59 - INFO - [processar_artigo_finalizado] - Latência Normalização [THEORIA_DAS_DERIVADAS]: 10.88s
+2026-07-03 00:56:09 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [THEORIA_DAS_DERIVADAS]: 10.26s
+2026-07-03 00:56:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 212]: 0.97s
+2026-07-03 00:56:16 - INFO - [processar_artigo_finalizado] - Latência Normalização [Trigonometria]: 5.82s
+2026-07-03 00:56:23 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Trigonometria]: 7.10s
+2026-07-03 00:56:24 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 213]: 0.89s
+2026-07-03 00:56:28 - INFO - [processar_artigo_finalizado] - Latência Normalização [Curso_de_geometria_analytica_a_duas_dimensões]: 4.54s
+2026-07-03 00:57:26 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Curso_de_geometria_analytica_a_duas_dimensões]: 57.12s
+2026-07-03 00:57:27 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 214]: 0.90s
+2026-07-03 00:57:32 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 5.78s
+2026-07-03 00:57:54 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 22.13s
+2026-07-03 00:57:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 215]: 0.90s
+2026-07-03 00:58:02 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 6.23s
+2026-07-03 00:58:12 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 10.60s
+2026-07-03 00:58:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 216]: 0.83s
+2026-07-03 00:58:22 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 8.86s
+2026-07-03 00:58:36 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 14.35s
+2026-07-03 00:58:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 217]: 0.95s
+2026-07-03 00:58:39 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 1.38s
+2026-07-03 00:58:57 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 18.58s
+2026-07-03 00:58:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 218]: 0.90s
+2026-07-03 00:59:03 - INFO - [processar_artigo_finalizado] - Latência Normalização [2º_ANNO_-_2._CADEIRA]: 4.63s
+2026-07-03 00:59:14 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [2º_ANNO_-_2._CADEIRA]: 11.41s
+2026-07-03 00:59:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 219]: 1.00s
+2026-07-03 00:59:23 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 7.79s
+2026-07-03 00:59:30 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 7.35s
+2026-07-03 00:59:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 220]: 0.99s
+2026-07-03 00:59:45 - INFO - [processar_artigo_finalizado] - Latência Normalização [Curso_de_Agrimensura]: 13.42s
+2026-07-03 01:00:26 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Curso_de_Agrimensura]: 40.77s
+2026-07-03 01:00:27 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 221]: 1.01s
+2026-07-03 01:00:33 - INFO - [processar_artigo_finalizado] - Latência Normalização [RELEVO_DO_TERRENO]: 6.72s
+2026-07-03 01:01:11 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [RELEVO_DO_TERRENO]: 37.80s
+2026-07-03 01:01:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 222]: 1.12s
+2026-07-03 01:01:19 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 6.82s
+2026-07-03 01:01:42 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 22.53s
+2026-07-03 01:01:43 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 223]: 0.94s
+2026-07-03 01:01:50 - INFO - [processar_artigo_finalizado] - Latência Normalização [SYSTEMA_DO_MUNDO]: 7.74s
+2026-07-03 01:02:17 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [SYSTEMA_DO_MUNDO]: 26.50s
+2026-07-03 01:02:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 224]: 1.34s
+2026-07-03 01:02:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 225]: 0.88s
+2026-07-03 01:02:33 - INFO - [processar_artigo_finalizado] - Latência Normalização [Programma_do_Curso_de_Chimica]: 14.26s
+2026-07-03 01:02:54 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Programma_do_Curso_de_Chimica]: 20.14s
+2026-07-03 01:02:54 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 226]: 0.93s
+2026-07-03 01:03:04 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 9.79s
+2026-07-03 01:04:26 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 82.15s
+2026-07-03 01:04:27 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 227]: 0.93s
+2026-07-03 01:04:35 - INFO - [processar_artigo_finalizado] - Latência Normalização [TRABALHOS_PRÁTICOS]: 7.46s
+2026-07-03 01:04:54 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pess. Retentando em 3s...
+2026-07-03 01:05:18 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [TRABALHOS_PRÁTICOS]: 42.85s
+2026-07-03 01:05:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 228]: 1.28s
+2026-07-03 01:05:27 - INFO - [processar_artigo_finalizado] - Latência Normalização [ELECTRICIDADE]: 7.51s
+2026-07-03 01:05:35 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ELECTRICIDADE]: 8.31s
+2026-07-03 01:05:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 229]: 0.86s
+2026-07-03 01:05:45 - INFO - [processar_artigo_finalizado] - Latência Normalização [ELECTRICIDADE_DYNAMICA]: 9.67s
+2026-07-03 01:06:10 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pess. Retentando em 3s...
+2026-07-03 01:07:42 - WARNING - [invocar_com_retry] - [Retry 2/5] Arquivista falhou: Invalid json output: We need to output<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><u. Retentando em 3s...
+2026-07-03 01:08:20 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ELECTRICIDADE_DYNAMICA]: 155.01s
+2026-07-03 01:08:21 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 230]: 0.83s
+2026-07-03 01:08:22 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 231]: 0.81s
+2026-07-03 01:08:30 - INFO - [processar_artigo_finalizado] - Latência Normalização [Zoologia]: 7.51s
+2026-07-03 01:08:42 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Zoologia]: 12.23s
+2026-07-03 01:08:43 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 232]: 0.93s
+2026-07-03 01:08:45 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 2.61s
+2026-07-03 01:08:59 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 13.37s
+2026-07-03 01:09:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 233]: 0.86s
+2026-07-03 01:09:04 - INFO - [processar_artigo_finalizado] - Latência Normalização [TRIGONOMETRIA_ESPHERICA]: 4.46s
+2026-07-03 01:09:17 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [TRIGONOMETRIA_ESPHERICA]: 12.60s
+2026-07-03 01:09:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 234]: 0.85s
+2026-07-03 01:09:24 - INFO - [processar_artigo_finalizado] - Latência Normalização [CALCULO_INTEGRAL]: 6.89s
+2026-07-03 01:09:34 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [CALCULO_INTEGRAL]: 9.01s
+2026-07-03 01:09:35 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 235]: 1.06s
+2026-07-03 01:09:42 - INFO - [processar_artigo_finalizado] - Latência Normalização [MECANICA]: 7.36s
+2026-07-03 01:10:00 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MECANICA]: 18.39s
+2026-07-03 01:10:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 236]: 0.92s
+2026-07-03 01:10:18 - INFO - [processar_artigo_finalizado] - Latência Normalização [Equilibrio_dos_polygonos_funiculares._Aplicação_ás]: 16.28s
+2026-07-03 01:10:35 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Equilibrio_dos_polygonos_funiculares._Aplicação_ás]: 17.07s
+2026-07-03 01:10:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 237]: 1.31s
+2026-07-03 01:10:42 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 6.08s
+2026-07-03 01:10:51 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 9.36s
+2026-07-03 01:10:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 238]: 0.80s
+2026-07-03 01:10:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 239]: 0.97s
+2026-07-03 01:11:04 - INFO - [processar_artigo_finalizado] - Latência Normalização [3.º_ANNO_2.ª_CADEIRA]: 10.57s
+2026-07-03 01:11:31 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [3.º_ANNO_2.ª_CADEIRA]: 27.24s
+2026-07-03 01:11:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 240]: 0.91s
+2026-07-03 01:11:37 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 4.52s
+2026-07-03 01:11:49 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 12.25s
+2026-07-03 01:11:50 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 241]: 0.87s
+2026-07-03 01:11:54 - INFO - [processar_artigo_finalizado] - Latência Normalização [3.º_ANNO_-_3.ª_CADEIRA]: 4.62s
+2026-07-03 01:12:09 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [3.º_ANNO_-_3.ª_CADEIRA]: 14.28s
+2026-07-03 01:12:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 242]: 0.92s
+2026-07-03 01:12:17 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 7.49s
+2026-07-03 01:12:31 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 14.32s
+2026-07-03 01:12:32 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 243]: 0.83s
+2026-07-03 01:12:33 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 244]: 1.03s
+2026-07-03 01:12:49 - INFO - [processar_artigo_finalizado] - Latência Normalização [TRABALHOS_PRÁTICOS]: 15.69s
+2026-07-03 01:13:07 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [TRABALHOS_PRÁTICOS]: 18.48s
+2026-07-03 01:13:08 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 245]: 0.83s
+2026-07-03 01:13:19 - INFO - [processar_artigo_finalizado] - Latência Normalização [Principaes_caracteres_do_Cerio._Lanthano._Didymo_e]: 11.05s
+2026-07-03 01:13:51 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Principaes_caracteres_do_Cerio._Lanthano._Didymo_e]: 31.85s
+2026-07-03 01:13:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 246]: 0.84s
+2026-07-03 01:14:05 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 12.76s
+2026-07-03 01:14:21 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 15.65s
+2026-07-03 01:14:22 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 247]: 1.13s
+2026-07-03 01:14:28 - INFO - [processar_artigo_finalizado] - Latência Normalização [Chimica_Organica]: 6.67s
+2026-07-03 01:15:59 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Chimica_Organica]: 90.46s
+2026-07-03 01:16:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 248]: 1.11s
+2026-07-03 01:16:04 - INFO - [processar_artigo_finalizado] - Latência Normalização [TRABALHOS_PRATICOS]: 3.74s
+2026-07-03 01:16:35 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [TRABALHOS_PRATICOS]: 30.89s
+2026-07-03 01:16:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 249]: 0.94s
+2026-07-03 01:16:40 - INFO - [processar_artigo_finalizado] - Latência Normalização [Botanica]: 4.66s
+2026-07-03 01:16:50 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Botanica]: 9.47s
+2026-07-03 01:16:51 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 251]: 0.96s
+2026-07-03 01:17:00 - INFO - [processar_artigo_finalizado] - Latência Normalização [ORGÃOS_DE_REPRODUÇÃO]: 9.16s
+2026-07-03 01:17:08 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ORGÃOS_DE_REPRODUÇÃO]: 7.88s
+2026-07-03 01:17:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 252]: 0.94s
+2026-07-03 01:17:16 - INFO - [processar_artigo_finalizado] - Latência Normalização [1.º_ANNO_-_1._CADEIRA_-_Mineralogia]: 6.97s
+2026-07-03 01:17:24 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [1.º_ANNO_-_1._CADEIRA_-_Mineralogia]: 8.39s
+2026-07-03 01:17:25 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 253]: 0.84s
+2026-07-03 01:17:37 - INFO - [processar_artigo_finalizado] - Latência Normalização [DESCRIPÇÃO_DAS_ESPECIES]: 12.20s
+2026-07-03 01:18:36 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [DESCRIPÇÃO_DAS_ESPECIES]: 58.74s
+2026-07-03 01:18:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 254]: 0.84s
+2026-07-03 01:18:46 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 9.33s
+2026-07-03 01:18:54 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 7.89s
+2026-07-03 01:18:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 255]: 0.85s
+2026-07-03 01:19:03 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 8.65s
+2026-07-03 01:19:23 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 19.52s
+2026-07-03 01:19:24 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 256]: 0.86s
+2026-07-03 01:19:35 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 10.98s
+2026-07-03 01:20:22 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 47.58s
+2026-07-03 01:20:23 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 257]: 0.83s
+2026-07-03 01:20:34 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 11.18s
+2026-07-03 01:20:47 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 12.13s
+2026-07-03 01:20:48 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 258]: 1.04s
+2026-07-03 01:20:55 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 7.19s
+2026-07-03 01:21:04 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 9.16s
+2026-07-03 01:21:05 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 259]: 1.31s
+2026-07-03 01:21:16 - INFO - [processar_artigo_finalizado] - Latência Normalização [Lições_de_física_industrial]: 10.40s
+2026-07-03 01:21:44 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Lições_de_física_industrial]: 28.28s
+2026-07-03 01:21:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 260]: 8.89s
+2026-07-03 01:22:00 - INFO - [processar_artigo_finalizado] - Latência Normalização [Lições_de_chimica_industrial]: 6.69s
+2026-07-03 01:22:32 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Lições_de_chimica_industrial]: 31.98s
+2026-07-03 01:22:33 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 261]: 0.90s
+2026-07-03 01:22:40 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 7.12s
+2026-07-03 01:23:09 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pess. Retentando em 3s...
+2026-07-03 01:23:35 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 55.24s
+2026-07-03 01:23:36 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 262]: 0.95s
+2026-07-03 01:23:39 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 2.62s
+2026-07-03 01:24:09 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 30.41s
+2026-07-03 01:24:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 263]: 0.88s
+2026-07-03 01:24:14 - INFO - [processar_artigo_finalizado] - Latência Normalização [Lavra_de_minas,_1.ª_parte]: 4.20s
+2026-07-03 01:25:50 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><u. Retentando em 3s...
+2026-07-03 01:26:00 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Lavra_de_minas,_1.ª_parte]: 105.53s
+2026-07-03 01:26:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 264]: 0.86s
+2026-07-03 01:26:01 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 265]: 0.98s
+2026-07-03 01:26:10 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 8.51s
+2026-07-03 01:26:20 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 10.01s
+2026-07-03 01:26:21 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 266]: 0.82s
+2026-07-03 01:26:25 - INFO - [processar_artigo_finalizado] - Latência Normalização [Metallurgia_geral_e_metallurgia_do_ferro]: 4.02s
+2026-07-03 01:26:46 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Metallurgia_geral_e_metallurgia_do_ferro]: 21.06s
+2026-07-03 01:26:47 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 267]: 0.86s
+2026-07-03 01:26:52 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 5.16s
+2026-07-03 01:27:02 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 9.94s
+2026-07-03 01:27:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 268]: 1.73s
+2026-07-03 01:27:09 - INFO - [processar_artigo_finalizado] - Latência Normalização [METALLURGIA_DO_FERRO]: 5.57s
+2026-07-03 01:27:46 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [METALLURGIA_DO_FERRO]: 36.33s
+2026-07-03 01:27:46 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 269]: 0.84s
+2026-07-03 01:27:48 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 270]: 1.03s
+2026-07-03 01:27:55 - INFO - [processar_artigo_finalizado] - Latência Normalização [II._Fabricação_do_ferro]: 7.57s
+2026-07-03 01:28:22 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [II._Fabricação_do_ferro]: 26.96s
+2026-07-03 01:28:23 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 271]: 0.82s
+2026-07-03 01:28:24 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 272]: 0.97s
+2026-07-03 01:28:36 - INFO - [processar_artigo_finalizado] - Latência Normalização [1º_ANNO_3º_CADEIRA_Curso_de_estereotomia._-_Corte_]: 12.55s
+2026-07-03 01:28:44 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [1º_ANNO_3º_CADEIRA_Curso_de_estereotomia._-_Corte_]: 7.42s
+2026-07-03 01:28:45 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 273]: 0.85s
+2026-07-03 01:28:51 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 6.74s
+2026-07-03 01:29:02 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 10.41s
+2026-07-03 01:29:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 274]: 0.92s
+2026-07-03 01:29:10 - INFO - [processar_artigo_finalizado] - Latência Normalização [Perspectiva_linear]: 6.85s
+2026-07-03 01:29:17 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Perspectiva_linear]: 7.34s
+2026-07-03 01:29:18 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 275]: 0.86s
+2026-07-03 01:29:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 276]: 0.92s
+2026-07-03 01:29:20 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 277]: 0.99s
+2026-07-03 01:29:36 - INFO - [processar_artigo_finalizado] - Latência Normalização [Projecções_cotadas]: 16.04s
+2026-07-03 01:29:49 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Projecções_cotadas]: 12.83s
+2026-07-03 01:29:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 278]: 4.14s
+2026-07-03 01:29:54 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 279]: 0.84s
+2026-07-03 01:30:05 - INFO - [processar_artigo_finalizado] - Latência Normalização [Mecanica_applicada:_Machinas_á_vapor,_thermodynami]: 11.60s
+2026-07-03 01:30:36 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Mecanica_applicada:_Machinas_á_vapor,_thermodynami]: 30.36s
+2026-07-03 01:30:37 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 280]: 1.08s
+2026-07-03 01:30:38 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 281]: 0.84s
+2026-07-03 01:30:39 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 282]: 0.96s
+2026-07-03 01:31:03 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 24.49s
+2026-07-03 01:31:39 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pess. Retentando em 3s...
+2026-07-03 01:32:40 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 96.59s
+2026-07-03 01:32:41 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 283]: 0.92s
+2026-07-03 01:32:46 - INFO - [processar_artigo_finalizado] - Latência Normalização [2º_ANNO_-_1º_CADEIRA_-_Curso_de_Geologia]: 5.86s
+2026-07-03 01:33:02 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [2º_ANNO_-_1º_CADEIRA_-_Curso_de_Geologia]: 15.30s
+2026-07-03 01:33:03 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 284]: 0.85s
+2026-07-03 01:33:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 285]: 0.97s
+2026-07-03 01:33:18 - INFO - [processar_artigo_finalizado] - Latência Normalização [ESTUDO_DAS_ROCHAS]: 14.10s
+2026-07-03 01:34:07 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ESTUDO_DAS_ROCHAS]: 49.59s
+2026-07-03 01:34:08 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 286]: 0.84s
+2026-07-03 01:34:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 287]: 0.91s
+2026-07-03 01:34:10 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 288]: 0.99s
+2026-07-03 01:34:25 - INFO - [processar_artigo_finalizado] - Latência Normalização [Lavra_de_minas_(2ª_parte)]: 14.51s
+2026-07-03 01:34:39 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Lavra_de_minas_(2ª_parte)]: 14.56s
+2026-07-03 01:34:40 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 289]: 0.87s
+2026-07-03 01:34:45 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 4.64s
+2026-07-03 01:34:55 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 10.37s
+2026-07-03 01:34:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 290]: 3.12s
+2026-07-03 01:34:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 291]: 0.90s
+2026-07-03 01:35:06 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 6.90s
+2026-07-03 01:35:30 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 23.86s
+2026-07-03 01:35:31 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 292]: 1.02s
+2026-07-03 01:35:34 - INFO - [processar_artigo_finalizado] - Latência Normalização [XI._Nickel_e_Cobalto]: 2.62s
+2026-07-03 01:35:51 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [XI._Nickel_e_Cobalto]: 17.88s
+2026-07-03 01:35:52 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 293]: 0.85s
+2026-07-03 01:35:53 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 294]: 0.92s
+2026-07-03 01:36:04 - INFO - [processar_artigo_finalizado] - Latência Normalização [Mecanica_applicada_á_resistencia_dos_materiaes_e_á]: 11.22s
+2026-07-03 01:36:11 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Mecanica_applicada_á_resistencia_dos_materiaes_e_á]: 6.29s
+2026-07-03 01:36:12 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 295]: 1.02s
+2026-07-03 01:36:14 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 2.10s
+2026-07-03 01:36:20 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 6.18s
+2026-07-03 01:36:21 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 296]: 0.99s
+2026-07-03 01:36:26 - INFO - [processar_artigo_finalizado] - Latência Normalização [2º_ANNO_4._CADEIRA_SUMMARIO_GERAL]: 4.61s
+2026-07-03 01:36:46 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [2º_ANNO_4._CADEIRA_SUMMARIO_GERAL]: 19.90s
+2026-07-03 01:36:47 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 297]: 0.97s
+2026-07-03 01:36:57 - INFO - [processar_artigo_finalizado] - Latência Normalização [3.ª_Secção._—_Estudo_dos_materiaes_metallicos]: 10.09s
+2026-07-03 01:37:16 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [3.ª_Secção._—_Estudo_dos_materiaes_metallicos]: 19.27s
+2026-07-03 01:37:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 298]: 0.88s
+2026-07-03 01:37:23 - INFO - [processar_artigo_finalizado] - Latência Normalização [ARCHITECTURA]: 5.95s
+2026-07-03 01:37:28 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ARCHITECTURA]: 4.71s
+2026-07-03 01:37:28 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 299]: 0.88s
+2026-07-03 01:37:31 - INFO - [processar_artigo_finalizado] - Latência Normalização [Composição_dos_edifícios]: 2.19s
+2026-07-03 01:37:38 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Composição_dos_edifícios]: 7.56s
+2026-07-03 01:37:39 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 300]: 0.98s
+2026-07-03 01:37:46 - INFO - [processar_artigo_finalizado] - Latência Normalização [Programma_do_Curso_de_Topographia]: 6.97s
+2026-07-03 01:37:59 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Programma_do_Curso_de_Topographia]: 12.38s
+2026-07-03 01:38:00 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 301]: 1.41s
+2026-07-03 01:38:09 - INFO - [processar_artigo_finalizado] - Latência Normalização [MEDIDAS_DOS_ANGULOS]: 8.78s
+2026-07-03 01:38:21 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MEDIDAS_DOS_ANGULOS]: 12.12s
+2026-07-03 01:38:22 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 302]: 0.84s
+2026-07-03 01:38:23 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 303]: 1.09s
+2026-07-03 01:38:34 - INFO - [processar_artigo_finalizado] - Latência Normalização [TOPOGRAPHIA_SUBTERRANEA]: 11.07s
+2026-07-03 01:38:42 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [TOPOGRAPHIA_SUBTERRANEA]: 8.23s
+2026-07-03 01:38:43 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 304]: 1.00s
+2026-07-03 01:38:47 - INFO - [processar_artigo_finalizado] - Latência Normalização [TRABALHOS_PRACTICOS]: 3.63s
+2026-07-03 01:39:23 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [TRABALHOS_PRACTICOS]: 36.10s
+2026-07-03 01:39:24 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 305]: 0.98s
+2026-07-03 01:39:31 - INFO - [processar_artigo_finalizado] - Latência Normalização [3.º_ANNO_-_1.ª_CADEIRA_-_Curso_de_Geologia]: 7.40s
+2026-07-03 01:39:54 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [3.º_ANNO_-_1.ª_CADEIRA_-_Curso_de_Geologia]: 22.67s
+2026-07-03 01:39:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 306]: 0.96s
+2026-07-03 01:40:02 - INFO - [processar_artigo_finalizado] - Latência Normalização [ERA_SECUNDÁRIA]: 6.95s
+2026-07-03 01:40:16 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ERA_SECUNDÁRIA]: 13.91s
+2026-07-03 01:40:17 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 307]: 0.88s
+2026-07-03 01:40:19 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 308]: 2.00s
+2026-07-03 01:40:24 - INFO - [processar_artigo_finalizado] - Latência Normalização [ERA_TERCIARIA]: 5.76s
+2026-07-03 01:40:57 - WARNING - [invocar_com_retry] - [Retry 1/5] Arquivista falhou: Invalid json output: We need to output JSON with fields: area_identificacao (titulo, data), area_contextualizacao (nome_produtor), area_conteudo_estrutura (ambito_e_conteudo), area_pontos_acesso (pess. Retentando em 3s...
+2026-07-03 01:41:25 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ERA_TERCIARIA]: 60.36s
+2026-07-03 01:41:26 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 309]: 1.02s
+2026-07-03 01:41:29 - INFO - [processar_artigo_finalizado] - Latência Normalização [Programma_do_Curso_de_Estradas_ordinarias_e_de_fer]: 2.68s
+2026-07-03 01:41:39 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Programma_do_Curso_de_Estradas_ordinarias_e_de_fer]: 10.02s
+2026-07-03 01:41:39 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 310]: 0.90s
+2026-07-03 01:41:44 - INFO - [processar_artigo_finalizado] - Latência Normalização [SEGUNDA_PARTE_-_ESTRADAS_DE_FERRO]: 4.67s
+2026-07-03 01:41:54 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [SEGUNDA_PARTE_-_ESTRADAS_DE_FERRO]: 9.82s
+2026-07-03 01:41:55 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 311]: 1.00s
+2026-07-03 01:42:00 - INFO - [processar_artigo_finalizado] - Latência Normalização [Superstructura]: 5.38s
+2026-07-03 01:42:20 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Superstructura]: 19.90s
+2026-07-03 01:42:21 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 312]: 1.00s
+2026-07-03 01:42:26 - INFO - [processar_artigo_finalizado] - Latência Normalização [Programma_do_Curso_de_Pontes_e_Viaductos]: 4.87s
+2026-07-03 01:42:39 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Programma_do_Curso_de_Pontes_e_Viaductos]: 13.24s
+2026-07-03 01:42:41 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 313]: 1.85s
+2026-07-03 01:42:47 - INFO - [processar_artigo_finalizado] - Latência Normalização [PONTES_DE_PEDRA]: 5.20s
+2026-07-03 01:42:57 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [PONTES_DE_PEDRA]: 10.76s
+2026-07-03 01:42:58 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 314]: 1.05s
+2026-07-03 01:43:03 - INFO - [processar_artigo_finalizado] - Latência Normalização [Divisao_sem_Titulo]: 5.12s
+2026-07-03 01:43:11 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Divisao_sem_Titulo]: 7.30s
+2026-07-03 01:43:14 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 315]: 2.95s
+2026-07-03 01:43:15 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 316]: 0.97s
+2026-07-03 01:43:26 - INFO - [processar_artigo_finalizado] - Latência Normalização [Complementos_de_mecanica_applicada_aos_rios_e_cana]: 11.54s
+2026-07-03 01:43:42 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [Complementos_de_mecanica_applicada_aos_rios_e_cana]: 15.32s
+2026-07-03 01:43:43 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 317]: 1.03s
+2026-07-03 01:43:49 - INFO - [processar_artigo_finalizado] - Latência Normalização [HYDRAULICA_AGRICOLA]: 6.26s
+2026-07-03 01:44:08 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [HYDRAULICA_AGRICOLA]: 19.24s
+2026-07-03 01:44:09 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 318]: 1.01s
+2026-07-03 01:44:17 - INFO - [processar_artigo_finalizado] - Latência Normalização [INDICE_DAS_MATERIAS_DO_Nº_4]: 7.68s
+2026-07-03 01:44:28 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [INDICE_DAS_MATERIAS_DO_Nº_4]: 10.78s
+2026-07-03 01:44:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 319]: 0.84s
+2026-07-03 01:44:29 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 320]: 0.83s
+2026-07-03 01:44:30 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 321]: 0.91s
+2026-07-03 01:44:33 - INFO - [processar_artigo_finalizado] - Latência Normalização [ROCHEDO_DOS_INDIOS_PERTO_DE_MOCAMBO]: 2.33s
+2026-07-03 01:44:43 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [ROCHEDO_DOS_INDIOS_PERTO_DE_MOCAMBO]: 10.70s
+2026-07-03 01:44:44 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 322]: 1.03s
+2026-07-03 01:44:45 - INFO - [processar_artigo_finalizado] - Latência Normalização [EST._III.]: 1.02s
+2026-07-03 01:44:50 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [EST._III.]: 4.66s
+2026-07-03 01:44:51 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 323]: 1.13s
+2026-07-03 01:44:53 - INFO - [processar_artigo_finalizado] - Latência Normalização [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_YPANEMA]: 1.64s
+2026-07-03 01:45:03 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_YPANEMA]: 10.03s
+2026-07-03 01:45:04 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 324]: 1.08s
+2026-07-03 01:45:06 - INFO - [processar_artigo_finalizado] - Latência Normalização [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_IPANEMA]: 1.91s
+2026-07-03 01:45:46 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_IPANEMA]: 40.45s
+2026-07-03 01:45:47 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 325]: 1.05s
+2026-07-03 01:45:51 - INFO - [processar_artigo_finalizado] - Latência Normalização [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_IPANEMA]: 3.39s
+2026-07-03 01:46:01 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_IPANEMA]: 10.42s
+2026-07-03 01:46:02 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 326]: 0.93s
+2026-07-03 01:46:04 - INFO - [processar_artigo_finalizado] - Latência Normalização [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_IPANEMA]: 1.73s
+2026-07-03 01:46:12 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_IPANEMA]: 7.92s
+2026-07-03 01:46:13 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 327]: 1.02s
+2026-07-03 01:46:14 - INFO - [processar_artigo_finalizado] - Latência Normalização [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_IPANEMA]: 1.01s
+2026-07-03 01:46:26 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_IPANEMA]: 12.01s
+2026-07-03 01:46:27 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 328]: 1.10s
+2026-07-03 01:46:29 - INFO - [processar_artigo_finalizado] - Latência Normalização [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_IPANEMA]: 1.79s
+2026-07-03 01:46:37 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_IPANEMA]: 8.06s
+2026-07-03 01:46:38 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 329]: 1.29s
+2026-07-03 01:46:39 - INFO - [processar_artigo_finalizado] - Latência Normalização [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_IPANEMA]: 1.28s
+2026-07-03 01:46:46 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_IPANEMA]: 6.92s
+2026-07-03 01:46:47 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 330]: 0.87s
+2026-07-03 01:46:53 - INFO - [processar_artigo_finalizado] - Latência Normalização [CARTA_ITINERARIA_SEGUNDO_GERBER_-_VIAGEM_AOS_TERRE]: 5.43s
+2026-07-03 01:46:58 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [CARTA_ITINERARIA_SEGUNDO_GERBER_-_VIAGEM_AOS_TERRE]: 5.85s
+2026-07-03 01:46:59 - INFO - [processar_edicao_pdf] - Latência Estruturador [Pág 331]: 0.96s
+2026-07-03 01:47:02 - INFO - [processar_artigo_finalizado] - Latência Normalização [A_INDUSTRIA_DO_FERRO_NO_BRAZIL]: 3.02s
+2026-07-03 01:47:24 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [A_INDUSTRIA_DO_FERRO_NO_BRAZIL]: 21.43s
+2026-07-03 01:47:30 - INFO - [processar_artigo_finalizado] - Latência Normalização [A_INDUSTRIA_DO_FERRO_NO_BRAZIL]: 6.37s
+2026-07-03 01:47:36 - INFO - [processar_artigo_finalizado] - Latência ISAD(G) [A_INDUSTRIA_DO_FERRO_NO_BRAZIL]: 5.71s

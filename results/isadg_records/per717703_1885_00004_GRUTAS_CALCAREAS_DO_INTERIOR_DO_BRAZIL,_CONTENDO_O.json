@@ -1,0 +1,28 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_GRUTAS_CALCAREAS_DO_INTERIOR_DO_BRAZIL,_CONTENDO_O",
+        "titulo": "Grutas Calcáreas do Interior do Brazil, Contendo Ossos Fósseis",
+        "data": "1837"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Pedro W. Lund"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Memória descrevendo as grutas calcárias do interior do Brasil que contêm ossos fósseis, com detalhes geográficos da região de Lagoa Santa, margem esquerda do Rio das Velhas, planalto e serra do Espinhaço, e descrição da localização e características da gruta estudada."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Pedro W. Lund",
+            "Leonidas Damázio Botelho"
+        ],
+        "lugares": [
+            "Lagoa Santa",
+            "Rio das Velhas",
+            "Serra do Espinhaço",
+            "Interior do Brazil",
+            "Copenhague"
+        ]
+    },
+    "pagina_inicio": 4,
+    "pagina_fim": 4
+}

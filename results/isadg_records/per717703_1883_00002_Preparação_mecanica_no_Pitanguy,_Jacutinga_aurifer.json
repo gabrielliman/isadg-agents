@@ -1,0 +1,31 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_Preparação_mecanica_no_Pitanguy,_Jacutinga_aurifer",
+        "titulo": "Preparação mecânica no Pitanguy, Jacutinga aurifera",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "A. DE BOVET"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O texto descreve os desafios da preparação mecânica de minério aurífero em Pitanguy e Jacutinga, abordando a dureza do minério, a finura do ouro, a densidade da ganga e os custos de extração e tratamento, citando estudos de Morro Velho e Pary, avaliando a viabilidade econômica de jazidas com teor mínimo de 40‑45 fr por tonelada, discutindo possibilidades de exploração hidráulica em Morro de Sant’Anna e Serro, e apresentando estatísticas de produção de ouro em Minas Gerais em 1879, atribuídas a A. DE BOVET."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "A. DE BOVET"
+        ],
+        "lugares": [
+            "Pitanguy",
+            "Jacutinga aurifera",
+            "Morro Velho",
+            "Pary",
+            "Morro de Sant’Anna",
+            "Serro",
+            "Itabira",
+            "Minas Gerais",
+            "Califórnia"
+        ]
+    },
+    "pagina_inicio": 96,
+    "pagina_fim": 99
+}

@@ -1,0 +1,26 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_D._Pedro_North_d'El-Rei_Mining_Company",
+        "titulo": "D. Pedro North d'El-Rei Mining Company",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "D. Pedro North d'El-Rei Mining Company"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento descreve as operações de mineração da companhia D. Pedro North d'El-Rei no Morro de Sant'Anna, explorando jazida de jacutinga friável (mistura de ferro oligisto e quartzo) com presença de ouro em palhetas e pipitas. Detalha o processo de extração, uso da bateia para avaliação de riqueza, dificuldades de drenagem de águas e implantação de uma grande roda de ferro de 18,5 m de diâmetro como motor de bombas, incluindo especificações técnicas das hastes e da roda. Também menciona a necessidade de tratamento em engenho devido à baixa proporção de material aglomerado e os desafios de esgoto e abastecimento de água para os motores."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Não identificado"
+        ],
+        "lugares": [
+            "Morro de Sant'Anna",
+            "Pitanguy",
+            "Morro Velho",
+            "Província de Minas"
+        ]
+    },
+    "pagina_inicio": 87,
+    "pagina_fim": 90
+}

@@ -1,0 +1,34 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_ITABIRITOS",
+        "titulo": "Não identificado",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição detalhada das formações geológicas da região de Gandarela, Minas Gerais, incluindo quartzitos micáceos, itabiritos auríferos, brechas cristalinas, mármores vermelhos, depósitos terciários e quaternários, argilas com minérios de cobre, bem como observações sobre estratigrafia, estrutura tectônica e ocorrências de ouro e outros minerais."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Sr. tenente João Martins",
+            "Sr. Liais",
+            "geólogo Derby"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Palmital",
+            "Gandarela",
+            "Rio Doce",
+            "Bacia do Gandarela",
+            "Arraial da Conceição do Rio Acima",
+            "Morro de S. Vicente",
+            "Rio das Velhas",
+            "Maquiné",
+            "Lagoa"
+        ]
+    },
+    "pagina_inicio": 95,
+    "pagina_fim": 100
+}

@@ -1,0 +1,21 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Curso_de_geometria_analytica_a_duas_dimensões",
+        "titulo": "Introdução das linhas trigonométricas nas expressões imaginárias",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento trata de introdução às linhas trigonométricas nas expressões imaginárias, cálculo dessas expressões, fórmula de Moivre, expressão de sen(mx) e cos(mx) em função de sen x e cos x, resolução trigonométrica de equações de 2.º e 3.º graus, precisão com tabelas de senos artificiais, resolução de problemas de trigonometria e aplicações práticas. Também aborda a expressão trigonométrica da projeção ortogonal de contornos poligonais e áreas planas, curso de geometria analítica a duas dimensões, emprego da álgebra na resolução de problemas geométricos, lei de homogeneidade, construção gráfica de fórmulas, resolução de problemas e construção das fórmulas que os resolvem, objeto da geometria analítica, determinação da posição de um ponto no plano, sistemas de coordenadas, representação de linhas por equações, transformação de coordenadas retangulares e polares, importância da teoria de transformação de coordenadas e expressão da distância entre dois pontos em função das coordenadas."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Abraham de Moivre"
+        ],
+        "lugares": []
+    },
+    "pagina_inicio": 212,
+    "pagina_fim": 212
+}

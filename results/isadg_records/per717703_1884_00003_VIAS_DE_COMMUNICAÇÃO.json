@@ -1,0 +1,33 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_VIAS_DE_COMMUNICAÇÃO",
+        "titulo": "Descrição dos ranchos e vias de comunicação na região da fábrica de ferro",
+        "data": "1879"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O texto descreve os ranchos de madeira branca cobertos de sapé na região da fábrica de ferro, detalha as vias de comunicação existentes e projetadas, incluindo estradas para Areado, Tiros, Patos, Carmo e Sant’Anna da Paranahyba, menciona projetos de estrada de rodagem e ferrovia, e referencia estudos de mineração de galena argentífera do Abaeté realizados em 1879."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Areado",
+            "Tiros",
+            "Patos",
+            "Carmo",
+            "Sant’Anna da Paranahyba",
+            "Pitanguy",
+            "Paracatú",
+            "Paraopeba",
+            "Paranahyba",
+            "Abaeté",
+            "Vale do São Francisco",
+            "Fábrica de ferro",
+            "Forja"
+        ]
+    },
+    "pagina_inicio": 173,
+    "pagina_fim": 173
+}

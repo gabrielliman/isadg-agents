@@ -1,0 +1,39 @@
+================================================================================
+VISUAL TRANSCRIPTION ACCURACY (GROUND TRUTH VS VLM)
+================================================================================
+
+DOCUMENT: per717703_1881_00001_A_Assembléa_Legislativa_da_provincia_de_Minas_Gera
+--------------------------------------------------------------------------------
+Words in ground truth (manual)    : 356
+Words in OCR (VLM)                : 354
+Total errors (edit distance)      : 17
+  -> Substituted words (spelling) : 16
+  -> Hallucinated words (inserted): 0
+  -> Omitted words (deleted)      : 1
+--------------------------------------------------------------------------------
+TRANSCRIPTION ACCURACY (word level): 95.22%
+================================================================================
+
+DOCUMENT: per717703_1881_00001_Divisao_sem_Titulo
+--------------------------------------------------------------------------------
+Words in ground truth (manual)    : 201
+Words in OCR (VLM)                : 201
+Total errors (edit distance)      : 6
+  -> Substituted words (spelling) : 6
+  -> Hallucinated words (inserted): 0
+  -> Omitted words (deleted)      : 0
+--------------------------------------------------------------------------------
+TRANSCRIPTION ACCURACY (word level): 97.01%
+================================================================================
+
+DOCUMENT: per717703_1881_00001_Noticia_sobre_a_Escola_de_Minas_de_Ouro_Preto
+--------------------------------------------------------------------------------
+Words in ground truth (manual)    : 275
+Words in OCR (VLM)                : 275
+Total errors (edit distance)      : 2
+  -> Substituted words (spelling) : 2
+  -> Hallucinated words (inserted): 0
+  -> Omitted words (deleted)      : 0
+--------------------------------------------------------------------------------
+TRANSCRIPTION ACCURACY (word level): 99.27%
+================================================================================

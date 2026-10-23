@@ -1,0 +1,41 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_NOTICIA_relativa_a_um_zeolitho_de_uma_rocha_pyroxe",
+        "titulo": "Notícia relativa a um zeólito de uma rocha piroxênica da bacia do Abaeté (Minas Gerais)",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "H. Gorceix"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição da descoberta de um zeólito em rocha piroxênica da bacia do Abaeté, Minas Gerais, incluindo análise química, propriedades físicas (densidade 2,15, aspecto amigdaloidal, nódulos brancos) e comparações com ocorrências de zeólitos no Chile, Andes e outras regiões brasileiras."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "H. Gorceix",
+            "Sellow",
+            "Weiss",
+            "Hart",
+            "Derby",
+            "Professor Domeyko",
+            "Francisco de Paula Oliveira",
+            "Professor Des Clizeaux",
+            "H. Gonçalves"
+        ],
+        "lugares": [
+            "Província de São Pedro do Rio Grande do Sul",
+            "Ilha de Fernando de Noronha",
+            "São Paulo",
+            "Cidade de Santa Bárbara (São Paulo)",
+            "Bacia do Abaeté (Minas Gerais)",
+            "Ouro Preto",
+            "Ribeirão do Chumbo",
+            "Província de Minas Gerais",
+            "Cordilheira dos Andes",
+            "República Argentina",
+            "Chile"
+        ]
+    },
+    "pagina_inicio": 196,
+    "pagina_fim": 198
+}

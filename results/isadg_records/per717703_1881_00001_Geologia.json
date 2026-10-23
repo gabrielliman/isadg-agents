@@ -1,0 +1,50 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_Geologia",
+        "titulo": "Não identificado",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descreve a hidrologia e geologia da região entre Ouro Preto e o Chumbo, abordando olhos d’água, aquíferos em xistos argilosos e calcários, características de rochas como gneiss, granito, talcitos, xistos argilosos, itabiritos e calcários, bem como suas estruturas, orientações e ocorrências de veios auríferos e minerais."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Dr. Couto"
+        ],
+        "lugares": [
+            "Abaeté",
+            "Dôres do Indaiá",
+            "Arraial dos Arcos",
+            "Formiga",
+            "Ouro Preto",
+            "Chumbo",
+            "Pitanguy",
+            "Sant’Anna do Rio S. João Acima",
+            "S. Antonio",
+            "S. Simão",
+            "Oliveira",
+            "Vila de Entre Rios",
+            "Serra das Vertentes",
+            "Serra do Tigre",
+            "Serra do Capacete",
+            "Serra do Borrachudo",
+            "Serra da Canastra",
+            "Rio São Francisco",
+            "Rio Borrachudo",
+            "Ribeirão do Chumbo",
+            "Ribeirão dos Machados",
+            "Fazenda da Contenda",
+            "Fazenda do Buracão",
+            "Povoação da Babylonia",
+            "Fazenda do capitão Rocha Bahia",
+            "Serra de Itabira",
+            "Serra de Itatiaiossú",
+            "Serra da Moeda"
+        ]
+    },
+    "pagina_inicio": 51,
+    "pagina_fim": 60
+}

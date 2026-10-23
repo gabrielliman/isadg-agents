@@ -1,0 +1,38 @@
+Lições de física industrial  
+Principais combustíveis empregados.  
+Quantidade de ar necessário para queimar um peso determinado de um combustível dado.  
+Temperatura produzida.  
+Aparelhos de aquecimento.  
+Diversas partes de um aparelho de aquecimento: Fogão (foyer), chaminé.  
+Chaminés: movimento de ar quente num tubo reto, tiragem das chaminés, registros, ventiladores.  
+Chaminés de chamada (apelo).  
+Aeração e ventilação de um edifício.  
+Esfriamento.  
+Aparelhos de Carré e de Raoul Pictet.  
+Fabricação industrial do gelo e diversas aplicações.  
+Conservação da carne pelo frio.  
+
+LUZ  
+Composição de uma chama.  
+Photometria.  
+Photômetro de Dumas para determinar o poder da iluminação do gás.  
+Iluminação por meio do gás.  
+Condução (conduite), distribuição do gás.  
+Combustores.  
+Bicos de fendas, de furos.  
+Lanternas para iluminação.  
+Iluminação por meio dos óleos minerais.  
+Gás-globo.  
+
+ELETRICIDADE  
+Iluminação elétrica.  
+Máquinas para produzir a eletricidade.  
+Máquinas magneto-elétricas.  
+Dinamo-elétricas.  
+Máquinas de correntes contínuas e de correntes alternativas.  
+Máquinas de Gramme, Siemens, Edison, Brush.  
+Aplicações.  
+Máquinas da Aliança.  
+Meritens.  
+Iluminação por arco voltaico.  
+Reguladores: Foucault, Serein, Gaiffe, Brush.

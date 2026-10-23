@@ -1,0 +1,29 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Lições_de_chimica_industrial",
+        "titulo": "Velas Jablokoff, Jamin, Wide. Lâmpada Soleil.",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento aborda tópicos de iluminação elétrica (velas Jablokoff, Jamin, Wide, lâmpada Soleil, lâmpadas incandescentes Edison, Maxim e Schwan, divisão da luz, sistemas Edison e Maxim, distribuição de eletricidade, telegrafia incluindo telegraphos a quadrante, impressores, submarinos e de transmissão múltipla, galvanoplastia e instalação de para-raios) e de química industrial (fabricação do ácido sulfúrico por combustão de enxofre e por pirites, fornos de Gerstrenhöfer, câmaras de chumbo, aparelhos de concentração; produção de ácido nítrico e clorídrico; importância do sulfato de sódia; processos Leblanc e Schöring para soda; utilização de águas de condensação para fabricação de amônia; produção de cloretos e sulfatos de amônio; fabricação de cloro de cal, hipoclorito de sódio e potássio; matérias-primas e destilação para gás de iluminação)."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Jablokoff",
+            "Jamin",
+            "Wide",
+            "Edison",
+            "Maxim",
+            "Schwan",
+            "Gerstrenhöfer",
+            "Leblanc",
+            "Schöring"
+        ],
+        "lugares": []
+    },
+    "pagina_inicio": 259,
+    "pagina_fim": 259
+}

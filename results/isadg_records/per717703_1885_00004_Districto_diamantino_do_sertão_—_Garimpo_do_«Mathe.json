@@ -1,0 +1,42 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Districto_diamantino_do_sertão_—_Garimpo_do_«Mathe",
+        "titulo": "Distrito diamantino do sertão — Garimpo do «Matheus José» ou «Nova Lorena do Abaeté»",
+        "data": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descreve o distrito diamantino do sertão, seus garimpos (Matheus José/Nova Lorena do Abaeté, Príncipe, Três Barras, Macambira, Acaba-Sacco, Cachoeira Comprida, Cachoeira do Salto), sua geografia ao longo do rio Abaeté, história da mineração desde o final do século XVIII, eventos como a descoberta de rubi por Gomes Baptista em 1799, o estabelecimento de Matheus José por Matheus José em 1825, a revitalização durante a Guerra do Paraguai em 1865, condições socioeconômicas, preços de gêneros e instrumentos, e a atual decadência da atividade garimpeira."
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Dr. Couto",
+            "Gomes Baptista",
+            "Matheus José",
+            "Luiz Vieira Costa",
+            "Sr. A. da Silva Proença",
+            "Dr. Antonio Zacarias"
+        ],
+        "lugares": [
+            "Distrito diamantino do sertão",
+            "Garimpo do Matheus José",
+            "Nova Lorena do Abaeté",
+            "Rio Abaeté",
+            "Garimpo do Príncipe",
+            "Três Barras",
+            "Macambira",
+            "Acaba-Sacco",
+            "Cachoeira Comprida",
+            "Cachoeira do Salto",
+            "Cachoeira-Grande",
+            "Rio São Francisco",
+            "Corrego do Príncipe",
+            "Corrego do Burity",
+            "Ingazeira"
+        ]
+    },
+    "pagina_inicio": 104,
+    "pagina_fim": 110
+}

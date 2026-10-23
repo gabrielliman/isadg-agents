@@ -1,0 +1,102 @@
+(L² + R² + 2 LI) para ter-se a superficie total interior á esta curva.
+
+O modo de decomposição adoptado acima permitte facilmente medir-se a superficie d'um sector limitado por um arco de curva qualquer AMB (fig. 12) e por dous raios vectores iguaes OA, OB fazendo o angulo o. Collocar-se-hia a ponta fixa em O, e far-se-hia percorrer a ponta movel o arco AMB.
+
+II
+
+Em uma nota publicada nos Annales des Mines (8.ª serie tomo I, 1882), dei a theoria do planimetro d'Amsler, decompondo a superficie plana á medir por meio de uma dupla rede de linhas que chamei circulos de ro-lamento e curvas de escorregamento.
+
+O mesmo principio de demonstração poderia ser conservado com outros modos de decomposição da superficie a medir. Por exemplo, poder-se-hia recorrer á circulos concentricos e a raios passando pelo polo. Este modo de decomposição, evidentemente um dos mais simples, tem a vantagem de dar lugar á um calculo elementarissimo. Estabelecamos, com este ultimo modo de decompo-sição a theoria do planimetro para um dos elementos da superficie á medir.
+
+Sejão fig.:
+
+O o polo do planimetro.
+
+OA, BAC. Os dous ramos do instrumento articulados em A.
+
+B a ponta secca ou estylete destinado a seguir o contorno da superficie á medir.
+
+C a roleta.
+
+Designemos por:
+
+R o comprimento = OA.
+
+L idem = AB.
+
+l idem = AC.
+
+p o raio vector OB.
+
+α o angulo OAC.
+R, L, l são constantes que dependem do instrumento; p e α são dous elementos variaveis que dependem um do outro.
+
+Do centro O e com o raio p = OB descrevamos um arco de circulo BB'.
+
+Seja θ o angulo ao centro correspondente B o B'. Chamando S a superficie B o B' pelo arco BB' limitada, tem-se
+
+S = (1/2) p^(-2) 0
+
+Ora, no triangulo OAB tem-se
+
+p^(-2) = R^(-2) + L^(-2) 2 RL cos α
+
+Logo,
+
+(1) S = (1/2) (R^(-2) + L^(-2) + 2 RL cos α) 0
+
+O planimetro estando na posição «OABC» façamos a ponta B percorrer o arco do circulo BB' (a ponta «O» ficando fixa).
+
+Neste movimento do planimetro, o angulo α fica constante, pois que p não varia. Seja ε o angulo que o plano da roleta faz com a perpendicular á «CO». Emquanto a ponta B percorre o arco BB', o ponto de contacto da roleta descreve sobre o papel o arco
+
+OC × 0
+
+e a roleta constantemente inclinada do angulo ε sobre a perpendicular á CO, gira do arco
+
+OC × 0 Cos ε
+
+Chamando X este arco de rolamento da roleta, temos, pois,
+
+X = OC × 0 × Cos ε
+
+Abaixemos a perpendicular OH á BAC, OC × Cos ε = OC × cos OCH = CH = AH = AC = R cos α − l.
+
+D'onde
+
+(2) X = (R cos α − l) 0
+
+Eliminemos agora α entre (1) e (2) teremos
+
+(3) S = Lx + (R^(-2) + L^(-2) × 2 L) 0
+Seja DD' um arco de circulo concentríco á BB' e limitado pelos mesmos raios OB, OB'. Este segundo arco DD' tem o mesmo angulo ao centro 0.
+
+Sejão S1 a superficie ODD'1 e X1 o arco de rola-mento da roleta do planimetro quando a ponta secca per-corre o arco DD'.
+
+Teremos como para (3)
+
+(4) S1 = L x1 + (R-2 + L-2 + 2 L l) 0 2
+
+Subtrahiamos (4) de (3).
+
+(5) S - S1 = L (x - x1)
+
+Seja « ω » a superficie BB'D'D tem-se
+
+(6) ω = S - S'
+
+Fagamos a ponta movel do planimetro percorrer todo o contorno do quadrilatero mixtilineo BB'D'D e procu-remos o rolamento da roleta correspondente a este per-curso total. Os rolamentos parciaes relativos aos lados BD' e DB' se destroem evidentemente. Os rolamentos parciaes relativos aos lados BB' e D'D são x e x1. São de signaes contrarios.
+
+O rolamento definitivo da roleta é, pois, x - x1. Chamando Z este rolamento total da roleta relativo ao percurso completo do perimetro BB'D'DB, tem-se
+
+(7) Z = x - x1
+
+Comparando (5), (6) e (7) acha-se
+
+(8) ω = LZ
+
+A theoria do planimetro se acha assim estabelecida por esta formula (8) para o caso particular de uma su-perficie limitada por dous raios passando pelo polo e dous circulos concentricos no polo.
+
+Para uma superficie limitada por uma curva qual-quer, se esta superficie estiver decomposta em elementos infinitamente pequenos por meio de raios passo pelo polo
+e por circulos concentricos no polo, a equação (8) poderá ser aplicada a cada um destes elementos da superficie. A teoria do planimetro estando uma vez estabelecida para um dos elementos da superficie, sabe-se que ella se estendo immediatamente á superficie inteira, assim como foi anteriormente demostrado na nota a que me referi no começo desta.
+
+A. Thiré.

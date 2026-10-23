@@ -1,0 +1,26 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Alturas_em_metros_de_alguns_pontos_da_zona_percorr",
+        "titulo": "Alturas em metros de alguns pontos da zona percorrida, tomadas com o barômetro orométrico.",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Registro de medições de altitude em metros de diversos pontos percorridos na região, obtidas com barômetro orométrico, acompanhado de descrição do terreno, destacando a presença de seixos rolados, proximidade do rio diamantino Abaeté e a elevação relativa a Ouro Preto (350 metros abaixo) e ao nível do mar (810 metros)."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Ouro Preto",
+            "Rio Abaeté",
+            "Zona percorrida",
+            "Campos",
+            "Barrancos",
+            "Matas"
+        ]
+    },
+    "pagina_inicio": 146,
+    "pagina_fim": 146
+}

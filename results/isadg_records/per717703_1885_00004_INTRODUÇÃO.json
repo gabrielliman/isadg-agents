@@ -1,0 +1,32 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_INTRODUÇÃO",
+        "titulo": "Estudo dos depósitos diamantinos do noroeste da província",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Relato de viagem e estudo dos depósitos diamantinos do noroeste da província, incluindo instruções de roteiro, observações geológicas sobre granitos de São Luzia, xistos phyladianos e ardosias de Sabará e Lagoa-Santa, grutas salitrosas, e visitas aos garimpos do Abaeté e Santo Antônio, com auxílio do aluno L. Dolabella."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Dr. Gorceix",
+            "L. Dolabella"
+        ],
+        "lugares": [
+            "Diamantina",
+            "Grão-Mogol",
+            "Curvello",
+            "Rio São Francisco",
+            "São Luzia",
+            "Sabará",
+            "Lagoa-Santa",
+            "Abaeté",
+            "Santo Antônio"
+        ]
+    },
+    "pagina_inicio": 85,
+    "pagina_fim": 85
+}

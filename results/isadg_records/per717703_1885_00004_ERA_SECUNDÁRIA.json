@@ -1,0 +1,35 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_ERA_SECUNDÁRIA",
+        "titulo": "Estudo dos terrenos paleozoicos do Brasil",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Hartt e Derby"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Objeto aborda a descrição da flora e fauna paleozoica, estratigrafia, divisões do período em várias regiões, estudos dos terrenos paleozoicos do Brasil, incluindo trabalhos de Hartt e Derby, além de detalhes sobre os períodos Triássico, Jurássico e Cretáceo, com foco em fósseis e vegetação."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Hartt",
+            "Derby"
+        ],
+        "lugares": [
+            "Inglaterra",
+            "Bélgica",
+            "França",
+            "Estados Unidos",
+            "Boêmia",
+            "Saxônia",
+            "Rússia",
+            "Pará",
+            "Amazonas",
+            "São Paulo",
+            "Paraná",
+            "Rio Grande do Sul"
+        ]
+    },
+    "pagina_inicio": 305,
+    "pagina_fim": 305
+}

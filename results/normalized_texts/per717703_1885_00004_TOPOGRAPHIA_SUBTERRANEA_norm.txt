@@ -1,0 +1,17 @@
+Pantómetro. Plancheta; seu emprego no levantamento das plantas. Verificações da plancheta. Colocação da plancheta na estação. Declinatória. Sextante; sua descrição, teoria, uso, verificação e retificações. Sextante de alguéira.  
+
+APLICAÇÕES  
+Determinar e traçar uma meridiana. Determinar a hora local e a latitude. Determinar a longitude.  
+
+NIVELAMENTO  
+Objeto e teoria do nivelamento. Preliminares. Cota, altitude; diferença de nível. Erro de nível aparente; erro de esfericidade e da refração atmosférica. Operações elementares de nivelamento. Nivelamento simples; nivelamento recíproco; nivelamento composto. Instrumentos de nivelamento direto. Mira de alvo; mira falante. Nível d’água. Níveis de luneta; nível de Egault, de Lenoir, de Gurley, etc. Limite do alcance dos níveis de luneta. Condições para se obter uma linha de visada que possa ser dirigida em todos os sentidos horizontalmente. Modo de operar para corrigir os erros provenientes da regragem imperfeita do eixo geométrico e do eixo óptico da luneta. Levantamento das curvas de nível. Clisímetro. Nivelamento rápido. Nivelamento trigonométrico. Clisímetros. Taqueómetro; seu emprego.  
+
+SEGUNDA PARTE  
+TOPOGRAFIA SUBTERRÂNEA  
+
+Em que difere a topografia subterrânea da topografia superficial. Método de levantamento mais empregado. Levantamento das vias principais. Instrumentos empregados. Mira luminosa. Descrição do levantamento. Nota sobre a inclinação dos lados. Determinação do comprimento dos lados. Elementos conhecidos depois dessas operações. Referência da galeria ao polígono levantado. Nivelamento. Mira de alvo. Levantamento das vias secundárias. Descrição da bússola suspensa. Vantagens de seu emprego. Operações com a bússola suspensa. Medida das inclinações dos lados com o semi-círculo suspenso. Medida dos comprimentos inclinados dos lados. Medida dos ângulos dos planos verticais dos lados com o meridiano magnético. Precauções a tomar em relação ao N. do limbo. Emprego do método dos ângulos em retorno. Meio de tornar a medida independente do erro de desvio local da agulha. Desenho de um levantamento com a bússola suspensa: processo gráfico, seu inconveniente. Declinatória. Método dos três planos coordenados.  
+
+TERCEIRA PARTE  
+TRAÇADO DE UMA ESTRADA DE RODAGEM  
+
+Traçado. — Considerações gerais. Reconhecimento sobre as cartas e sobre o terreno. Exploração. — Traçado; levantamento e nivelamento longitudinal da linha de ensaio. Variantes. Nivelamento transversal. Instrumentos empregados. Confeição da planta da linha de ensaio e da zona explorada. Plantas parcelares. Determinação do traçado definitivo. Locação. — Estacamento dos alinhamentos retos; problemas. Locação das curvas circulares; métodos diversos; problemas. Cálculos dos movimentos de terra. Perfil transversal de uma estrada. Cálculo das áreas das secções transversais. Cálculo dos volumes; método exato; métodos aproximados. Aplicação geral dos métodos de cubação.

@@ -1,0 +1,38 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_MATERIAS_PRIMAS",
+        "titulo": "Descrição do processo de fabricação de barras de ferro na forja italiana",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Domingos José da Rocha"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Relatório técnico que detalha o processo de produção de barras de ferro em forja italiana, abrangendo a caracterização das matérias-primas (minério de ferro e carvão), os instrumentos utilizados, a sequência operacional com tempos marcados e as funções dos trabalhadores envolvidos."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Domingos José da Rocha",
+            "foguista",
+            "malhador",
+            "servente",
+            "escravo responsável pela extração e transporte do minério",
+            "grupo de sete escravos carvoeiros",
+            "cinco escravos responsáveis pelas covas de carbonização",
+            "dois escravos responsáveis pela seleção de lenhos e extração de carvão",
+            "menino condutor dos burros"
+        ],
+        "lugares": [
+            "Escola de Minas de Ouro Preto",
+            "pedreira",
+            "matto vizinho",
+            "forja",
+            "forno italiano",
+            "malho",
+            "cavas de carbonização",
+            "Ouro Preto"
+        ]
+    },
+    "pagina_inicio": 166,
+    "pagina_fim": 170
+}

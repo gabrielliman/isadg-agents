@@ -1,0 +1,28 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_ESTATISTICA_DA_Produção_do_ouro_na_Província_de_Mi",
+        "titulo": "ESTATÍSTICA DA PRODUÇÃO DO OURO NA PROVÍNCIA DE MINAS GERAIS NO ANNO DE 1879",
+        "data": "1879"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Estatística da produção de ouro na província de Minas Gerais no ano de 1879, contendo dados de extração, rendimento, número de trabalhadores e produção mensal das principais companhias de mineração (Companhia de S. João d'El-Rei – minas de Morro Velho e Cuyabá, Companhia de Santa Bárbara – mina de Pary, Companhia Dom Pedro North d'El-Rey – mina do Morro Santa-Anna, Companhia de mineração brasileira na serra de Itabira) e uma estimativa do ouro produzido por faiscadores e pequenas minas, baseado nos registros da Casa da Moeda do Rio de Janeiro."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Minas Gerais",
+            "Morro Velho",
+            "Cuyabá",
+            "Pary",
+            "Morro Santa-Anna",
+            "Itabira",
+            "Rio de Janeiro",
+            "São João d'El-Rei"
+        ]
+    },
+    "pagina_inicio": 158,
+    "pagina_fim": 161
+}

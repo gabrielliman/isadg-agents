@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_I_-_Minerios_de_ferro",
+        "titulo": "I - Minérios de ferro 1.° - Análise de um itabirito",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento contendo a análise química e mineralógica de um itabirito frágil proveniente da bacia do Gandarela, Minas Gerais. Descreve a composição do minério (predominância de óxido magnético, teor de ferro metálico de 68,407%), a presença de manganês e quartzo como gângua, e discute suas características físicas que o tornam adequado para uso em fornos do tipo cadinho, bem como seu comportamento em processos de redução e lavagem."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Bacia do Gandarela",
+            "Província de Minas",
+            "Morro Velho"
+        ]
+    },
+    "pagina_inicio": 130,
+    "pagina_fim": 133
+}

@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_PREFACIO",
+        "titulo": "Prefácio do segundo número dos Annaes da Escola de Minas de Ouro Preto",
+        "data": "6 de Janeiro de 1883"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Henrique Gorceix"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Prefácio do segundo número dos Annaes da Escola de Minas de Ouro Preto, onde o autor discute a impossibilidade de garantir periodicidade devido à falta de subvenção, menciona o aumento de engenheiros formados, a necessidade de trabalhos sem gravuras, e expressa esperança de acolhimento benevolente."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Henrique Gorceix"
+        ],
+        "lugares": [
+            "Ouro Preto"
+        ]
+    },
+    "pagina_inicio": 3,
+    "pagina_fim": 4
+}

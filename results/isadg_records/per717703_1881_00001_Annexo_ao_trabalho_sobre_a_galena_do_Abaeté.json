@@ -1,0 +1,24 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_Annexo_ao_trabalho_sobre_a_galena_do_Abaeté",
+        "titulo": "Anexo ao trabalho sobre a galena do Abaeté",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento contendo anexo a trabalho sobre a galena de Abaeté, descrevendo análises de amostras de minério de chumbo coletadas em diversas galerias (pontos B, D, J, O) das minas de Abaeté, com medições de teor de prata (aproximadamente 150 g/100 kg chumbo) e observações sobre variação de riqueza, diferenças de ganga entre margens direita e esquerda do corrego, referência ao antigo forno de tratamento na povoação do Chumbo e citações ao geólogo Eschwege sobre a riqueza do veio."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Eschwege"
+        ],
+        "lugares": [
+            "Abaeté",
+            "Chumbo"
+        ]
+    },
+    "pagina_inicio": 98,
+    "pagina_fim": 99
+}

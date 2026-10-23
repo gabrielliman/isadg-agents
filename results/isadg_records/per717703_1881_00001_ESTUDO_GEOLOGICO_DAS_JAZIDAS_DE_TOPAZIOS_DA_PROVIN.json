@@ -1,0 +1,38 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_ESTUDO_GEOLOGICO_DAS_JAZIDAS_DE_TOPAZIOS_DA_PROVIN",
+        "titulo": "Estudo geológico das jazidas de topázios da província de Minas Gerais",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento descreve a localização geológica das jazidas de topázio e euclásio na província de Minas Gerais, detalhando a bacia a oeste de Ouro Preto, suas características orográficas, a estratigrafia das rochas (xistos, quartzitos, calcário, itabiritos), a presença de minerais como pirofilita, hematita e ferro oligisto, além de análises químicas de amostras de rochas verdes, xistosas e fibrosas. Também menciona observações de denudação terciária, formação de depósitos cascalheiros diamantíferos e a relação com conglomerados ferruginosos (canga)."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Claussen"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Serra da Cachoeira",
+            "Maciço do Itacolumy",
+            "Arraial da Cachoeira",
+            "Arraial de Ouro Branco",
+            "Arraial da Boa Vista",
+            "Rio Doce",
+            "Rio das Velhas",
+            "Rio São Francisco",
+            "Serra do Espinhaço",
+            "Serra do Caraça",
+            "Capão",
+            "Boa Vista",
+            "Seramenha",
+            "Caxambu",
+            "Mariana"
+        ]
+    },
+    "pagina_inicio": 20,
+    "pagina_fim": 24
+}

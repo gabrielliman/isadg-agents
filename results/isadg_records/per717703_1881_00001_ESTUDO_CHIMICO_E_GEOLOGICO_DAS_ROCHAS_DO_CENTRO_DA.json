@@ -1,0 +1,60 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_ESTUDO_CHIMICO_E_GEOLOGICO_DAS_ROCHAS_DO_CENTRO_DA",
+        "titulo": "ESTUDO QUÍMICO E GEOLOGICO DAS ROCHAS DO CENTRO DA PROVÍNCIA DE MINAS GERAIS – PRIMEIRA PARTE – Arredores de Ouro Preto",
+        "data": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento descreve a composição geológica e mineralógica das rochas do centro da província de Minas Gerais, detalhando os quartzitos inferiores e superiores, os xistosos, os itabiritos e suas variações, bem como a ocorrência de minérios de ferro, ouro e outros minerais. Aborda a estratigrafia, a estrutura das camadas, a presença de veios auríferos, a relação entre diferentes tipos de rochas e os processos de metamorfismo e alteração que lhes conferem características específicas, incluindo a formação de itabiritos ricos em ferro oligisto e a ocorrência de jazidas de ouro em rochas xistosas e argilosas."
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Breithaupt",
+            "Cordier"
+        ],
+        "lugares": [
+            "Serra do Espinhaço",
+            "Serra de Ouro Branco",
+            "Serra do Itacolumy",
+            "Serra da Cachoeira",
+            "Serra do Caraça",
+            "Serra de Itambé",
+            "Rio Doce",
+            "Rio Jequitinhonha",
+            "Rio Grande",
+            "Rio São Francisco",
+            "Rio Carmo",
+            "Rio Das Velhas",
+            "Ouro Preto",
+            "Mariana",
+            "Itambé",
+            "Ouro Branco",
+            "Itacolumy",
+            "Cachoeira",
+            "Caraça",
+            "Conceição",
+            "Diamantina",
+            "São João d'El-Rei",
+            "Santa Bárbara",
+            "Sabará",
+            "Antonio Pereira",
+            "Gandarela",
+            "Socorro",
+            "Barrozo",
+            "Carandahy",
+            "Saraimenha",
+            "Boa Vista",
+            "Taquaril",
+            "Morro Velho",
+            "Pary",
+            "Pitanguy",
+            "Arraial d'Água Quente",
+            "Santa Luzia"
+        ]
+    },
+    "pagina_inicio": 8,
+    "pagina_fim": 19
+}

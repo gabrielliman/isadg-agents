@@ -1,0 +1,43 @@
+232
+
+Demonstrações das principaes proposições da theoria das combinações.
+
+Deducção da fórmula do binomio. Propriedades principaes dessa fórmula.
+
+Desenvolvimento de um polynomio.
+
+Extracção das raizes dos numeros e polynomios.
+
+Methodo dos coefficientes indeterminados. Aplicação á deducção da fórmula do binomio.
+
+Desenvolvimento de uma funcção algebra racional e inteira f (x + h) segundo as potencias crescentes do accrescimo h.
+
+Continuidade das funcções inteiras de uma variavel.
+
+Propriedades geraes das equações racionaes e inteiras em relação a uma incognita, e em particular das equações de grao par ou impar de coefficientes reaes.
+
+Theorema de Descartes.
+
+Resolução das equações a uma incognita do 3.° grao e do 4.°
+
+Resolução de um sistema de duas equações do 2.° grao a duas incognitas.
+
+Series. Regras principaes de convergencia das series.
+
+Estudo especial da serie (e). Limite (1 + 1/m) quando (m) cresce indefinidamente.
+
+2.° Parte
+
+THEORIA DAS DERIVADAS
+
+Classificação das funcções.
+
+Definição da derivada de um funcção continua de uma variavel. Existencia dessa derivada.
+
+Derivadas das funcções simples.
+
+Derivada de uma funcção de funcção e de uma funcção inversa.
+
+Derivada de uma somma, de um producto, de um quociente de funcções de (x), de uma potencia.
+
+Theorema geral relativo á derivada de uma funcção de funcções de uma variavel.

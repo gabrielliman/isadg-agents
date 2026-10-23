@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_PLANTA_DA_BACIA_DO_CANDARELA",
+        "titulo": "Planta da Bacia do Candarela",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Planta cartográfica da bacia do Candarela, que inclui a lavra de topázios da Boa Vista, corte em A B e referência à análise de amostra de canga da bacia do Gandarela."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Candarela",
+            "Boa Vista",
+            "Gandarela"
+        ]
+    },
+    "pagina_inicio": 235,
+    "pagina_fim": 235
+}

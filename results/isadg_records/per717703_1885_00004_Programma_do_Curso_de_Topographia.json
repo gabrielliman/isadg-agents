@@ -1,0 +1,21 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Programma_do_Curso_de_Topographia",
+        "titulo": "Programa do Curso de Topografia",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Programa do curso de topografia, primeira parte: topografia superficial, incluindo definições, levantamento de plantas, escalas, planimetria, nivelamento, instrumentos de medição (metro, duplo metro, quintuplo metro, réguas do Comandante Clerc, corrente do agrimensor, fita de aço, teoria da stadia, euthymetro, stadímetro, níveis de carpinteiro, nível de bolha de ar, nível esférico)."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Comandante Clerc"
+        ],
+        "lugares": []
+    },
+    "pagina_inicio": 299,
+    "pagina_fim": 299
+}

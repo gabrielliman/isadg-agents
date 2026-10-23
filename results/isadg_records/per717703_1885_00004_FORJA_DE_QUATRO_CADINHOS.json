@@ -1,0 +1,22 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_FORJA_DE_QUATRO_CADINHOS",
+        "titulo": "Forja de Quatro Cadinhos",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição técnica de uma forja com quatro cadinhos, incluindo o arranjo dos fornos, o sistema de abastecimento de água por duplo canal de tábuas, as trompas que fornecem vento aos cadinhos e à forja de reaquecimento, o malho movido por roda hidráulica, e detalhes construtivos dos cadinhos, trompa e malho."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "montanha",
+            "torrente"
+        ]
+    },
+    "pagina_inicio": 155,
+    "pagina_fim": 156
+}

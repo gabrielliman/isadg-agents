@@ -1,0 +1,71 @@
+Equilibrio dos polygonos funiculares. Aplicação ás pontes suspensas.
+
+2.ª parte — Cinemulica
+
+Movimento de um ponto sobre sua trajectoria.
+
+Movimento uniforme. — Movimento variado. — Mo-
+
+vimento uniformemente variado.
+
+Curvas representativas do movimento.
+
+Movimento projectado.
+
+Resultante e componentes geometricas.
+
+Movimento relativo. — Composição das velocidades.
+
+— Acceleracao no movimento de um ponto. — Accele-
+
+ração total. — Componentes desta acceleracao.
+
+Movimento dos systemas invariaveis.
+
+Movimentos simples. — Translação. — Rotação.
+
+Movimento de um solido. — Centro instantaneo de
+
+rotação. — Applicação para o traçado das tangentes.
+
+Movimento de um solido em torno de um ponto fixo.
+
+Movimento o mais geral de um solido.
+
+Movimento continuo no espaço.
+
+Composição dos movimentos elementares de um solido.
+
+Movimento relativo de dois solidos.
+
+Acceleracao no movimento relativo.
+
+Acceleracao complementar.
+
+Theoria geometrica de alguns mecanismos.
+
+Engrenagens. — Methodos geraes. — Engrenagens a
+
+fianco, a evolvente, a epicycloides.
+
+Cremalheira, parafuso. — Engrenagens conicas.
+
+Biella e manivella. — Parallelogrammo de Watt.
+
+3.ª parte. — Dynamica
+
+Principios fundamentaes. — Inercia da materia.
+
+Igualdade da acção e reacção.
+
+Independencia dos effeitos das forças entre si e re-
+
+lativamente ao movimento anterior do ponto sobre que
+
+actuão.
+
+Dynamica do ponto material.
+
+Relação fundamental da força, da massa e da acce-
+
+leração.

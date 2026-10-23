@@ -1,0 +1,22 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_II",
+        "titulo": "Teoria do planímetro de Amsler",
+        "data": "1882"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "A. Thiré"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Texto que apresenta a teoria do planímetro de Amsler, descrevendo a decomposição de superfícies por meio de raios e círculos concêntricos, a fórmula ω = L Z e a aplicação a superfícies limitadas por curvas arbitrárias."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "A. Thiré",
+            "Amsler"
+        ],
+        "lugares": []
+    },
+    "pagina_inicio": 123,
+    "pagina_fim": 126
+}

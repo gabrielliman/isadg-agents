@@ -1,0 +1,19 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_NOVO_FORNO_ALTO",
+        "titulo": "NOVO FORNO ALTO",
+        "data": "1878"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento descreve a construção, em 1878, de um novo forno alto de maiores dimensões, incluindo detalhes técnicos (dimensões, capacidade de produção, consumo de carvão, máquina sopfadora, sistema de carregamento por ascensor, recuperação de calor), bem como o custo das obras do forno, ponte, ascensor e máquina de vento."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": []
+    },
+    "pagina_inicio": 71,
+    "pagina_fim": 73
+}

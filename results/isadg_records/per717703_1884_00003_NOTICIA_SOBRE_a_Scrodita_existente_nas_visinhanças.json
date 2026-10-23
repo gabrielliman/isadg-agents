@@ -1,0 +1,24 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_NOTICIA_SOBRE_a_Scrodita_existente_nas_visinhanças",
+        "titulo": "Notícia sobre a Scrodita existente nas vizinhanças do Arraial de Antônio Pereira e sobre a Hydrargillita dos arredores de Ouro Preto",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "J. C. da Costa Sena"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Notícia sobre a ocorrência de Scrodita nas vizinhanças do Arraial de Antônio Pereira e de Hydrargillita nos arredores de Ouro Preto."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "J. C. da Costa Sena"
+        ],
+        "lugares": [
+            "Arraial de Antônio Pereira",
+            "Ouro Preto"
+        ]
+    },
+    "pagina_inicio": 199,
+    "pagina_fim": 199
+}

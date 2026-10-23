@@ -1,0 +1,13 @@
+**NOTA**
+
+**SOBRE O PLANIMETRO D'AMSLER**
+
+**Por A. THIRÉ**
+
+1
+
+É conhecido o engenhoso instrumento designado sob o nome de **Planimetro de Amsler**, e que é destinado para medir a superfície limitada por uma curva traçada sobre um desenho (*). É composto essencialmente de duas pernas **OA**, **BAC** articuladas em **A** (fig. 1) e d'uma roleta **C** cujo eixo é a perna **BAC**. Os extremos **O**, **B** das duas pernas são munidos de pontas. Quando o instrumento está colocado sobre um desenho plano, seus tres pontos de apoio são as pontas **O**, **B** e a roleta **C**. As pernas **OA**, **BAC** são então paralelas ao plano do desenho; as pontas **O** e **B**, e bem assim o plano da roleta são perpendiculares ao mesmo.
+
+A ponta **O** é aguda: póde-se fixa-la sobre o desenho, calcando-se ligeiramente até penetrar na planchetta em que se acha collocado o desenho: é o **polo** do instrumento. A ponta **B** é uma simples ponta secca ou estilo destinado a percorrer o perimetro d'uma figura traçada sobre o desenho. Se, a ponta **O** ficando fixa, a ponta **B** descreve uma curva fechada, o numero de revoluções e de fracções de revolução da roleta durante esta operação dará (sendo introduzidas certas constantes) a área limitada por esta curva fechada. A theoria do instrumento consiste em estabelecer este resultado.
+
+(*) Nos Annales des Mines (6.ª serie, tomo XIX, 1871) publicou-se uma descripção muito completa e uma theoria deste planimetro, devidas ao sabio professor Mr. Combes. Póde-se consultar esta nota de Mr. Combes, para ter-se uma descripção detalhada deste instrumento.

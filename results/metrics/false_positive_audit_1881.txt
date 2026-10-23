@@ -1,0 +1,78 @@
+# Manual audit of segmentation false positives — 1881 edition
+#
+# Output of evaluation/evaluate_segmentation.py for the 1881 edition, with each
+# false positive manually labeled by error category (Table II of the paper):
+#   SUBSECTION                     -> internal hierarchical break within the same chapter
+#   CHEMICAL ANALYSIS (TABLE-LIKE) -> laboratory data laid out as tables
+#   TABLE                          -> start or middle of a long numeric table
+#   IMAGE                          -> illustrative plates and graphical annexes
+#   ARBITRARY                      -> split with no apparent justification
+#
+# Counts: SUBSECTION 17 | CHEMICAL ANALYSIS 10 | TABLE 5 | IMAGE 4 | ARBITRARY 2 | Total 38
+
+================================================================================
+EDITION EVALUATION: 1881
+================================================================================
+
+--- INTERVAL MAP (1881) ---
+GROUND TRUTH                             | PREDICTED (AGENTIC PIPELINE)
+--------------------------------------------------------------------------------
+Pages 1 to 1                             | Pages 1 to 1 [OK]
+Pages 2 to 2                             | Pages 2 to 2 [OK]
+Pages 3 to 7                             | Pages 3 to 7 [OK]
+Pages 8 to 19                            | Pages 8 to 19 [OK]
+Pages 20 to 32                           | Pages 20 to 24 [OK]
+Pages 33 to 41                           | Pages 25 to 32 [FALSE POSITIVE]  SUBSECTION
+Pages 42 to 97                           | Pages 33 to 41 [OK]
+Pages 98 to 101                          | Pages 42 to 43 [OK]
+Pages 102 to 135                         | Pages 44 to 50 [FALSE POSITIVE]  SUBSECTION
+Pages 136 to 157                         | Pages 51 to 60 [FALSE POSITIVE]  SUBSECTION
+Pages 158 to 161                         | Pages 61 to 73 [FALSE POSITIVE]  SUBSECTION
+Pages 162 to 170                         | Pages 74 to 77 [FALSE POSITIVE]  SUBSECTION
+Pages 171 to 174                         | Pages 78 to 84 [FALSE POSITIVE]  SUBSECTION
+Pages 175 to 176                         | Pages 85 to 86 [FALSE POSITIVE]  SUBSECTION
+Pages 177 to 182                         | Pages 87 to 89 [FALSE POSITIVE]  SUBSECTION
+                                         | Pages 90 to 91 [FALSE POSITIVE]  SUBSECTION
+                                         | Pages 92 to 93 [FALSE POSITIVE]  TABLE
+                                         | Pages 94 to 94 [FALSE POSITIVE]  TABLE
+                                         | Pages 95 to 97 [FALSE POSITIVE]  SUBSECTION
+                                         | Pages 98 to 99 [OK]
+                                         | Pages 100 to 100 [FALSE POSITIVE]  CHEMICAL ANALYSIS (TABLE-LIKE)
+                                         | Pages 101 to 101 [FALSE POSITIVE]  CHEMICAL ANALYSIS (TABLE-LIKE)
+                                         | Pages 102 to 103 [OK]
+                                         | Pages 104 to 115 [FALSE POSITIVE]  SUBSECTION
+                                         | Pages 116 to 124 [FALSE POSITIVE]  ARBITRARY
+                                         | Pages 125 to 130 [FALSE POSITIVE]  SUBSECTION
+                                         | Pages 131 to 134 [FALSE POSITIVE]  SUBSECTION
+                                         | Pages 135 to 135 [FALSE POSITIVE]  ARBITRARY
+                                         | Pages 136 to 136 [OK]
+                                         | Pages 137 to 137 [FALSE POSITIVE]  SUBSECTION
+                                         | Pages 138 to 138 [FALSE POSITIVE]  CHEMICAL ANALYSIS (TABLE-LIKE)
+                                         | Pages 139 to 145 [FALSE POSITIVE]  SUBSECTION
+                                         | Pages 146 to 146 [FALSE POSITIVE]  CHEMICAL ANALYSIS (TABLE-LIKE)
+                                         | Pages 147 to 147 [FALSE POSITIVE]  CHEMICAL ANALYSIS (TABLE-LIKE)
+                                         | Pages 148 to 148 [FALSE POSITIVE]  CHEMICAL ANALYSIS (TABLE-LIKE)
+                                         | Pages 149 to 151 [FALSE POSITIVE]  CHEMICAL ANALYSIS (TABLE-LIKE)
+                                         | Pages 152 to 153 [FALSE POSITIVE]  CHEMICAL ANALYSIS (TABLE-LIKE)
+                                         | Pages 154 to 154 [FALSE POSITIVE]  CHEMICAL ANALYSIS (TABLE-LIKE)
+                                         | Pages 155 to 157 [FALSE POSITIVE]  CHEMICAL ANALYSIS (TABLE-LIKE)
+                                         | Pages 158 to 161 [OK]
+                                         | Pages 162 to 162 [OK]
+                                         | Pages 163 to 163 [FALSE POSITIVE]  TABLE
+                                         | Pages 164 to 165 [FALSE POSITIVE]  TABLE
+                                         | Pages 166 to 170 [FALSE POSITIVE]  TABLE
+                                         | Pages 171 to 171 [OK]
+                                         | Pages 172 to 172 [FALSE POSITIVE]  SUBSECTION
+                                         | Pages 173 to 174 [FALSE POSITIVE]  SUBSECTION
+                                         | Pages 175 to 176 [OK]
+                                         | Pages 177 to 177 [OK]
+                                         | Pages 178 to 178 [FALSE POSITIVE]  IMAGE
+                                         | Pages 179 to 179 [FALSE POSITIVE]  IMAGE
+                                         | Pages 180 to 181 [FALSE POSITIVE]  IMAGE
+                                         | Pages 182 to 182 [FALSE POSITIVE]  IMAGE
+
+--- ROUTING METRICS (1881) ---
+True Positives (correct splits)       : 15
+False Positives (hallucinated splits) : 38
+False Negatives (missed splits)       : 0
+F1-Score: 0.4412 (Precision: 0.28 | Recall: 1.00)

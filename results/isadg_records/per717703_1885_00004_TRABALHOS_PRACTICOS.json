@@ -1,0 +1,28 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_TRABALHOS_PRACTICOS",
+        "titulo": "335 TRABALHOS PRÁTICOS",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "ANTONIO OLYNTHO DOS SANTOS PIRES"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Triangulação da cidade de Ouro-Preto ou de um lugar em seus arredores; levantamento com a bússola de uma parte da triangulação; operações de detalhe com o graphómetro, plancheta, esquadro e pantómetro; nivelamento; curvas de nível; perfis; levantamento da planta de uma mina; traçado sobre o terreno de alinhamentos retos e curvos."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "ANTONIO OLYNTHO DOS SANTOS PIRES"
+        ],
+        "lugares": [
+            "Ouro-Preto",
+            "Serra do Paiól",
+            "Rio das Velhas",
+            "Paraopeba",
+            "Arraial do Taboleiro",
+            "Cachoeira"
+        ]
+    },
+    "pagina_inicio": 303,
+    "pagina_fim": 303
+}

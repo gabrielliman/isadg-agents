@@ -1,0 +1,19 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_OPERAÇÃO_METALLURGICA",
+        "titulo": "Operação Metallurgica",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição técnica da operação de refino de guza em forja de reverbero, incluindo dimensões do algaraviz, chapa do fundo, procedimentos de carregamento, fundição, refinação, descarburamento, manejo de escorias, consumo de carvão, rendimento, organização do trabalho e remuneração do pessoal."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": []
+    },
+    "pagina_inicio": 75,
+    "pagina_fim": 77
+}

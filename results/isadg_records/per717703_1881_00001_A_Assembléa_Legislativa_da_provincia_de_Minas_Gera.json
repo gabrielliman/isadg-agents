@@ -1,0 +1,29 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_A_Assembléa_Legislativa_da_provincia_de_Minas_Gera",
+        "titulo": "Lei n. 2741 - Subvenção a estudantes da Escola de Minas de Ouro Preto",
+        "data": "17 de Dezembro de 1880"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Assembleia Legislativa Provincial de Minas Gerais"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Lei que autoriza o governo de Minas Gerais a conceder subvenção de 60$ mensais a dois estudantes filhos da província, matriculados na Escola de Minas de Ouro Preto, que comprovem indigência, aptidão e aplicação, com preferência para alunos de ano superior. Estabelece regras para prova de indigência, aptidão e aplicação, condições de cessação da subvenção e possibilidade de substituição por novos alunos. Também menciona a Lei n. 2716 de 18 de Dezembro de 1880, que destina 4:000$ para subvencionar estudos e explorações mineralógicas na província."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "José Francisco Netto",
+            "João Alves dos Santos",
+            "João Vieira de Azeredo Coutinho",
+            "Joaquim José de Sant’Anna"
+        ],
+        "lugares": [
+            "Minas Gerais",
+            "Ouro Preto",
+            "Paço da Assembleia Legislativa Provincial de Minas Gerais",
+            "Palácio do governo"
+        ]
+    },
+    "pagina_inicio": 175,
+    "pagina_fim": 176
+}

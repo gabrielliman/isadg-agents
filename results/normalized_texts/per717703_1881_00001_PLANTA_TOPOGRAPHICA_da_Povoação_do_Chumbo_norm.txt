@@ -1,0 +1,9 @@
+PLANTA TOPOGRÁFICA da Povoação do Chumbo  
+C Casas de sapé  
+P Antigo forno do tratamento do minério  
+F1 Canal feito por mim para extrair a água da mina  
+F2 Galeria feita pelos antigos exploradores  
+F3 Galeria aberta por mim para fazer estudos na parte da veia situada além do ribeirão  
+A parte inculta da planície é formada de xistos argilosas  
+Declinação magnética 2°  
+Escala 1:500

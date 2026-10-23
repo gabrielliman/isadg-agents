@@ -1,0 +1,38 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_INDICE_DAS_MATERIAS_DO_N._3",
+        "titulo": "ÍNDICE DAS MATÉRIAS DO N. 3",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Escola de Minas de Ouro Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Índice que lista os artigos e memórias publicados no número 3 de uma publicação da Escola de Minas, abrangendo trabalhos de geologia, mineralogia, paleontologia e metalurgia, incluindo as memórias de Pedro W. Lund sobre cavernas fósseis, contribuições de H. Gorceix sobre bacias terciárias, zeólitos, minerais associados ao diamante, notas sobre equipamentos como o planímetro d’Amsler, estudos siderúrgicos e análises laboratoriais, bem como legislação minerária da província de Minas Geraes."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "H. Gorceix",
+            "Pedro W. Lund",
+            "Leonidas Damázio Botelho",
+            "A. Thire",
+            "Francisco Paula de Oliveira",
+            "J. C. da Costa Sena",
+            "Reinhardt"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Minas Geraes",
+            "Bahia",
+            "Abaeté",
+            "Salobro",
+            "Antônio Pereira",
+            "Copenhague",
+            "Ganda-rela",
+            "Fonseca",
+            "Interior do Brasil"
+        ]
+    },
+    "pagina_inicio": 234,
+    "pagina_fim": 234
+}

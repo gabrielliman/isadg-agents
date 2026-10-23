@@ -1,0 +1,30 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_EXTRACÇÃO_DO_MINERIO_E_FUNDENTES",
+        "titulo": "Notas sobre a mineralogia e geologia da região Norte e Nordeste da província",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Escola de Minas de Ouro Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Relatório de viagem de estudos contendo observações geológicas sobre a formação de gesso grosso e xisto argiloso, descrição do minério de Ipanema (composição, extração, ustulação), análise de calcário e fundente sílico, detalhes dos processos de preparação mecânica (pilões, fornos) e custos associados."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "O. Derby",
+            "Dr. Scheerer",
+            "Professor H. Gorceix",
+            "Dr. Bennewitz",
+            "Director da Escola de Minas de Ouro Preto"
+        ],
+        "lugares": [
+            "Norte e Nordeste da província (não especificada)",
+            "Ouro Preto",
+            "Dresda",
+            "Ipanema"
+        ]
+    },
+    "pagina_inicio": 50,
+    "pagina_fim": 53
+}

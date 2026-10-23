@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Programma_do_Curso_de_Pontes_e_Viaductos",
+        "titulo": "Material de transporte. Tracção.",
+        "data": "Setembro de 1885"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "D. Rocha"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Apontamentos de curso sobre material rodante ferroviário, tracção, freios, organização do movimento dos trens, composição, circulação em vias simples e duplas, incluindo descrição de material americano e europeu, sistema Arnoux, rodas, eixos, suspensão, freios contínuos, contra-vapor, block-system, etc."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "D. Rocha"
+        ],
+        "lugares": [
+            "Ouro-Preto"
+        ]
+    },
+    "pagina_inicio": 311,
+    "pagina_fim": 311
+}

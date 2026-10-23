@@ -1,0 +1,28 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_MATTAS_-_COMBUSTIVEL_-_SUA_PREPARAÇÃO",
+        "titulo": "MATTAS - COMBUSTÍVEL - SUA PREPARAÇÃO",
+        "data": "1882"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Direção da Fábrica de Ipanema"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento descreve a preparação do carvão de lenha mediante o processo das médas (caieiras), a área e reprodução das matas, o uso da força motriz do rio Ipanema com canais de derivação e registro construído em 1882, o funcionamento dos fornos altos construídos em 1818 e modificados em 1865 e 1883, bem como a organização do trabalho, mão de obra (turmas de italianos e nacionais), transporte e comercialização do carvão, e as especificações técnicas das instalações da fábrica."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Tenente-Coronel Joaquim de Souza Mursa",
+            "Varnhagen"
+        ],
+        "lugares": [
+            "Ipanema",
+            "Juquiá",
+            "Estrada de Ferro Sul Paulista",
+            "Minas-Geraes",
+            "Sorocaba"
+        ]
+    },
+    "pagina_inicio": 55,
+    "pagina_fim": 67
+}

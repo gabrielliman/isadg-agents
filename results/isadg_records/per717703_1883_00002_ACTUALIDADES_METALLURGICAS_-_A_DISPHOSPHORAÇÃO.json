@@ -1,0 +1,28 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_ACTUALIDADES_METALLURGICAS_-_A_DISPHOSPHORAÇÃO",
+        "titulo": "Actualidades Metalúrgicas: A Desfosforação",
+        "data": "1882"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Sr. Delafond, engenheiro das minas"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento que apresenta os resultados obtidos nas usinas do Creusot quanto à desfosforação do aço, com base numa memória do Sr. Delafond, engenheiro das minas, resumida pelo Sr. A. Thiré. Descreve a influência nociva do fósforo na metalurgia do ferro, as limitações dos processos Bessemer e Martin-Siemens, as ideias de Grüner sobre revestimentos básicos e a aplicação bem-sucedida dos processos de Thomas e Gilchrist a partir de novembro de 1879."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Sr. Delafond",
+            "Sr. A. Thiré",
+            "Sr. Grüner",
+            "Sr. Thomas",
+            "Sr. Gilchrist"
+        ],
+        "lugares": [
+            "Creusot",
+            "França"
+        ]
+    },
+    "pagina_inicio": 140,
+    "pagina_fim": 141
+}

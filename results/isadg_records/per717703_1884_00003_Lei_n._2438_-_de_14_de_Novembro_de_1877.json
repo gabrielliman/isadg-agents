@@ -1,0 +1,27 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_Lei_n._2438_-_de_14_de_Novembro_de_1877",
+        "titulo": "Lei nº 2.438, de 14 de novembro de 1877 - Orçamento da Receita e Despesa da Província de Minas Gerais para o exercício financeiro de 1878 a 1879",
+        "data": "13 de novembro de 1877"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Dr. João Capistrano Bandeira de Mello, Presidente da Província de Minas Gerais"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Decreto que ordena o cumprimento da Lei nº 2.438/1877, que estabelece o orçamento da receita e despesas da Província de Minas Gerais para o biênio 1878-1879, determinando que as autoridades provinciais a cumpram e façam cumprir, e que o secretário providencie a impressão, publicação e divulgação da lei."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "João Capistrano Bandeira de Mello",
+            "Barão da Villa da Barra",
+            "Olympio Oscar de Vilhena Valladão",
+            "Antonio Virgílio Nunes Bandeira"
+        ],
+        "lugares": [
+            "Palácio da Presidência da Província de Minas Gerais",
+            "Província de Minas Gerais"
+        ]
+    },
+    "pagina_inicio": 225,
+    "pagina_fim": 225
+}

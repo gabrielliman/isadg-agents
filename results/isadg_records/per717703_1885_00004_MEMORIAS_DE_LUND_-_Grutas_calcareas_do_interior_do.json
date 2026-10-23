@@ -1,0 +1,26 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_MEMORIAS_DE_LUND_-_Grutas_calcareas_do_interior_do",
+        "titulo": "Memórias de Lund: Grutas calcáreas do interior do Brasil, contendo ossos fósseis.",
+        "data": "Copenhague, 1837."
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Pedro W. Lund"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição das grutas calcáreas do interior do Brasil que contêm ossos fósseis."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Pedro W. Lund",
+            "Leonidas Damázio Botelho"
+        ],
+        "lugares": [
+            "Brasil",
+            "Copenhague",
+            "Ouro Preto"
+        ]
+    },
+    "pagina_inicio": 3,
+    "pagina_fim": 3
+}

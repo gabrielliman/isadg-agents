@@ -1,0 +1,33 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_ANALYSES_FEITAS_NO_LABORATORIO_DE_DOCIMASIA_DA_ESC",
+        "titulo": "Análises feitas no Laboratório de Docimasia da Escola de Minas de Ouro Preto",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Laboratório de Docimasia da Escola de Minas de Ouro Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento contendo relatórios de análises químicas e metalúrgicas realizadas no Laboratório de Docimasia da Escola de Minas de Ouro Preto, incluindo ensaios de minérios de manganês e ferro da Província de Santa Catarina, ensaios de minério de ouro de minas da Bahia (Tapuia, Itapicuru) e determinações de ácido fosfórico em solos de Ypanema, Carandahy e amostras de fosfatos remetidas pelo Ministério da Agricultura, Comércio e Obras Públicas."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Leonidas Damazio",
+            "H. Gorceix",
+            "Henrique Praguer"
+        ],
+        "lugares": [
+            "Província de Santa Catarina",
+            "Província da Bahia",
+            "Mina Nova do Tapuia",
+            "Mina Velha do Tapuia",
+            "Itapicuru (Bahia)",
+            "Mina do Tapuia (Bahia)",
+            "Terra rôxa de Ypanema",
+            "Terra das grutas de Carandahy",
+            "Escola de Minas de Ouro Preto"
+        ]
+    },
+    "pagina_inicio": 184,
+    "pagina_fim": 189
+}

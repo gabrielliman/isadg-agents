@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_METALLURGIA_DO_FERRO",
+        "titulo": "Metallurgia do Ferro",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento trata da metallurgia do ferro, abordando propriedades do ferro, ferro gusa e aço, influência de substâncias estranhas, classificação e aço, classificação e preparação de minérios de ferro, processos de fabricação do ferro gusa em fornos altos, incluindo teoria, construção, operação e produtos dos fornos altos, além de aparelhos de aquecimento do ar como os de Siemens, Cowper e Whitwell."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Siemens",
+            "Cowper",
+            "Whitwell"
+        ],
+        "lugares": []
+    },
+    "pagina_inicio": 267,
+    "pagina_fim": 267
+}

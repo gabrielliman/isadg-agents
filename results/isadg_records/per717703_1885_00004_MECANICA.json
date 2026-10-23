@@ -1,0 +1,19 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_MECANICA",
+        "titulo": "Mecânica - Estática e Equações Diferenciais",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento aborda equações diferenciais lineares de primeira ordem com coeficientes constantes e o problema das trajetórias ortogonais, seguido de uma parte de mecânica estática que inclui definições de forças, condições de igualdade e equilíbrio, composição de forças, teoria dos momentos e dos binários, redução de forças a resultantes e binários, equilíbrio de sistemas materiais, ligações, trabalho das forças, teorema do trabalho virtual, centro de gravidade e teorema de Guldin, equilíbrio de sistemas pesados, trabalho da gravidade, condições de equilíbrio de sistemas articulados e de ligações completas, com aplicações em máquinas simples como alavanca, roldanas, cadernais, guincho, plano inclinado, etc."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": []
+    },
+    "pagina_inicio": 234,
+    "pagina_fim": 234
+}

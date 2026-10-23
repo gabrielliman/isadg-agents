@@ -1,0 +1,19 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_PROGRAMMA_DO_CURSO_DE_ESTRADAS_DE_FERRO",
+        "titulo": "PROGRAMMA DO CURSO DE ESTRADAS DE FERRO",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento contendo o programa de curso de engenharia de estradas de ferro, dividido em três partes: estabelecimento da via (infraestrutura), superestrutura da via, material de transporte e motor, e estações. Aborda traçado, obras de arte, trilhos, material rodante, locomotivas e instalações de estações."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": []
+    },
+    "pagina_inicio": 159,
+    "pagina_fim": 160
+}

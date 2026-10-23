@@ -1,0 +1,31 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_Lei_n._2334_-_de_12_de_Julho_de_1876",
+        "titulo": "Lei n. 2334 - de 12 de Julho de 1876",
+        "data": "12 de Julho de 1876"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Barão da Vila da Barra, Presidente da Província de Minas Gerais"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Lei que isenta de todos e quaisquer impostos provinciais as máquinas e materiais introduzidos na província para quaisquer emprezas ou companhias industriais fundadas ou que nela se fundem; revoga as disposições em contrário."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Pedro Vicente de Azevedo",
+            "Cândido Eloy Tassara de Padua",
+            "Honório Hermelino Pinto de Figueiredo",
+            "Barão da Vila da Barra"
+        ],
+        "lugares": [
+            "Província de Minas Gerais",
+            "Palácio da Presidência da Província de Minas Gerais",
+            "Rio São Francisco",
+            "S. Domingos",
+            "Sant’Anna",
+            "Jacaré"
+        ]
+    },
+    "pagina_inicio": 223,
+    "pagina_fim": 223
+}

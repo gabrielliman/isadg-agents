@@ -1,0 +1,48 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_ESTUDO_CHIMICO_E_MINERALOGICO_DAS_ROCHAS_DOS_ARRED",
+        "titulo": "ESTUDO QUÍMICO E MINERALÓGICO DAS ROCHAS DOS ARREDORES DE OURO PRETO (H. GORCEIX) SEGUNDA PARTE",
+        "data": "1881"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "H. Gorceix"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento apresenta a segunda parte do estudo mineralógico e químico das rochas dos arredores de Ouro Preto, realizado por H. Gorceix. Inicia-se com a continuação do trabalho publicado nos ANNAES de 1881, descrevendo a classificação dos terrenos metamórficos do planalto central de Minas Gerais em nove divisões principais (desde gnaisse porfiroidal até quartzitos com seixos rolados). São discutidas as correlações com esquemas de geólogos internacionais (Pissis, Derby, de Lapparent, Dana, Douvillé) e as semelhanças com formações dos Estados‑Unidos, dos Alpes e do planalto central da França. O texto detalha a análise da mica verde (fuchsita) encontrada nos quartzitos de Ouro Preto, incluindo suas propriedades ópticas, densidade, teor de cromo e comparações com amostras do Ural. Também aborda o estudo da hydrargillita‑wavellita, descrevendo suas ocorrências em crosta mamelonada sobre quartzo com óxidos de cobalto, manganês e ferro, bem como em nódulos esferoidais em xistos negros alterados. São fornecidos resultados de análises químicas, métodos de dosagem de cromo e considerações sobre a possível presença de ferro cromado na região."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "H. Gorceix",
+            "Orville Derby",
+            "Damour",
+            "Pissis",
+            "de Lapparent",
+            "Dana",
+            "Douvillé",
+            "Schaffhaült",
+            "Des Cloizeaux",
+            "Domingos de Sá",
+            "Halfeldt",
+            "Barão de Capanema",
+            "Claussen"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Mariana",
+            "Sumidouro",
+            "Itacolumy",
+            "Serra do Espinhaço",
+            "Rio das Velhas",
+            "Gandarela",
+            "Abaeté",
+            "Serro",
+            "Ural",
+            "Grécia",
+            "Oisans (Alpes)",
+            "Planalto central da França",
+            "Estados‑Unidos"
+        ]
+    },
+    "pagina_inicio": 5,
+    "pagina_fim": 21
+}

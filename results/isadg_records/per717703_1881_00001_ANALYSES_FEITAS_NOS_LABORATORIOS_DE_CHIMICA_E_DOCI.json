@@ -1,0 +1,22 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_ANALYSES_FEITAS_NOS_LABORATORIOS_DE_CHIMICA_E_DOCI",
+        "titulo": "Análises feitas nos laboratórios de química e docimasia da Escola de Minas de Ouro Preto",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Escola de Minas de Ouro Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Relatório das análises químicas e de docimasia realizadas nos laboratórios da Escola de Minas de Ouro Preto, contendo resultados sobre ouro, chumbo e prata, ferro, calcários e carvão."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Ouro Preto",
+            "Escola de Minas de Ouro Preto"
+        ]
+    },
+    "pagina_inicio": 136,
+    "pagina_fim": 136
+}

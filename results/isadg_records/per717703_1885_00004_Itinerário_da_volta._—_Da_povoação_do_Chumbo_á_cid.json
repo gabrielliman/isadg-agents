@@ -1,0 +1,46 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Itinerário_da_volta._—_Da_povoação_do_Chumbo_á_cid",
+        "titulo": "Itinerário da volta. — Da povoação do Chumbo à cidade de Sete-Lagoas",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Relato de viagem itinerante que descreve o trajeto desde a povoação do Chumbo até a cidade de Sete-Lagoas, passando por localidades como Santa Maria, Serra da Mata da Corda, rios Abaeté, Borrachudo, Indayá, São Francisco, arraial da Morada-Nova, porto da Povoação, fazendas ao longo do ribeirão do Burity-comprido, arraial do Bagre, povoado de Almas, arraial do Taboleiro-Grande e a fábrica do Cedro, com observações sobre a geologia, vegetação, altitude e infraestrutura encontradas ao longo do percurso."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Mascarenhas Irmãos"
+        ],
+        "lugares": [
+            "Chumbo",
+            "Santa Maria",
+            "Serra da Mata da Corda",
+            "Abaeté",
+            "Rio Borrachudo",
+            "Serra do Jacú",
+            "Rio Indayá",
+            "Serra do Borrachudo",
+            "Arraial da Morada-Nova",
+            "Rio São Francisco",
+            "Porto da Povoação",
+            "Ribeirão da Extrema",
+            "Ribeirão do Burity-comprido",
+            "Rio do Peixe",
+            "Arraial do Bagre",
+            "Ribeirão-Manso",
+            "Rio Paraopeba",
+            "Ribeirão do Melleiro",
+            "Rio Falcão",
+            "Povoado Almas",
+            "Arraial do Taboleiro-Grande",
+            "Fábrica do Cedro",
+            "Serra do Paiól",
+            "Cidade de Sete-Lagoas"
+        ]
+    },
+    "pagina_inicio": 128,
+    "pagina_fim": 131
+}

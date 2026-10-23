@@ -1,0 +1,11 @@
+234
+
+Introdução das linhas trigonometricas nas expressões imaginarias. Calculo dessas expressões assim consideradas. Fórmula de Moivre.
+
+Expressão de valor de sen « mx » e cos « mx » em função de sen « x » e cos « x ». Resolução trigonometrica das equações de 2.º e 3.º grados.
+
+Grão de exactidão do resultado obtido com o emprego de taboas de senos artificiaes. Resolução de varios problemas de trigonometria. Aplicação praticas da trigonometria. Expressão trigonometrica da projecção orthogonal d'um contorno polygonal sobre um eixo, d'uma area plana sobre um plano.
+
+Curso de geometria analytica a duas dimensões
+
+Introdução. — Emprego da Algebra na resolução dos problemas de Geometria. — Lei de homogeneidade. — Construção graphica das fórmulas de solução dos problemas de Geometria. — Resolução de alguns problemas e construção das fórmulas que os resolvem. Objecto da Geometria analytica. Determinação da posição de um ponto em um plano. Differentes systemas de coordenadas. Representação das linhas por meio de equações. Equações de varias linhas (coordenadas rectilineas ou polares). Transformação de coordenadas rectilineas. Transformação de coordenadas rectilineas em polares e vice-versa. Importancia da theoria da transformação de coordenadas. Expressão da distancia entre dois pontos em função das coordenadas rectilineas ou polares desses pontos.

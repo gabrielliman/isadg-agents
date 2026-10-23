@@ -1,0 +1,24 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_XI._Nickel_e_Cobalto",
+        "titulo": "Níquel e Cobalto",
+        "data": "1.° de Setembro de 1885"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Arthur Thiré"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento trata das propriedades do níquel e do cobalto e de seus compostos, incluindo minérios, tratamento de minérios sulfurados e arsênicos, fabricação de preparações de cobalto, extração de níquel metálico e tratamento dos minérios da Nova Caledônia, além da preparação industrial do alumínio."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Arthur Thiré"
+        ],
+        "lugares": [
+            "Escola de Minas de Ouro Preto",
+            "Nova Caledônia"
+        ]
+    },
+    "pagina_inicio": 291,
+    "pagina_fim": 291
+}

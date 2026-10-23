@@ -1,0 +1,24 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_ROCHEDO_DOS_INDIOS_PERTO_DE_MOCAMBO",
+        "titulo": "Rochedo dos Índios Perto de Mocambo",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Ilustração e descrição do rochedo dos Índios perto de Mocambo, incluindo vistas, desenhos superficiais feitos por indígenas e observações sobre sua importância para naturalistas e filósofos."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Não identificado"
+        ],
+        "lugares": [
+            "Rochedo dos Índios perto de Mocambo",
+            "Mocambo"
+        ]
+    },
+    "pagina_inicio": 318,
+    "pagina_fim": 320
+}

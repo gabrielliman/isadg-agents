@@ -1,0 +1,19 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Perspectiva_linear",
+        "titulo": "Perspectiva linear",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O texto trata dos princípios da perspectiva linear, incluindo noções gerais, construções diretas no quadro, sombras e efeitos de perspectiva, abordando tópicos como perspectiva de pontos, trapézios, curvas, circunferências, método dos dois pontos de fuga, escala de afastamentos, larguras, alturas, abaixamento do geometral, perspectiva de arcadas, problemas sobre linhas retas e planos, perpendiculares a planos, figuras em planos verticais, definições de sombras, métodos de determinação (planos secantes, tangentes, projeções oblíquas), sombras de verticais no geometral e em planos oblíquos, cilindros, abóbadas, e o problema inverso da perspectiva, restituições comparadas e escolha do ponto de vista."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": []
+    },
+    "pagina_inicio": 273,
+    "pagina_fim": 273
+}

@@ -1,0 +1,26 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_ENSaios_METALLURGICOS",
+        "titulo": "Ensaios Metallúrgicos - Ouro da Mina dos Caldeirões em Ouro Preto",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Eschwege"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento contendo resultados de ensaios metalúrgicos de amostras de minério de ouro das minas dos Caldeirões (Ouro Preto) e da Tapera (próxima a S. Bartolomeu). Inclui pesagens de minério, lithargyrio, carvão, peso do botão obtido por copelação, cálculo do teor de ouro e prata, e conversões para onças e quilates."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Eschwege"
+        ],
+        "lugares": [
+            "Mina dos Caldeirões, Ouro Preto",
+            "Mina da Tapera, perto de S. Bartolomeu",
+            "Povoação do Chumbo",
+            "Rio"
+        ]
+    },
+    "pagina_inicio": 137,
+    "pagina_fim": 137
+}

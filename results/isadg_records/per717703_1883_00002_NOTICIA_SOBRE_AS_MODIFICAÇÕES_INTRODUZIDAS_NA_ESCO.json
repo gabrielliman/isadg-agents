@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_NOTICIA_SOBRE_AS_MODIFICAÇÕES_INTRODUZIDAS_NA_ESCO",
+        "titulo": "NOTÍCIA SOBRE AS MODIFICAÇÕES INTRODUZIDAS NA ESCOLA DE MINAS DE OURO PRETO",
+        "data": "4 de novembro de 1882"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Escola de Minas de Ouro Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descreve as modificações introduzidas na Escola de Minas de Ouro Preto pela lei do orçamento de 1882-1883 e pelo Decreto n. 8727 de 4 de novembro de 1882: criação da cadeira de Resistência dos materiais, construção e estradas de ferro, destinação de verba para impressão do segundo volume dos anais, divisão do curso superior em três anos e detalha as disciplinas do primeiro e segundo anos."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Ouro Preto",
+            "Minas Gerais",
+            "Brasil"
+        ]
+    },
+    "pagina_inicio": 156,
+    "pagina_fim": 156
+}

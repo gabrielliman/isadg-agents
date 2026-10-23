@@ -1,0 +1,24 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_ESTUDOS_SIDERURGICOS_NA_PROVINCIA_DE_MINAS_GERAES",
+        "titulo": "Estudos Siderúrgicos na Província de Minas Gerais",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Francisco de Paula Oliveira"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Estudos siderúrgicos realizados na província de Minas Gerais, incluindo análises nos laboratórios de química e docimásia da Escola de Minas de Ouro Preto."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Francisco de Paula Oliveira"
+        ],
+        "lugares": [
+            "Província de Minas Gerais",
+            "Escola de Ouro Preto"
+        ]
+    },
+    "pagina_inicio": 127,
+    "pagina_fim": 127
+}

@@ -1,0 +1,9 @@
+3º ANNO 1º CADEIRA Trigonometria esférica, Análise, Mecânica racional
+
+TRIGONOMETRIA ESFÉRICA
+
+Triângulos esféricos. Relações entre os ângulos e os lados de um triângulo esférico. Do triângulo polar ou suplementar. Fórmulas relativas aos triângulos retângulos e aos triângulos retiláteros. Fórmulas gerais calculáveis por logaritmos. Fórmulas de Delambre, fórmulas de Neper. — Excesso esférico. Resolução dos triângulos esféricos retângulos, retiláteros e triângulos esféricos quaisquer. Aplicação da trigonometria esférica. Redução de um ângulo ao horizonte, cálculo da distância entre dois pontos da superfície da terra, etc.
+
+CÁLCULO DIFERENCIAL
+
+Método infinitesimal, princípios fundamentais. — Derivadas. — Significação. Derivadas das funções simples, funções de funções. Diferenciais. — Representação geométrica da derivada, do acréscimo e da diferencial de uma função. Regras da diferenciação. — Funções simples. Funções de funções. — Funções compostas. Funções inversas. — Funções circulares. Funções implícitas. — Funções de várias variáveis.

@@ -1,0 +1,25 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_MEMORIA_SOBRE_A_FABRICA_DE_FERRO_DE_YPANEMA",
+        "titulo": "Memória sobre a fábrica de ferro de Ypanema",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Leandro Dupré"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descreve a fábrica de ferro de Ypanema, incluindo planta da fábrica, referências à Fábrica de Ferro de São João de Ipanema e à Fábrica de ferro do Sumidouro, elaborada por Leandro Dupré, engenheiro de minas."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Leandro Dupré"
+        ],
+        "lugares": [
+            "Ypanema",
+            "São João de Ipanema",
+            "Sumidouro"
+        ]
+    },
+    "pagina_inicio": 322,
+    "pagina_fim": 322
+}

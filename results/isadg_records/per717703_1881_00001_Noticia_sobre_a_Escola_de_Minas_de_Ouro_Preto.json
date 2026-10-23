@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_Noticia_sobre_a_Escola_de_Minas_de_Ouro_Preto",
+        "titulo": "Notícia sobre a Escola de Minas de Ouro Preto",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento descreve a história, criação, legislação, cursos e desenvolvimentos da Escola de Minas de Ouro Preto, incluindo os decretos de 6 de novembro de 1875, 12 de setembro de 1877 e 14 de fevereiro de 1880, a inauguração em 12 de outubro de 1876 e a organização dos cursos preparatórios e superiores."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Ouro Preto",
+            "Província de Minas Geraes",
+            "Escola Politécnica"
+        ]
+    },
+    "pagina_inicio": 171,
+    "pagina_fim": 171
+}

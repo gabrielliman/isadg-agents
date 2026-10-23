@@ -1,0 +1,32 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_CARVÃO_-_PIUNA",
+        "titulo": "Relatório de análises de carvão e lignito",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento reúne resultados de análises químicas e caloríficas de amostras de carvão e lignito provenientes de diversas localidades (Piuna, Antônio Pereira, G Andarela, S. Miguel do Arassuahy, Itabira, Fonseca, Angá). Foram determinadas percentagens de umidade, matéria volátil, carbono fixo, cinzas, poder calorífico comparado ao do carbono puro e a quantidade de chumbo reduzido pelas frações voláteis e fixas."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Antônio Jânuario",
+            "Francisco Barboza",
+            "Dr. Guerra"
+        ],
+        "lugares": [
+            "Piuna",
+            "Antônio Pereira",
+            "G Andarela",
+            "S. Miguel do Arassuahy",
+            "Itabira",
+            "Fonseca",
+            "Angá",
+            "Cambotá"
+        ]
+    },
+    "pagina_inicio": 155,
+    "pagina_fim": 157
+}

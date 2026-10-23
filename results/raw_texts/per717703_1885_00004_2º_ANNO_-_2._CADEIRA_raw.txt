@@ -1,0 +1,19 @@
+2º ANNO
+
+2. CADEIRA
+
+I. NOÇÕES PRELIMINARES
+
+Fim da geometria descriptiva. — Método das projecções. — Representação e determinação de um ponto. — Theoremas sobre a determinação de um ponto. — Diversas posições de um ponto. — Representação e determinação de uma recta. — Theoremas sobre a determinação de uma recta. — Diversas posições, de uma recta. — Representação e determinação de um plano. — Diversas posições de um plano. — Convenções para a execução das epuras. — Exercicios.
+
+II. PROBLEMAS SOBRE A LINHA RECTA E O PLANO
+
+Problemas sobre a linha recta. — Problemas sobre o plano. — Problemas indeterminados sobre o plano. — Aplicações. — Intersecção de uma recta e de um plano. — Aplicações.
+
+III. RECTOS E PLANOS PERPENDICULARES
+
+Distancia de um ponto a um plano. — Distancia entre dous planos paralelos. — Distancia de um ponto a uma recta. — Distancia entre duas rectas. — Theorema sobre a menor distancia entre duas rectas. — Caso particular da distancia entre duas rectas.
+
+IV. MÉTODO DOS REBATIMENTOS
+
+Solução geral do problema. — Rebatimento de um ponto; de uma recta. — Problema inverso. — Observação sobre a execução das construcções. — Aplicações.

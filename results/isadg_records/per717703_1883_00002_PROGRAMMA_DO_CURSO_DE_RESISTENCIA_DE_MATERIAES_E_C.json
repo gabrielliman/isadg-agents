@@ -1,0 +1,21 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_PROGRAMMA_DO_CURSO_DE_RESISTENCIA_DE_MATERIAES_E_C",
+        "titulo": "PROGRAMMA DO CURSO DE RESISTÊNCIA DE MATERIAIS E CONSTRUÇÃO. 1.ª PARTE: Resistência de Materiais",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "P. Ferrand"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento apresenta o programa da primeira parte do curso de Resistência de Materiais e Construção, abordando tópicos como elasticidade, extensão, compressão, torção, flexão, teoria da flexão simples e complexa, aplicações às vigas, construções em madeira, metálicas, alvenarias, fundações, empuxo das terras, abóbadas e acomodações para águas."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "P. Ferrand"
+        ],
+        "lugares": []
+    },
+    "pagina_inicio": 162,
+    "pagina_fim": 163
+}

@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_RELEVO_DO_TERRENO",
+        "titulo": "Curso de Cosmographia",
+        "data": "Outubro de 1885"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Antonio Olyntho dos Santos Pires"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Anotações de aula sobre topografia e cosmografia, abordando o uso da plancheta, nivelamento (simples, composto, recíproco, barométrico), instrumentos de nível, miras, execução, cópia e redução de plantas, escala, sinais e tintas convencionais, pantógrafo, além de temas de esfera (representação, planos tangentes a cone e cilindro, curvas de contato) e ângulos triedros (seis casos, soluções diretas, uso do triedro suplementar, redução ao horizonte)."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Antonio Olyntho dos Santos Pires"
+        ],
+        "lugares": [
+            "Escola de Minas de Ouro-Preto"
+        ]
+    },
+    "pagina_inicio": 220,
+    "pagina_fim": 220
+}

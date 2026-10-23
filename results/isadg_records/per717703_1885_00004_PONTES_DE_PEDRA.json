@@ -1,0 +1,27 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_PONTES_DE_PEDRA",
+        "titulo": "Pontes de Pedra, Madeira e Metálicas",
+        "data": "século XIX (cerca de 1850)"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Tratado técnico sobre a construção de pontes, abrangendo pontes de pedra, madeira e metal, incluindo fundações, arcos, abóbadas, cimbres, estabilidade e exemplos de obras conhecidas."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Jean-Victor Poncelet",
+            "Isambard Kingdom Brunel"
+        ],
+        "lugares": [
+            "Beaucaire (França)",
+            "Langon (França)",
+            "Victoria (Montreal, Canadá)",
+            "Britannia (Menai Strait, Reino Unido)"
+        ]
+    },
+    "pagina_inicio": 312,
+    "pagina_fim": 312
+}

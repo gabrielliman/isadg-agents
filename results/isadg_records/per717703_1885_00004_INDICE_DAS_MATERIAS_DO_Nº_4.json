@@ -1,0 +1,35 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_INDICE_DAS_MATERIAS_DO_Nº_4",
+        "titulo": "ÍNDICE DAS MATÉRIAS DO Nº 4",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Escola de Minas de Ouro Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Índice das matérias do número 4 de uma publicação da Escola de Minas de Ouro Preto, contendo prefácio, memórias, estudos, relatórios e programas de ensino relacionados à geologia, mineralogia, mineração e meteorologia."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "H. Gorceix",
+            "P. W. Lund",
+            "Leônidas Damázio Botelho",
+            "Leandro Dupré",
+            "Antônio Olyntho dos Santos Pires",
+            "Paul Fernand",
+            "Luiz C. Ferraz",
+            "Mr. Damour"
+        ],
+        "lugares": [
+            "interior do Brasil",
+            "Abaeté",
+            "Curvello",
+            "Ouro Preto",
+            "Copenhague",
+            "França"
+        ]
+    },
+    "pagina_inicio": 317,
+    "pagina_fim": 317
+}

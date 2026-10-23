@@ -1,0 +1,35 @@
+BICAME
+
+Suppomos um bicame de 20 metros sómente de comprimento. Tem em geral 1m,32 de largura, 1m,54 de altura. É formado de pranchões com 0m,5 de espessura unidos por gastalhos de abraçar.
+
+6 duzias de pranchões com 0m,05 de espessura, 4m,40 de comprimento e 0m,33 de largura..
+
+22 gastalhos com 1m,80 de comprimento e 0,10/0,22 de secção — as columnas; — 1m,70 de comprimento e 0,10/0,22 de secção — as agulhas; — 1m,70 de comprimento e 0,22/0,22 de secção — os travessões.
+
+44 columnas (0m3,039 cada 1) ............................................... 1,716
+
+22 agulhas (0m3,037 cada 1) ............................................... 0,814
+
+22 travessões (0m3,082 cada 1) ............................................... 1,804
+
+4 travessões com 4m de comprimento e 0,22/0,22 de secção (0m3,193 cada 1) ............................................... 0,772
+
+45 metros de linhas para sustentar os gastalhos do bicame, tendo de secção 0,22/0,22 ............................................... 2,178
+
+4 esteios de 0,22/0,22 e 8m de comprimento (0m,387 cada 1) ............................................... 1,548
+
+Madeira para comportas, cunhas, corredeças, etc. ............................................... 0,441
+
+14,500
+
+MOVIMENTO DE TERRAS
+
+[TABELA: BICAME]
+
+Terra retirada até a profundidade de 2m,20 para fixar os esteios ............................................... 16,0
+
+Idem até 2 metros de profundidade para a colocação das virgens, contra-virgens, travessas, homem-morto, etc ............................................... 20,0
+
+Idem até 2 metros de profundidade para a colocação do cepo do malho, cruzeta e escoras ............................................... 10,0
+
+46,0

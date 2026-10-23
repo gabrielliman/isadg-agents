@@ -1,0 +1,9 @@
+1.° ANNO
+
+1.° CADEIRA
+
+Programma de Arithmetica
+
+Noções preliminares. — Numeração decimal. Adição e subtracção dos números inteiros. Complementos arithméticos. Multiplicação dos números inteiros. — Theoria da operação. — Principios relativos á multiplicação. Divisão dos números inteiros. — Theoria da operação. — Principios relativos á divisão.
+
+Noções sobre as potencias. Theoria da divisibilidade. — Prova das operações por meio dos caracteres de divisibilidade. Theoria do maior divisor commum e do menor multiplo commum. Numeros primos. Frações ordinarias. — Propriedades fundamentaes. — Frações irreductiveis; simplificação das frações. Reducção das frações ao mesmo denominador e ao menor denominador commum. Theoremas relativos ás frações. — Operações sobre as frações. Numeros decimae. — Operações. Conversão das frações ordinarias em decimae. Frações decimae periodicæ. Theoria da raiz quadrada. Theoria da raiz cubica. Raizes em geral. Operações sobre os numeros incommensuraveis. Calculo dos numeros approximados. — Erro absoluto e erro relativo de um numero.

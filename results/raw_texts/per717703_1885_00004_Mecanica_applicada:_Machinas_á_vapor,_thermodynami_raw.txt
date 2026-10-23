@@ -1,0 +1,76 @@
+1.º ANNO
+
+4.ª CADEIRA
+
+Mecanica applicada: Machinas á vapor, thermodynamica e hydraulica
+
+PRIMEIRA PARTE
+
+MACHINAS CONSIDERADAS DEBAIXO DO PONTO DE VISTA DAS TRANSFORMAÇÕES DE MOVIMENTO (OU ESTUDO GEOMETRICO DOS PRINCIPAES MECANISMOS).
+
+Generalidades. Machinas. Motores. Guias. Parafuso. Porca. Tarracha. Guias do movimento rectilíneo e do movimento de rotação. Roldana fixa, roldana móvel. Cadernaes. Correias sem fim. Cadêias e cabos. Correias de embrayage.
+
+Generalidades sobre as engrenagens. Engrenagens cylindricas. Engrenagens á fusos e á lanterna, á flancos rectilíneos, á desenvolvimento de circulo. Cremalheira. Engrenagens conicas.
+
+Junta universal ou de Cardan. Parafuso sem fim. Trem de engrenagens.
+
+Guincho. Parafuso. Movimentos differenciaes. Biella e manivella. Excentrico circular. Manivella e corrediça. Excentricos em geral. Deslizadoras. Excentricos triangulares e da curva em coração.
+
+Parallelogrammo de Watt. Balancim á braçadeira. Parallelogrammo articulado.
+SEGUNDA PARTE
+
+CALCULO DAS RESISTENCIAS PASSIVAS NAS MACHINAS QUANDO
+
+O MOVIMENTO É UNIFORME
+
+Attrito de deslizamento. Leis e fórmula deste attrito.
+
+Coefficiente de attrito.
+
+Plano inclinado. Cunha. Prensa de cunha. Escala.
+
+Deslizadoras. Barrilete de marceneiro. Pilões.
+
+Munhões e mancaes. Guindaste. Guincho. Engrenagens.
+
+Attrito de rolamento. Leis e fórmula. Emprego dos
+
+roletes para transportar materiaes sobre um solo horizontal.
+
+Rijeza das cordas. Roldanas. Cadernaes. Deslizamento
+
+das cordas. Freios. Freio de Prony.
+
+TERCEIRA PARTE
+
+MACHINAS CONSIDERADAS DEBAIXO DO PONTO DE VISTA
+
+DO TRABALHO DAS FORÇAS
+
+Modo de acção dos motores. Principio das forças
+
+vivas applicado ás machinas.
+
+Uniformidade e periodicidade do movimento das ma-
+
+chinas. Discussão das equações das forças vivas. Influencia
+
+da inercia.
+
+Choque dos corpos. Corpos perfeitamente elasticos.
+
+Corpos inteiramente molles. Corpos naturaes. Theorema
+
+de Carnot. Choques e vibrações nas machinas. Pilões.
+
+Camas e martellos.
+
+Causas de variações do movimento de uma machina.
+
+Volantes. Caso das manivellas (simples com simples
+
+effeito, simples com duplo effeito e dupla com duplo
+
+effeito). Manivella de contra-pezo. Calculo do volante no
+
+caso geral.

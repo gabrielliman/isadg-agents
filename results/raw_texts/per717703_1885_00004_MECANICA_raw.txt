@@ -1,0 +1,53 @@
+Equações diferenciaes.
+
+Equaçao linear de primeira ordem.
+
+Equações lineares a coeficientes constantes. - Problema das trajectorias orthogonaes.
+
+MECANICA
+
+1.° parte - Estatica
+
+Definições: noções sobre as forças. - Condição de igualdade de duas forças. - Equilibrio.
+
+Composição das forças.
+
+Forças que actuão sobre um ponto.
+
+Equilibrio de um ponto material livre.
+
+Composição de forças paralelas.
+
+Centro das forças paralelas.
+
+Theoria dos momentos e dos binarios.
+
+Composição das forças applicadas a um corpo solido. - Reducção das forças a duas ou a uma e a um binario.
+
+Equilibrio dos systemas materiaes.
+
+Ligações. - Equilibrio de um ponto sujeito a ligações.
+
+Equilibrio de um solido invariavel livre.
+
+Equilibrio de um solido sujeito a ligações.
+
+Equilibrio dos systemas materiaes quaesquer.
+
+Trabalho das forças. trabalho da resultante.
+
+Theorema do trabalho virtual. - Applicações.
+
+Centro de gravidade. - Theorema de Guldin.
+
+Equilibrio dos systemas pesados.
+
+Trabalho da gravidade.
+
+Condição de equilibrio de um systema material pesado a ligações.
+
+Condição de equilibrio dos systemas articulados.
+
+Systemas á ligações completas. - Joelho, balança de Roberval. - Ponte levadiça de flexa. - Balança de contrapeso. - Equilibrio em algumas machinas simples abstracção feita do attrito.
+
+Alavanca. - Roldanas. - Cadernaes. - Guincho, plano inclinado, etc.

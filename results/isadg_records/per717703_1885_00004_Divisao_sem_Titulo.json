@@ -1,0 +1,34 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Divisao_sem_Titulo",
+        "titulo": "Pontes Metálicas",
+        "data": "Setembro de 1885"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "D. Rocha"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição de diversos sistemas de pontes metálicas, incluindo treliças (Fink, Ballmann, Warren, Howe), pontes tubulares, de arco, pênsil, suspensas, e metálicas sustentadas por arcos e cabos, com exemplos como Ponte de Fribourg, Ponte de Gotteron, Ponte do Niagara, Ponte de Brooklyn, Ponte Maria Pia, Ponte Victoria, Ponte de Langon, Ponte sobre o Pó, Ponte de Salstash, Ponte de Beaucaire, e referência a Ouro Preto."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "D. Rocha"
+        ],
+        "lugares": [
+            "Fribourg",
+            "Gotteron",
+            "Niagara",
+            "Brooklyn",
+            "Berna",
+            "Pó (Itália)",
+            "Salstash",
+            "Ouro Preto",
+            "Beaucaire",
+            "Maria Pia",
+            "Victoria",
+            "Langon"
+        ]
+    },
+    "pagina_inicio": 313,
+    "pagina_fim": 313
+}

@@ -1,0 +1,31 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_ELECTRICIDADE_DYNAMICA",
+        "titulo": "Não identificado",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento aborda os fundamentos da eletricidade estática e atmosférica (frascos de Leyde, eletômetro de condensador de Volta, para-raios), do magnetismo (ímãs naturais e artificiais, processos de imantação, magnetismo terrestre, declinação, inclinação, unidades magnéticas), da eletricidade dinâmica (teorias de Volta e Galvani, pilhas de um e dois líquidos, pilhas secas, teoria química das pilhas, galvanômetros, pilhas termoelétricas, leis de Faraday, pilhas secundárias de Planté, acumuladores, leis de Ohm e Joule, unidades elétricas), dos efeitos eletromagnéticos (ação das correntes sobre correntes, ímãs sobre correntes, ação da terra sobre correntes, solenoides, eletroímãs, telegrafia básica, correntes de indução, bobina de Ruhmkorff, máquinas magnetoelétricas e dinamoelétricas de Clarke e Gramme, telefones, microfones, fotofones), e inclui uma seção de trabalhos práticos com a execução das principais experiências de física."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Volta",
+            "Galvani",
+            "Faraday",
+            "Planté",
+            "Ohm",
+            "Joule",
+            "Clarke",
+            "Gramme",
+            "Ruhmkorff"
+        ],
+        "lugares": [
+            "Leiden"
+        ]
+    },
+    "pagina_inicio": 228,
+    "pagina_fim": 228
+}

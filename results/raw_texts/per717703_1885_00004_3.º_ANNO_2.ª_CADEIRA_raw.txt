@@ -1,0 +1,50 @@
+3.º ANNO
+
+2.ª CADEIRA
+
+I. — ESPHERA.
+
+Representação. — Problemas diversos. — Theoremas sobre planos tangentes ao cone e ao cylindro de revolução. — Curva de contacto de uma esphera e de um cylindro circonscripto. — Curva de contacto com um cone circonscripto. — Planos tangentes.
+
+II. — ANGULOS TRIEDROS
+
+Seis casos a resolver. — Problema fundamental. — Solução directa de cada um dos seis casos. — Solução de tres casos empregando o triedro supplementar. — Redução de um angulo ao horisonte. — Aplicações.
+
+III. — GENERALIDADES SOBRE AS SUPERFICIES CURVAS
+
+Generalidades sobre os planos tangentes. — Contornos apparentes.
+
+IV. — PLANOS TANGENTES AO CYLINDRO E AO CONE
+
+Soluções geraes. — Aplicações das soluções geraes. — Problemas diversos.
+
+V. — PLANOS TANGENTES ÁS SUPERFICIES DE REVOLUÇÃO
+
+Principios fundamentaes. — Diversos problemas. — Curvas de contacto com um cone circonscripto de vertice dado; com um cylindro circonscripto parallelo a uma recta dada. — Generalisação do methodo. — Aplicações ao tóro. — Plano tangente tirado por uma recta. — Caso particular.
+VI. — HYPERBOLOIDE DE UMA FOLHA E DE REVOLUÇÃO
+
+Geração. — Propriedades. — Problemas sobre os planos tangentes.
+
+VII. — SECÇÕES PLANAS DO CONE E DO CYLINDRO
+
+Problemas diversos. — Desenvolvimento da superficie. — Transformada da curva de secção. — Tangentes em um ponto da curva de secção e da sua transformada. — Ramos infinitos. — Casos particulares.
+
+VIII. — SECÇÕES PLANAS DAS SUPERFICIES DE REVOLUÇÃO
+
+Diversos problemas. — Pontos de encontro de uma recta e de uma superficie de revolução.
+
+IX. — INTERSECÇÃO DE SUPERFICIES CONICAS E CYLINDRICAS
+
+Problemas diversos. — Casos particulares. — Ramos infinitos das curvas de intersecção. — Determinação dos pontos duplos nas projecções da intersecção de duas superficies do 2.° gráo. — Intersecção de uma superficie de revolução e: 1.° de um cylindro, 2.° de um cone.
+
+X. — INTERSECÇÃO DE DUAS SUPERFICIES DE REVOLUÇÃO
+
+Intersecção de duas superficies de revolução cujos eixos se encontrão. — Intersecção de duas superficies quaesquer do 2.° gráo.
+
+XI. — NOÇÕES SOBRE AS SUPERFICIES REVERSAS
+
+Soluções de alguns problemas relativos: 1.° ao paraboloide-hyperbolico. — 2.° ao hyperboloide de uma folha. — Problemas relativos a superficies regradas quaesquer. — Intersecção de uma superficie reversa e de outra qualquer. — Aplicações das superficies regradas.
+
+XII. — HELICES E SUPERFICIES HELICOIDAES
+
+Definição da helice. — Transformada de uma helice. — Devoluta da secção recta do cylindro e da helice nelle traçada. — Coordenados de um ponto da helice no desenvolvimento. — Subtangente. — Passo. — Espiral.

@@ -1,0 +1,19 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_NEBULOSIDADE",
+        "titulo": "Registro meteorológico de velocidade do vento e nebulosidade (outubro de 1885 a fevereiro de 1886)",
+        "data": "outubro de 1885 a fevereiro de 1886"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Dados de velocidades médias máximas do vento em três intervalos horários (5h-9h, 9h-1h, 1h-5h) e estatísticas de nebulosidade (dias claros, nublados, chuvosos, de nevoeiro) para os meses de setembro de 1885 a fevereiro de 1886."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": []
+    },
+    "pagina_inicio": 179,
+    "pagina_fim": 179
+}

@@ -1,0 +1,28 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_CARTA_ITINERÁRIA_RECTIFICADA_TRACADA_SEGUNDO_A_CAR",
+        "titulo": "CARTA ITINERÁRIA RETIFICADA TRAÇADA SEGUNDO A CARTA DE GERBER",
+        "data": "1879"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "ENGENHEIRO DE MINAS F. DE PAULA OLIVEIRA"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento contendo carta itinerária retificada segundo a carta de Gerber, relatando viagem de exploração da jazida de galena argentífera no Rio Abaeté realizada pelo engenheiro de minas F. de Paula Oliveira em 1879, incluindo cortes verticais nas antigas minas de galena de Meaeté e estudo da zona percorrida de Ouro Preto até o local, com observações geológicas."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "F. DE PAULA OLIVEIRA",
+            "Eschwege",
+            "Montevedo"
+        ],
+        "lugares": [
+            "Rio Abaeté",
+            "Meaeté",
+            "Ribeirão do Chumbo",
+            "Ouro Preto"
+        ]
+    },
+    "pagina_inicio": 180,
+    "pagina_fim": 181
+}

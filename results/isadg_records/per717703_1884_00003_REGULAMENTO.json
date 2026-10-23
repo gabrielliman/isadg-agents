@@ -1,0 +1,28 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_REGULAMENTO",
+        "titulo": "Regulamento n. 80",
+        "data": "21 de março de 1878"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Vice-presidente da Provincia de Minas Gerais"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Estabelece o imposto de 4% sobre o ouro extraído em estabelecimentos de mineração que empreguem mais de vinte e cinco trabalhadores, definindo as formas de pagamento (em espécie ou dinheiro), procedimentos de avaliação, prazos, multas, fiscalização e destinação da receita para construção e manutenção de estradas e pontes na província de Minas Gerais, entrando em vigor em 1º de janeiro de 1879."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "João Capistrano Bandeira de Mello",
+            "Luiz Leopoldo Laranja",
+            "Olympio Oscar de Vilhena Valladão"
+        ],
+        "lugares": [
+            "Palácio da Presidência da Província de Minas Gerais",
+            "Ouro Preto",
+            "Palácio do governo da província de Minas Gerais",
+            "Província de Minas Gerais"
+        ]
+    },
+    "pagina_inicio": 226,
+    "pagina_fim": 226
+}

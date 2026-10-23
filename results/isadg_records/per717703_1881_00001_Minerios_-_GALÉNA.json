@@ -1,0 +1,48 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_Minerios_-_GALÉNA",
+        "titulo": "Relatório de Exploração das Veias de Galena Argentífera do Ribeirão do Chumbo",
+        "data": "Março de 1879"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento aborda observações geológicas sobre os calcários do São Francisco e a possibilidade de sua idade paleozóica, passando a descrever a descoberta e a história das veias de galena argentífera do Ribeirão do Chumbo. Inclui relatos dos primeiros avistamentos por exploradores de diamantes (1777‑1778), a visita de Dr. José Vieira Couto (1800), o envio de amostras para análise pelo Barão de Eschwege (1808‑1812), as expedições de José Soares Roma e de Eschwege (1811‑1812), os trabalhos de João Antônio de Montevedo (1825) e a expedição de exploração realizada pelo autor em março de 1879, detalhando rotas, condições logísticas, características dos veios, teor de chumbo e prata, e os esforços de tratamento metalúrgico."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Dr. José Vieira Couto",
+            "Barão de Eschwege",
+            "José Soares Roma",
+            "João Antônio de Montevedo"
+        ],
+        "lugares": [
+            "Ribeirão do Chumbo",
+            "Capitania de Minas Gerais",
+            "Ouro Preto",
+            "Cachoeira",
+            "Itabira do Campo",
+            "Fazenda da Contenda",
+            "São Gonçalo do Paraopeba",
+            "Macaúbas",
+            "Cidade do Bomfim",
+            "Arraial do rio Manso",
+            "Itatiaiassú",
+            "Sant’Anna do rio São João Acima",
+            "Santo Antônio",
+            "Pitanguy",
+            "Fazenda do Dr. Valladares",
+            "Rio Para",
+            "Abadia",
+            "Porto das Andorinhas",
+            "Cidade do Abaeté",
+            "Fazenda do Barão do Indaiá",
+            "Jatahy",
+            "Rio Borrachudo",
+            "Arra"
+        ]
+    },
+    "pagina_inicio": 61,
+    "pagina_fim": 73
+}

@@ -1,0 +1,32 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Mina_de_cobre_na_cidade_de_Sete-Lagoas",
+        "titulo": "Mina de cobre na cidade de Sete-Lagoas",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição de uma jazida de cobre localizada na fazenda das Melancias, a 3 km S.O. de Sete-Lagoas, incluindo detalhes geológicos (veio de quartzo em xisto e calcário, minerais como malacita, calcopirita, oligisto e galena), dimensões do veio, orientação e inclinação, menção a jazidas de hematita na Lapa do Ferro e outras observações minerais na região."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Quintiliano Pereira da Rocha"
+        ],
+        "lugares": [
+            "Sete-Lagoas",
+            "Fazenda das Melancias",
+            "Lapa do Chumbo",
+            "Lapa do Ferro",
+            "Ouro Preto",
+            "Pitanguy",
+            "Rio Paraopeba",
+            "Rio Pará",
+            "Serra de Itatiaiassú",
+            "Conquista"
+        ]
+    },
+    "pagina_inicio": 132,
+    "pagina_fim": 133
+}

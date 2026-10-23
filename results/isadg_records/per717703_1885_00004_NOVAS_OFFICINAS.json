@@ -1,0 +1,40 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_NOVAS_OFFICINAS",
+        "titulo": "Relatório sobre a Fábrica de Ipanema: novas oficinas de refino, projetos de aciaria e administração",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "L. Dupré"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento descreve a implantação de uma nova oficina de refino à jusante do rio, com aproveitamento de queda de 2 metros através do Canal Novo e represa; menciona a instalação de turbinas e rodas para mover ventilador Hoppe e trem de laminadores; fala da construção de um forno para aço cementado e futuro aciário Bessemer; detalha a administração da fábrica, listando diretores, engenheiros, almoxarife, escriturário, agente, serviços médico e religioso; cita a existência de duas escolas para filhos de operários e a ligação pela Estrada de Ferro Sorocabana."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "J. de S. Mursa",
+            "L. Dupré",
+            "M. F. da Graça Martins",
+            "J. D. da Costa",
+            "J. Bella",
+            "Dr. P. Bourroul",
+            "Fr. J. Santa Delphina Baraúna"
+        ],
+        "lugares": [
+            "Fábrica de Ipanema",
+            "rio Sorocaba",
+            "vale do Ipanema",
+            "rio Abaeté",
+            "ribeirão dos Ferreiros",
+            "lagoa do Marques",
+            "Estrada de Ferro Sorocabana",
+            "Canal Novo",
+            "represa (Est. I, n.° 32)",
+            "oficina de refino",
+            "forno de aço cementado",
+            "aciaria Bessemer"
+        ]
+    },
+    "pagina_inicio": 82,
+    "pagina_fim": 83
+}

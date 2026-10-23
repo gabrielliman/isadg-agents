@@ -1,0 +1,24 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1881_00001_ANALYSE_DO_CARVÃO_—_CAMBOTÁ",
+        "titulo": "Análise do carvão — Cambotá — Espécie = Cupania = Em pregado na fábrica de ferro de Antônio Jânuario em Antônio Pereira.",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Antônio Jânuario"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Documento contendo análises químicas de carvão da espécie Cupania proveniente de Cambotá, realizadas na fábrica de ferro de Antônio Jânuario em Antônio Pereira. Apresenta percentuais de matérias voláteis, carbono fixo, cinzas, quantidade de chumbo reduzido pelas matérias voláteis e pelo carbono fixo, e poder calorífico comparado ao do carbono puro."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Antônio Jânuario"
+        ],
+        "lugares": [
+            "Cambotá",
+            "Antônio Pereira"
+        ]
+    },
+    "pagina_inicio": 154,
+    "pagina_fim": 154
+}

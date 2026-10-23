@@ -1,0 +1,40 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_FERRO",
+        "titulo": "Permitir ao leitor julgar por si mesmo da sua maior ou menor importância. Finalmente, em lugar de descrever minuciosamente alguns processos e trabalhos mediocramente interessantes, procurarei principalmente estudar quais as condições atuais de produção do ferro, ouro e diamante na província de Minas-Geraes",
+        "data": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição detalhada da abundância, riqueza e pureza dos minérios de ferro na província de Minas Gerais, incluindo suas variedades (oligisto arenoso, micáceo, especular, compacto e canga), localizações geográficas (serra do Caraça, Congonhas do Campo, Itabira, Diamantina, etc.), qualidade comparada a minérios internacionais, observações sobre manganês e ausência de fósforo/enxofre, bem como considerações sobre combustíveis (carvão de madeira, lignito) e transportes na região."
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Professor Görceix"
+        ],
+        "lugares": [
+            "Minas Gerais",
+            "Ouro Preto",
+            "Congonhas do Campo",
+            "Cocaes",
+            "Serra do Caraça",
+            "Itabira de Matto Dentro",
+            "Morro do Gaspar Soares",
+            "Serro",
+            "Diamantina",
+            "São Miguel do Piracicabá",
+            "Taquaril",
+            "Serra da Piedade",
+            "Fonseca",
+            "Gandarela",
+            "Rio de Janeiro",
+            "Serra do Espinhaço",
+            "Rio Doce",
+            "Rio São Francisco"
+        ]
+    },
+    "pagina_inicio": 25,
+    "pagina_fim": 52
+}

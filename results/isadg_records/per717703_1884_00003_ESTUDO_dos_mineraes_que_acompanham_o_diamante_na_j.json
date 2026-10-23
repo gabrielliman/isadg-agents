@@ -1,0 +1,36 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_ESTUDO_dos_mineraes_que_acompanham_o_diamante_na_j",
+        "titulo": "Estudo dos minerais que acompanham o diamante na jazida de Salobro, província da Bahia, Brasil",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "H. Gorceix"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento apresenta um estudo dos minerais que acompanham o diamante na jazida de Salobro, situada na província da Bahia, Brasil, elaborado por H. Gorceix. Além disso, aborda a frequência de descobertas de novos depósitos diamantíferos no Brasil, destacando que, nas últimas três décadas, foram feitas descobertas em diversas regiões como São Paulo, Paraná, Caldas, próximo ao Arraial de Cocaes (10 léguas ao norte de Ouro Preto), entre Diamantina e Montes Claros (bacia do Jequitinhonha) e na Serra do Cabral (Minas Gerais). Ressalta a importância das jazidas do Sincoral e observa que a maioria das descobertas resulta do trabalho de garimpeiros, já que não há pesquisas metodológicas sistemáticas."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "H. Gorceix"
+        ],
+        "lugares": [
+            "Salobro",
+            "Bahia",
+            "Brasil",
+            "Sincoral",
+            "São Paulo",
+            "Paraná",
+            "Caldas",
+            "Arraial de Cocaes",
+            "Ouro Preto",
+            "Diamantina",
+            "Montes Claros",
+            "Bacia do Jequitinhonha",
+            "Serra do Cabral",
+            "Minas Gerais"
+        ]
+    },
+    "pagina_inicio": 206,
+    "pagina_fim": 206
+}

@@ -1,0 +1,23 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_PRODUÇÃO_ANNUAL_DOS_METAES_PRECIOSOS_NO_MUNDO_DESD",
+        "titulo": "Produção anual dos metais preciosos no mundo desde o começo do século passado",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Sr. Horatio Burchard"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Dados estatísticos sobre a produção anual de metais preciosos no mundo, apresentados em tabela de médias anuais, extraídos dos relatórios do Sr. Horatio Burchard, diretor da Casa da Moeda dos Estados Unidos."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Sr. Horatio Burchard"
+        ],
+        "lugares": [
+            "Estados Unidos"
+        ]
+    },
+    "pagina_inicio": 155,
+    "pagina_fim": 155
+}

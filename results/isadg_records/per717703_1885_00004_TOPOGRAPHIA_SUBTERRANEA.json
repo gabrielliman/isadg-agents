@@ -1,0 +1,19 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_TOPOGRAPHIA_SUBTERRANEA",
+        "titulo": "Não identificado",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Manual técnico de topografia que aborda o uso da plancheta, pantômetro, sextante, nivelamento (simples, composto, recíproco), instrumentos de nível, topografia subterrânea e traçado de estradas de rodagem, incluindo aplicações de meridiana, hora local, latitude e longitude."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": []
+    },
+    "pagina_inicio": 301,
+    "pagina_fim": 302
+}

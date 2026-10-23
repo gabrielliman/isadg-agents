@@ -1,0 +1,40 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_Do_Santo_Antonio_á_Canna-Brava._—_Rio_do_Somno._—_",
+        "titulo": "Do Santo Antônio à Canna-Brava",
+        "data": "1842"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento descreve a região entre os arraiais de Santo Antônio e Canna-Brava, detalhando a geografia (rios, serras, corrego São Francisco), a história da mineração de diamantes e ouro a partir de 1842, o comércio local, os garimpos abandonados e a transição para atividades agrícolas e pastoris. Também menciona os arraiais de Paredão e Capão-Redondo, as rotas de gado para Bagagem, Sabará e Rio de Janeiro, e características geológicas como xistos, quartzitos e depósitos aluvionares."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Santo Antônio",
+            "Canna-Brava",
+            "rio do Sonho",
+            "rio da Catinga",
+            "Ribeirão do Cachorro",
+            "Paredão",
+            "Capão-Redondo",
+            "serra da Galinha",
+            "serra do Andrequicé",
+            "arraial de Santo Antônio",
+            "arraial da Canna-Brava",
+            "rio Santo Antônio",
+            "rio Canna-Brava",
+            "corrego São Francisco",
+            "Ouro-Preto",
+            "Bagagem",
+            "Sabará",
+            "Rio de Janeiro",
+            "Paracatú",
+            "Barra do rio Santo Antônio"
+        ]
+    },
+    "pagina_inicio": 118,
+    "pagina_fim": 122
+}

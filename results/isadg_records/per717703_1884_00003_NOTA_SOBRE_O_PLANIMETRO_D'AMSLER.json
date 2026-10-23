@@ -1,0 +1,22 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_NOTA_SOBRE_O_PLANIMETRO_D'AMSLER",
+        "titulo": "Nota sobre o Planimetro de Amsler",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "A. Thiré"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Nota descrevendo o planímetro de Amsler, instrumento para medir áreas limitadas por curvas em desenhos, detalhando suas partes (pernas OA e BAC articuladas em A, roleta C, pontas O e B), seu funcionamento com ponto fixo O e percorrimento da curva por B, e a relação das revoluções da roleta com a área, bem como referência à descrição publicada por Mr. Combes nos Annales des Mines (6.ª série, tomo XIX, 1871)."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "A. Thiré",
+            "Mr. Combes"
+        ],
+        "lugares": []
+    },
+    "pagina_inicio": 111,
+    "pagina_fim": 111
+}

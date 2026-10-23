@@ -1,0 +1,27 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_BACIAS_TERCIÁRIAS_D'AGUA_DOCE_NOS_ARREDORES_DE_OUR",
+        "titulo": "Bacias Terciárias d'Água Doce nos Arredores de Ouro Preto (Gandarela e Fonseca) Minas-Gerais - Brazil",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "H. Gorceix"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descrição das bacias terciárias de água doce nos arredores de Ouro Preto, nas regiões de Gandarela e Fonseca, Minas Gerais, Brasil."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "H. Gorceix"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Gandarela",
+            "Fonseca",
+            "Minas Gerais",
+            "Brasil"
+        ]
+    },
+    "pagina_inicio": 89,
+    "pagina_fim": 89
+}

@@ -1,0 +1,36 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1884_00003_NOTICIA_sobre_a_Seorodita_existente_nas_visinhança",
+        "titulo": "NOTÍCIA sobre a Scorodita existente nas vizinhanças do Arraial de Antônio Pereira e sobre a Hydrargillita dos arredores de Ouro Preto",
+        "data": "1884"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "J. C. da Costa Sena"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Artigo descreve a ocorrência de scorodita nas vizinhanças do Arraial de Antônio Pereira e de hydrargillita nos arredores de Ouro Preto, incluindo observações geológicas da região (serra de Ouro Preto, formações de quartzitos, xistos, itabiritos), descrição dos veios de quartzo aurífero, características físicas e químicas dos minerais, referência a trabalhos anteriores de d'Eschwege, Gorceix e outros, e discussão sobre a origem dos minerais por transformação de piritas e ação das águas."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "J. C. da Costa Sena",
+            "Henrique Gorceix",
+            "d'Eschwege",
+            "Haussmann",
+            "Beudant",
+            "des Cloizeaux",
+            "Rose",
+            "Damour"
+        ],
+        "lugares": [
+            "Arraial de Antônio Pereira",
+            "Ouro Preto",
+            "Serra de Ouro Preto",
+            "Serra do Itacolumy",
+            "Rio do Carmo",
+            "Morro do Cruzeiro",
+            "Fábrica de Pólvora"
+        ]
+    },
+    "pagina_inicio": 200,
+    "pagina_fim": 204
+}

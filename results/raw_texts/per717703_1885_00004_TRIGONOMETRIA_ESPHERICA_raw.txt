@@ -1,0 +1,39 @@
+3º ANNO
+
+1º CADEIRA
+
+Trigonometria esphérica, Analyse, Mecanica racional
+
+TRIGONOMETRIA ESPHERICA
+
+Triangulos esphericos.
+
+Relações entre os angulos e os lados de um triangulo espherico.
+
+Do triangulo polar ou supplementar.
+
+Fórmulas relativas aos triangulos rectangulos e aos triangulos rectilateros.
+
+Fórmulas geraes calculaveis por logarithmos.
+
+Fórmulas de Delambre, fórmulas de Neper. — Excesso espherico.
+
+Resolução dos triangulos esphericos rectangulos, rectilateros e triangulos esphericos quaesquer.
+
+Aplicação da trigonometria espherica.
+
+Redução de um angulo ao horizonte, calculo da distancia entre dois pontos da superficie da terra, etc.
+
+CALCULO DIFFERENCIAL
+
+Methodo infinitesimal, principios fundamentaes. — Derivadas. — Significação.
+
+Derivadas das funcções simples, funcções de funcções. Differenciaes. — Representação geometrica da derivada, do accrescimo e da differencial de uma funcção.
+
+Regras da differenciação. — Funcções simples.
+
+Funcções de funcções. — Funcções compostas.
+
+Funcções inversas. — Funcções circulares.
+
+Funcções implicitas. — Funcções de varias variaveis.

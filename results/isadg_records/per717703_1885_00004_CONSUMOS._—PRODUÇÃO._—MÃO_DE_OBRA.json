@@ -1,0 +1,30 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_CONSUMOS._—PRODUÇÃO._—MÃO_DE_OBRA",
+        "titulo": "Não identificado",
+        "data": "Não identificado"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Forja de Ouro Preto"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descreve o processo de produção de ferro em barra em uma forja de Ouro Preto, detalhando as etapas operacionais (aquecimento, formação da bola, trabalho no malho, reaquecimento), o consumo de carvão de madeira e minério (Jucutinga), a produção diária de três operações, os rendimentos de ferro e escórias, a mão de obra envolvida (carvoeiros, menino, operários do forno, malho, servente, carregador de minério), os custos e preços de venda do carvão e do ferro, bem como a relação entre consumo de carvão e produto final."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "servente",
+            "malhador",
+            "foguista",
+            "operário",
+            "carregador de minério",
+            "carvoeiro",
+            "menino"
+        ],
+        "lugares": [
+            "Ouro Preto",
+            "Jucutinga"
+        ]
+    },
+    "pagina_inicio": 171,
+    "pagina_fim": 172
+}

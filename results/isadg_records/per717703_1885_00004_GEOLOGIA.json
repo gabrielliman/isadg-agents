@@ -1,0 +1,32 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_GEOLOGIA",
+        "titulo": "Descrição geológica da jazida de minério de ferro de Ipanema",
+        "data": "Não identificado"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento descreve a jazida de minério de ferro de Ipanema, localizada na vertente ocidental do morro Araçoyaba, a aproximadamente 300 metros acima das oficinas metalúrgicas, na depressão onde nasce o ribeirão do Ferro (antigo ribeirão das Furnas), tributário do rio Sorocaba. Detalha a estratigrafia local, com um andar superior de xisto argiloso (possivelmente tauá de Goiás) e um andar inferior de gres duro e compacto, possivelmente devoniano, cuja ausência de fósseis gera dúvidas sobre sua idade, sendo comparado a formações carboníferas da região de Tatuhy. Menciona a presença de dioritos (pedra verde) no leito do rio Verde e na vertente oriental da montanha, bem como uma grande pedreira calcária que produz cal para construção. Descreve ainda um gres mole e refratário utilizado na construção da camisa interior dos fornos altos, e observa a variedade de cores do gres (branco, azul, vermelho) e suas aplicações (rebolos, pedras de afiar). Faz referência à geologia do planalto central de Minas Gerais e a ocorrência de depósitos de ouro e cobre em outras regiões do Brasil."
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Não identificado"
+    },
+    "area_pontos_acesso": {
+        "pessoas": [],
+        "lugares": [
+            "Ipanema",
+            "morro Araçoyaba",
+            "ribeirão do Ferro (ribeirão das Furnas)",
+            "rio Sorocaba",
+            "Província de S. Paulo",
+            "Província de Goiás",
+            "Tatuhy",
+            "rio Verde",
+            "rio Ipanema",
+            "rio Jaurú",
+            "Província de Mato-Grosso",
+            "planalto central de Minas Gerais"
+        ]
+    },
+    "pagina_inicio": 48,
+    "pagina_fim": 49
+}

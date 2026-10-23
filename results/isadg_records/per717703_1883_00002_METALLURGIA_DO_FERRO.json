@@ -1,0 +1,30 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1883_00002_METALLURGIA_DO_FERRO",
+        "titulo": "METALLURGIA DO FERRO O MÉTODO CATALÃO NOS ESTADOS-UNIDOS",
+        "data": "1874747"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "J. Arthur Phillips"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "Descreve o método catalão de produção de ferro aplicado nos Estados Unidos, detalhando a disposição dos fornos, alimentação com ar quente, diferenças de carregamento em relação às forjas catalãs dos Pireneus, dados de produção (usina de Ticonderoga em 1874 com 1.000 toneladas), consumo de energia e aproveitamento de calor residual."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Lowthian Bell",
+            "J. Arthur Phillips"
+        ],
+        "lugares": [
+            "Vermont",
+            "Marquette",
+            "Carp River",
+            "Ticonderoga",
+            "Lagoa Champlain",
+            "Pireneus",
+            "Estados Unidos"
+        ]
+    },
+    "pagina_inicio": 151,
+    "pagina_fim": 153
+}

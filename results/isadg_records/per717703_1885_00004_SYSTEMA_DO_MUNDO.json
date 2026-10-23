@@ -1,0 +1,28 @@
+{
+    "area_identificacao": {
+        "codigo_referencia": "BR MG-EMOP per717703_1885_00004_SYSTEMA_DO_MUNDO",
+        "titulo": "Globo lunar; estudo de sua superfície",
+        "data": "Outubro de 1885"
+    },
+    "area_contextualizacao": {
+        "nome_produtor": "Antonio Olyntho dos Santos Pires, Lente interino da cadeira"
+    },
+    "area_conteudo_estrutura": {
+        "ambito_e_conteudo": "O documento aborda o estudo da superfície lunar, eclipses lunares e solares, calendários lunar e solar, reformas juliana e gregoriana, calendário republicano, sistemas de Ptolomeu e Copérnico, movimento aparente e fases dos planetas, leis de Kepler e atração universal, resumo do sistema solar incluindo Mercúrio, Vênus, Marte, asteroides, Júpiter, Saturno, Urano, Netuno, cometas (aspecto, movimento, luz, coma e cauda), estrelas cadentes, bólidos, aerólitos, estrelas coloridas, periódicas, variáveis, temporárias, duplas e múltiplas, nebulosas não resolvidas, hipótese de Laplace e a Via Láctea."
+    },
+    "area_pontos_acesso": {
+        "pessoas": [
+            "Ptolomeu",
+            "Copérnico",
+            "Kepler",
+            "Laplace",
+            "Antonio Olyntho dos Santos Pires"
+        ],
+        "lugares": [
+            "Escola de Minas de Ouro Preto",
+            "Via Láctea"
+        ]
+    },
+    "pagina_inicio": 222,
+    "pagina_fim": 222
+}
